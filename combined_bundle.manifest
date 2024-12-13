@@ -1,0 +1,162 @@
+ManifestFileVersion: 0
+CRC: 349272269
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51fcd9d58872eef78f2733699159052d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 129e718c05d84c4cf1bb7c9385f82260
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 51fcd9d58872eef78f2733699159052d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleResources/Sprites/Equips/BattleAxeEmerald.asset
+- Assets/AssetBundleResources/Sprites/Items/DimensionKey.png
+- Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceRadiant.asset
+- Assets/AssetBundleResources/Sprites/Monsters/TallSlime.png
+- Assets/AssetBundleResources/Sprites/Monsters/Slime.png
+- Assets/AssetBundleResources/Sprites/Items/SummonStoneWood.png
+- Assets/AssetBundleResources/Animators/Monsters/Venoshroom.overrideController
+- Assets/AssetBundleResources/Animators/Monsters/QueenSlime.overrideController
+- Assets/AssetBundleResources/Sprites/Equips/DaggerIridescence.asset
+- Assets/AssetBundleResources/Sprites/Items/SummonStone.png
+- Assets/AssetBundleResources/Animators/Monsters/WildFang.overrideController
+- Assets/AssetBundleResources/Sprites/Equips/DaggerOld.asset
+- Assets/AssetBundleResources/Sprites/Equips/StarNecklace.asset
+- Assets/AssetBundleResources/Sprites/Equips/WoodSpearJade.asset
+- Assets/AssetBundleResources/Sprites/Equips/WoodSpearSprouting.asset
+- Assets/AssetBundleResources/Sprites/Items/Gold.png
+- Assets/AssetBundleResources/Sprites/Equips/OldShield.asset
+- Assets/AssetBundleResources/Sprites/Equips/ShieldFlameGuardian.asset
+- Assets/AssetBundleResources/Animators/Projectiles/Leaf_Idle.anim
+- Assets/AssetBundleResources/Animators/Projectiles/Water_Idle.anim
+- Assets/AssetBundleResources/Sprites/Titles/TitleB.png
+- Assets/AssetBundleResources/Animators/Monsters/Slime.overrideController
+- Assets/AssetBundleResources/Animators/Projectiles/SlimeBall_Idle.anim
+- Assets/AssetBundleResources/Animators/Projectiles/Thread.controller
+- Assets/AssetBundleResources/Sprites/Equips/ShieldRainbowMagic.asset
+- Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceGuardian.asset
+- Assets/AssetBundleResources/Sprites/Items/DemonChest.png
+- Assets/AssetBundleResources/Animators/Canvas/TutorialSlime.controller
+- Assets/AssetBundleResources/Animators/Canvas/StartScreenSlime_Idle.anim
+- Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceGem.asset
+- Assets/AssetBundleResources/Sprites/Equips/MucusSwordEX.asset
+- Assets/AssetBundleResources/Animators/Projectiles/Fire.controller
+- Assets/AssetBundleResources/Sprites/Equips/ArmorRainbowMagic.asset
+- Assets/AssetBundleResources/Animators/Monsters/SlimeCube.overrideController
+- Assets/AssetBundleResources/Sprites/Equips/MucusSword.asset
+- Assets/AssetBundleResources/Sprites/Monsters/Dragon.png
+- Assets/AssetBundleResources/Sprites/Items/ArenaKey.png
+- Assets/AssetBundleResources/Sprites/Equips/SilverNecklace.asset
+- Assets/AssetBundleResources/Animators/Monsters/Mushroom.overrideController
+- Assets/AssetBundleResources/Sprites/Items/SummonStoneLight.png
+- Assets/AssetBundleResources/Sprites/Equips/DaggerWhiteSteel.asset
+- Assets/AssetBundleResources/Sprites/Items/SummonStoneFire.png
+- Assets/AssetBundleResources/Sprites/Monsters/QueenSlime.png
+- Assets/AssetBundleResources/Sprites/Equips/ArmorGolden.asset
+- Assets/AssetBundleResources/Sprites/Equips/ShieldOld.asset
+- Assets/AssetBundleResources/Animators/Monsters/Florage.overrideController
+- Assets/AssetBundleResources/Sprites/Equips/ShieldThunderlight.asset
+- Assets/AssetBundleResources/Sprites/Equips/WhiteSteelArmor.asset
+- Assets/AssetBundleResources/Sprites/Items/SummonStoneWater.png
+- Assets/AssetBundleResources/Animators/Projectiles/SlimeBall.controller
+- Assets/AssetBundleResources/Sprites/Equips/FIreSwordGlareEX.asset
+- Assets/AssetBundleResources/Sprites/Equips/MucusArmorEX.asset
+- Assets/AssetBundleResources/Sprites/Equips/MucusShieldEX.asset
+- Assets/AssetBundleResources/Animators/Monsters/GoldGolem.overrideController
+- Assets/AssetBundleResources/Animators/Canvas/TutorialSlime_Idle.anim
+- Assets/AssetBundleResources/Sprites/Items/LapisChest.png
+- Assets/AssetBundleResources/Sprites/Equips/ArmorOld.asset
+- Assets/AssetBundleResources/Sprites/Equips/FIreSwordGlare.asset
+- Assets/AssetBundleResources/Sprites/Equips/WhiteSteelShield.asset
+- Assets/AssetBundleResources/Sprites/Equips/OldArmor.asset
+- Assets/AssetBundleResources/Animators/Monsters/CrystalGolem.overrideController
+- Assets/AssetBundleResources/Animators/Projectiles/SlimeBall.png
+- Assets/AssetBundleResources/Sprites/Equips/WhiteSteelArmorEX.asset
+- Assets/AssetBundleResources/Animators/Projectiles/Shot_Idle.anim
+- Assets/AssetBundleResources/Sprites/Items/WoodsteelChest.png
+- Assets/AssetBundleResources/Sprites/Equips/SlimeSword.asset
+- Assets/AssetBundleResources/Sprites/Equips/WoodSpearForestGuardian.asset
+- Assets/AssetBundleResources/Sprites/Equips/ArmorThunderlight.asset
+- Assets/AssetBundleResources/Animators/Projectiles/Water.controller
+- Assets/AssetBundleResources/Sprites/Monsters/KingSlime.png
+- Assets/AssetBundleResources/Sprites/Items/GoldDungeonKey.png
+- Assets/AssetBundleResources/Animators/Monsters/SlimeFly.overrideController
+- Assets/AssetBundleResources/Animators/Projectiles/Air_Idle.anim
+- Assets/AssetBundleResources/Sprites/Equips/DaggerGold.asset
+- Assets/AssetBundleResources/Sprites/Monsters/SlimeFly.png
+- Assets/AssetBundleResources/Sprites/Equips/WhiteSteelShieldEX.asset
+- Assets/AssetBundleResources/Animators/Projectiles/Leaf.controller
+- Assets/AssetBundleResources/Sprites/Items/Dia.png
+- Assets/AssetBundleResources/Animators/Monsters/Dragon.overrideController
+- Assets/AssetBundleResources/Sprites/Equips/FIreSword.asset
+- Assets/AssetBundleResources/Sprites/Equips/FIreSwordHot.asset
+- Assets/AssetBundleResources/Animators/Monsters/LeafImp.overrideController
+- Assets/AssetBundleResources/Sprites/Equips/ShieldGolden.asset
+- Assets/AssetBundleResources/Sprites/Equips/BlueNecklace.asset
+- Assets/AssetBundleResources/Animators/Canvas/StartScreenSlime.controller
+- Assets/AssetBundleResources/Sprites/Equips/BattleAxeWhiteSteel.asset
+- Assets/AssetBundleResources/Sprites/Equips/ArmorFlameGuardian.asset
+- Assets/AssetBundleResources/Sprites/Items/RadiantChest.png
+- Assets/AssetBundleResources/Sprites/Items/SummonStoneDark.png
+- Assets/AssetBundleResources/Animators/Projectiles/Air.controller
+- Assets/AssetBundleResources/Sprites/Equips/BattleAxeIridescence.asset
+- Assets/AssetBundleResources/Animators/Canvas/Dragon_Idle.anim
+- Assets/AssetBundleResources/Sprites/Items/TowerDungeonKey.png
+- Assets/AssetBundleResources/Sprites/Equips/WoodSpearSpirit.asset
+- Assets/AssetBundleResources/Sprites/Items/SpeedupSand.png
+- Assets/AssetBundleResources/Animators/Monsters/KingSlime.overrideController
+- Assets/AssetBundleResources/Animators/Projectiles/Wind_Idle.anim
+- Assets/AssetBundleResources/Animators/Projectiles/Fire_Idle.anim
+- Assets/AssetBundleResources/Sprites/Equips/MucusArmor.asset
+- Assets/AssetBundleResources/Sprites/Items/IronChest.png
+- Assets/AssetBundleResources/Sprites/Effects/Burn.png
+- Assets/AssetBundleResources/Sprites/Equips/OldDagger.asset
+- Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceMoon.asset
+- Assets/AssetBundleResources/Animators/Canvas/Dragon.controller
+- Assets/AssetBundleResources/Animators/Monsters/GoldenBox.overrideController
+- Assets/AssetBundleResources/Sprites/Equips/MucusShield.asset
+- Assets/AssetBundleResources/Sprites/Equips/ArmorBlazing.asset
+- Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceCrystal.asset
+- Assets/AssetBundleResources/Sprites/Items/LootDungeonKey.png
+- Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceHoly.asset
+- Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceWing.asset
+- Assets/AssetBundleResources/Animators/Monsters/Common.controller
+- Assets/AssetBundleResources/Sprites/Equips/FIreSwordCrimson.asset
+- Assets/AssetBundleResources/Sprites/Equips/ArmorDarkSteel.asset
+- Assets/AssetBundleResources/Sprites/Equips/SlimeShield.asset
+- Assets/AssetBundleResources/Sprites/Equips/ShieldBlazing.asset
+- Assets/AssetBundleResources/Sprites/Equips/SlimeArmor.asset
+- Assets/AssetBundleResources/Animators/Projectiles/Shot.controller
+- Assets/AssetBundleResources/Sprites/Equips/BattleAxeOld.asset
+- Assets/AssetBundleResources/Animators/Projectiles/Thread_Idle.anim
+- Assets/AssetBundleResources/Animators/Monsters/AstralGolem.overrideController
+- Assets/AssetBundleResources/Animators/Projectiles/Wind.controller
+- Assets/AssetBundleResources/Sprites/Items/Exp.png
+- Assets/AssetBundleResources/Sprites/Monsters/SlimeCannon.png
+- Assets/AssetBundleResources/Sprites/Equips/ShieldDarkSteel.asset
+- Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
+- Assets/AssetBundleResources/Sprites/Equips/BattleAxeGoldenGreat.asset
+- Assets/AssetBundleResources/Sprites/Titles/TitleA.png
+- Assets/AssetBundleResources/Animators/Monsters/ElderWood.overrideController
+- Assets/AssetBundleResources/Sprites/Equips/DaggerEmerald.asset
+- Assets/AssetBundleResources/Sprites/Equips/WoodSpearSacredPoison.asset
+- Assets/AssetBundleResources/Animators/Monsters/SlimeCannon.overrideController
+- Assets/AssetBundleResources/Animators/Monsters/TallSlime.overrideController
+Dependencies: []
