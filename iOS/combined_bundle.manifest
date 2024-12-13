@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 159566986
+CRC: 3025451001
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f8d7087656d822c271bde31aab691e06
+    Hash: 0c08ed44f6187e31aa1ce9dc80f7badf
   TypeTreeHash:
     serializedVersion: 2
     Hash: 129e718c05d84c4cf1bb7c9385f82260
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f8d7087656d822c271bde31aab691e06
+    Hash: 0c08ed44f6187e31aa1ce9dc80f7badf
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -157,7 +157,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/SlimeCannon.png
 - Assets/AssetBundleResources/Sprites/Equips/ShieldDarkSteel.asset
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
-- Assets/AssetBundleResources/Sprites/Equips/BattleAxeGoldenGreat.asset
+- Assets/AssetBundleResources/Sprites/Equips/BattleAxeGold.asset
 - Assets/AssetBundleResources/Sprites/Titles/TitleA.png
 - Assets/AssetBundleResources/Animators/Monsters/ElderWood.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/DaggerEmerald.asset
