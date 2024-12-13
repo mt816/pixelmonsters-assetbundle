@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1813561056
+CRC: 159566986
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a15967768363e4894760a50a73a46863
+    Hash: f8d7087656d822c271bde31aab691e06
   TypeTreeHash:
     serializedVersion: 2
     Hash: 129e718c05d84c4cf1bb7c9385f82260
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a15967768363e4894760a50a73a46863
+    Hash: f8d7087656d822c271bde31aab691e06
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -54,7 +54,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceGuardian.asset
 - Assets/AssetBundleResources/Sprites/Items/DemonChest.png
 - Assets/AssetBundleResources/Animators/Canvas/TutorialSlime.controller
-- Assets/AssetBundleResources/Sprites/Monsters/Golem_Yellow_Idle.png
+- Assets/AssetBundleResources/Sprites/Monsters/GoldGolem.png
 - Assets/AssetBundleResources/Animators/Canvas/StartScreenSlime_Idle.anim
 - Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceGem.asset
 - Assets/AssetBundleResources/Sprites/Equips/MucusSwordEX.asset
@@ -62,9 +62,9 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/ArmorRainbowMagic.asset
 - Assets/AssetBundleResources/Animators/Monsters/SlimeCube.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/MucusSword.asset
-- Assets/AssetBundleResources/Sprites/Monsters/Dragon.png
-- Assets/AssetBundleResources/Sprites/Monsters/Golem_Blue_Idle.png
+- Assets/AssetBundleResources/Sprites/Monsters/AstralGolem.png
 - Assets/AssetBundleResources/Sprites/Items/ArenaKey.png
+- Assets/AssetBundleResources/Sprites/Monsters/Dragon.png
 - Assets/AssetBundleResources/Sprites/Equips/SilverNecklace.asset
 - Assets/AssetBundleResources/Animators/Monsters/Mushroom.overrideController
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneLight.png
