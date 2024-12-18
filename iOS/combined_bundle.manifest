@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1770393510
+CRC: 1516058685
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2390bd9e75378e6f65fd1f9fabc87ce4
+    Hash: 9e6187aeb8bed6a0c9994d3eb376256e
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2390bd9e75378e6f65fd1f9fabc87ce4
+    Hash: 9e6187aeb8bed6a0c9994d3eb376256e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -73,7 +73,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/StarNecklace.asset
 - Assets/AssetBundleResources/Prefabs/Skills/HolyProtection.prefab
 - Assets/AssetBundleResources/Sprites/Equips/OldShield.asset
-- Assets/Resources/Sprites/Effects/Poison.png
+- Assets/AssetBundleResources/Sprites/Effects/Poison.png
 - Assets/AssetBundleResources/Sprites/Items/Gold.png
 - Assets/AssetBundleResources/Sprites/Equips/WoodSpearSprouting.asset
 - Assets/AssetBundleResources/Sprites/Equips/ShieldFlameGuardian.asset
@@ -119,7 +119,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/MucusArmorEX.asset
 - Assets/AssetBundleResources/Sprites/Equips/MucusShieldEX.asset
 - Assets/AssetBundleResources/Prefabs/Skills/Earthquake.prefab
-- Assets/Resources/Sprites/Effects/ATK.png
+- Assets/AssetBundleResources/Sprites/Effects/ATK.png
 - Assets/AssetBundleResources/Animators/Monsters/GoldGolem.overrideController
 - Assets/AssetBundleResources/Animators/Canvas/TutorialSlime_Idle.anim
 - Assets/AssetBundleResources/Sprites/Items/LapisChest.png
@@ -143,12 +143,12 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Items/GoldDungeonKey.png
 - Assets/AssetBundleResources/Animators/Monsters/SlimeFly.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Air_Idle.anim
+- Assets/AssetBundleResources/Sprites/Effects/Stun.png
 - Assets/AssetBundleResources/Sprites/Equips/DaggerGold.asset
-- Assets/AssetBundleResources/Sprites/Monsters/SlimeFly.png
 - Assets/AssetBundleResources/Sprites/Equips/WhiteSteelShieldEX.asset
 - Assets/AssetBundleResources/Animators/Projectiles/Leaf.controller
+- Assets/AssetBundleResources/Sprites/Monsters/SlimeFly.png
 - Assets/AssetBundleResources/Sprites/Items/Dia.png
-- Assets/Resources/Sprites/Effects/Stun.png
 - Assets/AssetBundleResources/Prefabs/Skills/CycloneSpiral.prefab
 - Assets/AssetBundleResources/Animators/Monsters/Dragon.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/Thunder.prefab
@@ -178,7 +178,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/MucusArmor.asset
 - Assets/AssetBundleResources/Sprites/Items/IronChest.png
 - Assets/AssetBundleResources/Sprites/Items/AdSkipIndefinitely.png
-- Assets/Resources/Sprites/Effects/Burn.png
+- Assets/AssetBundleResources/Sprites/Effects/Burn.png
 - Assets/AssetBundleResources/Sprites/Equips/OldDagger.asset
 - Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceMoon.asset
 - Assets/AssetBundleResources/Animators/Canvas/Dragon.controller
@@ -190,7 +190,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Items/LootDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceHoly.asset
 - Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceWing.asset
-- Assets/Resources/Sprites/Effects/DEF.png
+- Assets/AssetBundleResources/Sprites/Effects/DEF.png
 - Assets/AssetBundleResources/Animators/Monsters/Common.controller
 - Assets/AssetBundleResources/Sprites/Equips/FIreSwordCrimson.asset
 - Assets/AssetBundleResources/Sprites/Equips/ArmorDarkSteel.asset
@@ -198,7 +198,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/BigSlime.png
 - Assets/AssetBundleResources/Sprites/Equips/ShieldBlazing.asset
 - Assets/AssetBundleResources/Sprites/Equips/SlimeArmor.asset
-- Assets/Resources/Sprites/Effects/Slow.png
+- Assets/AssetBundleResources/Sprites/Effects/Slow.png
 - Assets/AssetBundleResources/Animators/Projectiles/Shot.controller
 - Assets/AssetBundleResources/Sprites/Equips/BattleAxeOld.asset
 - Assets/AssetBundleResources/Prefabs/Skills/DominateChain.prefab
