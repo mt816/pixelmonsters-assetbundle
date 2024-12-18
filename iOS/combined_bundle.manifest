@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1516058685
+CRC: 4021332824
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9e6187aeb8bed6a0c9994d3eb376256e
+    Hash: a2dfcb8ec482712b5871740431764560
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9e6187aeb8bed6a0c9994d3eb376256e
+    Hash: a2dfcb8ec482712b5871740431764560
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -81,6 +81,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Water_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Effects/StunEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Titles/TitleB.png
+- Assets/AssetBundleResources/Sprites/Monsters/MachineGolem.png
 - Assets/AssetBundleResources/Animators/Monsters/Slime.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/SlimeBall_Idle.anim
 - Assets/AssetBundleResources/Animators/Projectiles/Thread.controller
@@ -119,6 +120,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/MucusArmorEX.asset
 - Assets/AssetBundleResources/Sprites/Equips/MucusShieldEX.asset
 - Assets/AssetBundleResources/Prefabs/Skills/Earthquake.prefab
+- Assets/AssetBundleResources/Animators/Monsters/MachineGolem.overrideController
 - Assets/AssetBundleResources/Sprites/Effects/ATK.png
 - Assets/AssetBundleResources/Animators/Monsters/GoldGolem.overrideController
 - Assets/AssetBundleResources/Animators/Canvas/TutorialSlime_Idle.anim
