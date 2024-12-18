@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4054348925
+CRC: 1770393510
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b7d89e9de102f3c3ec559a53b4d3882a
+    Hash: 2390bd9e75378e6f65fd1f9fabc87ce4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c84cb97acec5394b72f2529591ea013
+    Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b7d89e9de102f3c3ec559a53b4d3882a
+    Hash: 2390bd9e75378e6f65fd1f9fabc87ce4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -42,8 +42,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
-- Class: 210
-  Script: {instanceID: 0}
 - Class: 212
   Script: {instanceID: 0}
 - Class: 213
@@ -52,7 +50,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundleResources/Prefabs/VFX/DeathVFXPrefab.prefab
+- Assets/AssetBundleResources/Prefabs/Effects/DeathEffectPrefab.prefab
 - Assets/AssetBundleResources/Prefabs/Effects/PoisonEffectPrefab.prefab
 - Assets/AssetBundleResources/Animators/Monsters/TallSlime.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/SlimeCannon.overrideController
@@ -105,7 +103,6 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/SilverNecklace.asset
 - Assets/AssetBundleResources/Animators/Monsters/Mushroom.overrideController
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneLight.png
-- Assets/AssetBundleResources/Prefabs/VFX/SpawnPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Equips/DaggerWhiteSteel.asset
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneFire.png
 - Assets/AssetBundleResources/Sprites/Monsters/QueenSlime.png
