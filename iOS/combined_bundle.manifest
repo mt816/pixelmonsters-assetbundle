@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 799352412
+CRC: 65558067
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 21931624fb13d3ac6a67e87b592bc3a0
+    Hash: ce2e7aa5fa85784a76603dcd4365d3fb
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 21931624fb13d3ac6a67e87b592bc3a0
+    Hash: ce2e7aa5fa85784a76603dcd4365d3fb
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -179,7 +179,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/WhiteSteelArmor.asset
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneWater.png
 - Assets/AssetBundleResources/Animators/Projectiles/SlimeBall.controller
-- Assets/AssetBundleResources/Animators/Projectiles/Wood_Idle.anim
+- Assets/AssetBundleResources/Animators/Projectiles/Wind_Idle.anim
 - Assets/AssetBundleResources/Sprites/Equips/MucusArmorEX.asset
 - Assets/AssetBundleResources/Prefabs/Skills/Earthquake.prefab
 - Assets/AssetBundleResources/Animators/Monsters/MachineGolem.overrideController
@@ -211,7 +211,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/BattleAxeIridescence.asset
 - Assets/AssetBundleResources/Animators/Canvas/Dragon_Idle.anim
 - Assets/AssetBundleResources/Sprites/Monsters/CrystalGolem.png
-- Assets/AssetBundleResources/Animators/Projectiles/Wind_Idle.anim
+- Assets/AssetBundleResources/Animators/Projectiles/Wood_Idle.anim
 - Assets/AssetBundleResources/Sprites/Equips/MucusArmor.asset
 - Assets/AssetBundleResources/Prefabs/Effects/SlowEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Items/IronChest.png
