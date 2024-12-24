@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3109901019
+CRC: 3694901514
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4a8a7f051a739584d0eeb22a2491fe5e
+    Hash: 22e00cf8f938ec8b5ed5e44690d84e52
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4a8a7f051a739584d0eeb22a2491fe5e
+    Hash: 22e00cf8f938ec8b5ed5e44690d84e52
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -221,14 +221,16 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/WindBladeVortex.prefab
 - Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceHoly.asset
 - Assets/AssetBundleResources/Sprites/Effects/DEF.png
+- Assets/AssetBundleResources/Sprites/Monsters/HornRabbit.png
 - Assets/AssetBundleResources/Sprites/Equips/FIreSwordCrimson.asset
 - Assets/AssetBundleResources/Sprites/Equips/ShieldBlazing.asset
 - Assets/AssetBundleResources/Sprites/Equips/SlimeArmor.asset
 - Assets/AssetBundleResources/Animators/Projectiles/Thread_Idle.anim
 - Assets/AssetBundleResources/Animators/Monsters/AstralGolem.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Wind.controller
-- Assets/AssetBundleResources/Sprites/Titles/TitleA.png
+- Assets/AssetBundleResources/Animators/Monsters/HornRabbit.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/ShieldDarkSteel.asset
+- Assets/AssetBundleResources/Sprites/Titles/TitleA.png
 - Assets/AssetBundleResources/Sprites/Equips/BattleAxeGold.asset
 - Assets/AssetBundleResources/Sprites/Equips/DaggerEmerald.asset
 - Assets/AssetBundleResources/Animators/Monsters/SlimeCannon.overrideController
