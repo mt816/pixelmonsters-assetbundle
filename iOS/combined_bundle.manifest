@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3694901514
+CRC: 1283763322
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 22e00cf8f938ec8b5ed5e44690d84e52
+    Hash: 416b47d60f864409e8f9e9ebea8cc4e1
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 22e00cf8f938ec8b5ed5e44690d84e52
+    Hash: 416b47d60f864409e8f9e9ebea8cc4e1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -75,14 +75,17 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/ArmorRainbowMagic.asset
 - Assets/AssetBundleResources/Sprites/Items/ArenaKey.png
 - Assets/AssetBundleResources/Animators/Monsters/SlimeCube.overrideController
-- Assets/AssetBundleResources/Sprites/Monsters/WoodElement.png
+- Assets/AssetBundleResources/Sprites/Equips/BowEmerald.asset
 - Assets/AssetBundleResources/Sprites/Monsters/AstralGolem.png
+- Assets/AssetBundleResources/Sprites/Monsters/WoodElement.png
 - Assets/AssetBundleResources/Sprites/Equips/SilverNecklace.asset
 - Assets/AssetBundleResources/Sprites/Monsters/QueenSlime.png
 - Assets/AssetBundleResources/Prefabs/Skills/DragonBreath.prefab
-- Assets/AssetBundleResources/Sprites/Equips/FIreSwordGlareEX.asset
+- Assets/AssetBundleResources/Sprites/Equips/CrestShield.asset
+- Assets/AssetBundleResources/Sprites/Equips/SteelShield.asset
 - Assets/AssetBundleResources/Sprites/Equips/MucusShieldEX.asset
 - Assets/AssetBundleResources/Sprites/Monsters/FireElement.png
+- Assets/AssetBundleResources/Sprites/Equips/EtherealShield.asset
 - Assets/AssetBundleResources/Animators/Canvas/TutorialSlime_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Skills/TempestStorm.prefab
 - Assets/AssetBundleResources/Sprites/Equips/FIreSwordGlare.asset
@@ -107,6 +110,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Effects/PowerDownEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Equips/ArmorFlameGuardian.asset
 - Assets/AssetBundleResources/Sprites/Equips/BattleAxeWhiteSteel.asset
+- Assets/AssetBundleResources/Sprites/Equips/BowIridescence.asset
 - Assets/AssetBundleResources/Animators/Projectiles/Air.controller
 - Assets/AssetBundleResources/Sprites/Items/TowerDungeonKey.png
 - Assets/AssetBundleResources/Prefabs/Skills/EarthRumbling.prefab
@@ -123,6 +127,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceCrystal.asset
 - Assets/AssetBundleResources/Sprites/Items/LootDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceWing.asset
+- Assets/AssetBundleResources/Sprites/Equips/BowGold.asset
 - Assets/AssetBundleResources/Animators/Monsters/Common.controller
 - Assets/AssetBundleResources/Sprites/Equips/ArmorDarkSteel.asset
 - Assets/AssetBundleResources/Sprites/Equips/SlimeShield.asset
@@ -152,7 +157,6 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Effects/BurnEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Equips/WoodSpearJade.asset
 - Assets/AssetBundleResources/Sprites/Equips/WoodSpearSprouting.asset
-- Assets/AssetBundleResources/Sprites/Equips/OldShield.asset
 - Assets/AssetBundleResources/Animators/Projectiles/Leaf_Idle.anim
 - Assets/AssetBundleResources/Sprites/Monsters/MachineGolem.png
 - Assets/AssetBundleResources/Animators/Monsters/Slime.overrideController
@@ -172,7 +176,6 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneFire.png
 - Assets/AssetBundleResources/Prefabs/Skills/Fangslash.prefab
 - Assets/AssetBundleResources/Sprites/Equips/ArmorGolden.asset
-- Assets/AssetBundleResources/Sprites/Equips/ShieldOld.asset
 - Assets/AssetBundleResources/Animators/Monsters/Florage.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/WoodElemental.png
 - Assets/AssetBundleResources/Sprites/Equips/ShieldThunderlight.asset
@@ -181,6 +184,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/SlimeBall.controller
 - Assets/AssetBundleResources/Animators/Projectiles/Wind_Idle.anim
 - Assets/AssetBundleResources/Sprites/Equips/MucusArmorEX.asset
+- Assets/AssetBundleResources/Sprites/Equips/OldShield.asset
 - Assets/AssetBundleResources/Prefabs/Skills/Earthquake.prefab
 - Assets/AssetBundleResources/Animators/Monsters/MachineGolem.overrideController
 - Assets/AssetBundleResources/Sprites/Effects/ATK.png
@@ -191,6 +195,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/WhiteSteelShield.asset
 - Assets/AssetBundleResources/Sprites/Equips/WhiteSteelArmorEX.asset
 - Assets/AssetBundleResources/Sprites/Items/WoodsteelChest.png
+- Assets/AssetBundleResources/Sprites/Equips/BowWhiteSteel.asset
 - Assets/AssetBundleResources/Sprites/Equips/WoodSpearForestGuardian.asset
 - Assets/AssetBundleResources/Animators/Monsters/BigSlime.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Water.controller
@@ -206,7 +211,6 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneDark.png
 - Assets/AssetBundleResources/Animators/Canvas/StartScreenSlime.controller
 - Assets/AssetBundleResources/Sprites/Items/RadiantChest.png
-- Assets/AssetBundleResources/Sprites/Equips/FIreSword.asset
 - Assets/AssetBundleResources/Animators/Monsters/FireElemental.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/BattleAxeIridescence.asset
 - Assets/AssetBundleResources/Animators/Canvas/Dragon_Idle.anim
@@ -219,6 +223,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Effects/Burn.png
 - Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceMoon.asset
 - Assets/AssetBundleResources/Prefabs/Skills/WindBladeVortex.prefab
+- Assets/AssetBundleResources/Sprites/Equips/LunarShield.asset
 - Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceHoly.asset
 - Assets/AssetBundleResources/Sprites/Effects/DEF.png
 - Assets/AssetBundleResources/Sprites/Monsters/HornRabbit.png
@@ -232,6 +237,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/ShieldDarkSteel.asset
 - Assets/AssetBundleResources/Sprites/Titles/TitleA.png
 - Assets/AssetBundleResources/Sprites/Equips/BattleAxeGold.asset
+- Assets/AssetBundleResources/Sprites/Equips/BowOld.asset
 - Assets/AssetBundleResources/Sprites/Equips/DaggerEmerald.asset
 - Assets/AssetBundleResources/Animators/Monsters/SlimeCannon.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/Speedster.prefab
