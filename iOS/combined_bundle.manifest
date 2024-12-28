@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2109447156
+CRC: 2852914600
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 21dbe11ed82eb534cc0fa6aa8945b5ea
+    Hash: e702eb6e1c332b870c0a02ecc495ca10
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 21dbe11ed82eb534cc0fa6aa8945b5ea
+    Hash: e702eb6e1c332b870c0a02ecc495ca10
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -54,6 +54,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/BattleAxeEmerald.asset
 - Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceRadiant.asset
 - Assets/AssetBundleResources/Sprites/Monsters/TallSlime.png
+- Assets/AssetBundleResources/Sprites/Monsters/Piggy.png
 - Assets/AssetBundleResources/Animators/Monsters/Venoshroom.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/PoisonThorns.prefab
 - Assets/AssetBundleResources/Animators/Monsters/WildFang.overrideController
@@ -86,6 +87,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/MucusShieldEX.asset
 - Assets/AssetBundleResources/Sprites/Monsters/FireElement.png
 - Assets/AssetBundleResources/Sprites/Equips/EtherealShield.asset
+- Assets/AssetBundleResources/Animators/Monsters/Piggy.overrideController
 - Assets/AssetBundleResources/Animators/Canvas/TutorialSlime_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Skills/TempestStorm.prefab
 - Assets/AssetBundleResources/Sprites/Equips/FIreSwordGlare.asset
