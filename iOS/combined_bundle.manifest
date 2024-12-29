@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1716417440
+CRC: 1779345925
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9d7bc39ca7a0f8a143ad75fcd842ece6
+    Hash: 6ba52b9355a8713787f291ed09c2c572
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9d7bc39ca7a0f8a143ad75fcd842ece6
+    Hash: 6ba52b9355a8713787f291ed09c2c572
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -221,11 +221,11 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/MucusArmor.asset
 - Assets/AssetBundleResources/Prefabs/Effects/SlowEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Items/IronChest.png
-- Assets/AssetBundleResources/Sprites/Items/AdSkipIndefinitely.png
 - Assets/AssetBundleResources/Sprites/Effects/Burn.png
 - Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceMoon.asset
 - Assets/AssetBundleResources/Prefabs/Skills/WindBladeVortex.prefab
 - Assets/AssetBundleResources/Sprites/Equips/LunarShield.asset
+- Assets/AssetBundleResources/Sprites/Items/AdSkipIndefinitely.png
 - Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceHoly.asset
 - Assets/AssetBundleResources/Sprites/Effects/DEF.png
 - Assets/AssetBundleResources/Sprites/Monsters/HornRabbit.png
