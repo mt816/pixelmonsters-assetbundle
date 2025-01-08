@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2156789067
+CRC: 1700252322
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d1c1ed23eb792c190697e276c140a4c1
+    Hash: 5101b5b8f4e6f16825e8ef3676d2f4b8
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d1c1ed23eb792c190697e276c140a4c1
+    Hash: 5101b5b8f4e6f16825e8ef3676d2f4b8
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -53,9 +53,11 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Effects/PoisonEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Equips/BattleAxeEmerald.asset
 - Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceRadiant.asset
+- Assets/AssetBundleResources/Sprites/Items/FireChest.png
 - Assets/AssetBundleResources/Sprites/Monsters/TallSlime.png
 - Assets/AssetBundleResources/Sprites/Monsters/Piggy.png
 - Assets/AssetBundleResources/Animators/Monsters/Venoshroom.overrideController
+- Assets/AssetBundleResources/Sprites/Items/LoyalChest.png
 - Assets/AssetBundleResources/Prefabs/Skills/PoisonThorns.prefab
 - Assets/AssetBundleResources/Animators/Monsters/WildFang.overrideController
 - Assets/AssetBundleResources/Sprites/Items/Gold.png
@@ -68,7 +70,6 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/WaterElement.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/ShieldRainbowMagic.asset
 - Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceGuardian.asset
-- Assets/AssetBundleResources/Sprites/Items/DemonChest.png
 - Assets/AssetBundleResources/Animators/Canvas/TutorialSlime.controller
 - Assets/AssetBundleResources/Animators/Canvas/StartScreenSlime_Idle.anim
 - Assets/AssetBundleResources/Animators/Monsters/FireElement.overrideController
@@ -90,6 +91,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/EtherealShield.asset
 - Assets/AssetBundleResources/Animators/Monsters/Piggy.overrideController
 - Assets/AssetBundleResources/Animators/Canvas/TutorialSlime_Idle.anim
+- Assets/AssetBundleResources/Sprites/Items/WoodChest.png
 - Assets/AssetBundleResources/Prefabs/Skills/TempestStorm.prefab
 - Assets/AssetBundleResources/Sprites/Equips/FIreSwordGlare.asset
 - Assets/AssetBundleResources/Animators/Monsters/CrystalGolem.overrideController
@@ -193,12 +195,10 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Effects/ATK.png
 - Assets/AssetBundleResources/Animators/Monsters/GoldGolem.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/OldArmor.asset
-- Assets/AssetBundleResources/Sprites/Items/LapisChest.png
 - Assets/AssetBundleResources/Sprites/Equips/ArmorOld.asset
 - Assets/AssetBundleResources/Sprites/Equips/WhiteSteelShield.asset
 - Assets/AssetBundleResources/Sprites/Equips/WhiteSteelArmorEX.asset
 - Assets/AssetBundleResources/Sprites/Items/SlimeBook.png
-- Assets/AssetBundleResources/Sprites/Items/WoodsteelChest.png
 - Assets/AssetBundleResources/Sprites/Equips/BowWhiteSteel.asset
 - Assets/AssetBundleResources/Sprites/Equips/WoodSpearForestGuardian.asset
 - Assets/AssetBundleResources/Animators/Monsters/BigSlime.overrideController
@@ -214,7 +214,6 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/FIreSwordHot.asset
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneDark.png
 - Assets/AssetBundleResources/Animators/Canvas/StartScreenSlime.controller
-- Assets/AssetBundleResources/Sprites/Items/RadiantChest.png
 - Assets/AssetBundleResources/Animators/Monsters/FireElemental.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/BattleAxeIridescence.asset
 - Assets/AssetBundleResources/Animators/Canvas/Dragon_Idle.anim
@@ -222,7 +221,6 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Wood_Idle.anim
 - Assets/AssetBundleResources/Sprites/Equips/MucusArmor.asset
 - Assets/AssetBundleResources/Prefabs/Effects/SlowEffectPrefab.prefab
-- Assets/AssetBundleResources/Sprites/Items/IronChest.png
 - Assets/AssetBundleResources/Sprites/Effects/Burn.png
 - Assets/AssetBundleResources/Sprites/Equips/BlueNecklaceMoon.asset
 - Assets/AssetBundleResources/Prefabs/Skills/WindBladeVortex.prefab
