@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 781793449
+CRC: 2341586221
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1546306719aef159176c276f48598de5
+    Hash: dd944eecad4adc2fafa637a8c15b37ce
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1546306719aef159176c276f48598de5
+    Hash: dd944eecad4adc2fafa637a8c15b37ce
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -151,6 +151,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Effects/PowerDownEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Relics/RadiantCrystalRing.asset
 - Assets/AssetBundleResources/Sprites/Relics/GoldenFeather.asset
+- Assets/AssetBundleResources/Sprites/Relics/PuniLifeCore.asset
 - Assets/AssetBundleResources/Sprites/Monsters/WaterElemental.png
 - Assets/AssetBundleResources/Animators/Monsters/FireElemental.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Air.controller
