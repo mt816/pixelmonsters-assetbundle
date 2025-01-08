@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 788694808
+CRC: 2860544358
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 677bf5c188257d8c673f51c1e1a452b7
+    Hash: 35adc6c4be015b91c6e88eefe2c4d763
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 677bf5c188257d8c673f51c1e1a452b7
+    Hash: 35adc6c4be015b91c6e88eefe2c4d763
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -242,6 +242,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/BattleAxeGold.asset
 - Assets/AssetBundleResources/Sprites/Equips/BowOld.asset
 - Assets/AssetBundleResources/Sprites/Equips/DaggerEmerald.asset
+- Assets/AssetBundleResources/Sprites/Items/SlayerMedal.png
 - Assets/AssetBundleResources/Animators/Monsters/SlimeCannon.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/Speedster.prefab
 Dependencies: []
