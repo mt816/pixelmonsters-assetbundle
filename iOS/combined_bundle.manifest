@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1459891024
+CRC: 3135781723
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 26c4e796bcf17305a5e8924048220b55
+    Hash: a2ed38b44bc823cda7317ca2b5936735
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 26c4e796bcf17305a5e8924048220b55
+    Hash: a2ed38b44bc823cda7317ca2b5936735
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -150,9 +150,10 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/LeafImp.overrideController
 - Assets/AssetBundleResources/Animators/Canvas/StartScreenSlime.controller
 - Assets/AssetBundleResources/Prefabs/Effects/PowerDownEffectPrefab.prefab
-- Assets/AssetBundleResources/Sprites/Relics/RadiantCrystalRing.asset
+- Assets/AssetBundleResources/Animators/Canvas/KingSlime_Idle.anim
 - Assets/AssetBundleResources/Sprites/Relics/GoldenFeather.asset
 - Assets/AssetBundleResources/Sprites/Relics/PuniLifeCore.asset
+- Assets/AssetBundleResources/Sprites/Relics/RadiantCrystalRing.asset
 - Assets/AssetBundleResources/Sprites/Monsters/WaterElemental.png
 - Assets/AssetBundleResources/Animators/Monsters/FireElemental.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Air.controller
@@ -174,6 +175,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Relics/HerosInsignia.asset
 - Assets/AssetBundleResources/Sprites/Items/AdSkipIndefinitely.png
 - Assets/AssetBundleResources/Sprites/Items/LootDungeonKey.png
+- Assets/AssetBundleResources/Animators/Canvas/KingSlime.controller
 - Assets/AssetBundleResources/Sprites/Effects/DEF.png
 - Assets/AssetBundleResources/Animators/Monsters/Common.controller
 - Assets/AssetBundleResources/Sprites/Monsters/HornRabbit.png
