@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1092640560
+CRC: 1459891024
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5d6eb18c787a3324146172778162d2b5
+    Hash: 26c4e796bcf17305a5e8924048220b55
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5d6eb18c787a3324146172778162d2b5
+    Hash: 26c4e796bcf17305a5e8924048220b55
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -60,7 +60,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Items/DimensionKey.png
 - Assets/AssetBundleResources/Sprites/Items/FireChest.png
 - Assets/AssetBundleResources/Sprites/Monsters/TallSlime.png
-- Assets/AssetBundleResources/Sprites/Relics/SlayersMedal.asset
+- Assets/AssetBundleResources/Sprites/Relics/SlayerMedal.asset
 - Assets/AssetBundleResources/Sprites/Monsters/Slime.png
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneWood.png
 - Assets/AssetBundleResources/Animators/Monsters/Venoshroom.overrideController
