@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1756358340
+CRC: 233698517
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 86ea6d86eebe8a188b8133c7d7e146b0
+    Hash: 8ce4927c8b503da4fcb81a7b6b9fccfd
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 86ea6d86eebe8a188b8133c7d7e146b0
+    Hash: 8ce4927c8b503da4fcb81a7b6b9fccfd
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -60,7 +60,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Items/DimensionKey.png
 - Assets/AssetBundleResources/Sprites/Items/FireChest.png
 - Assets/AssetBundleResources/Sprites/Monsters/TallSlime.png
-- Assets/AssetBundleResources/Sprites/Relics/SlayerMedal.asset
+- Assets/AssetBundleResources/Sprites/Relics/SlayerMedalBK.asset
 - Assets/AssetBundleResources/Sprites/Monsters/Slime.png
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneWood.png
 - Assets/AssetBundleResources/Animators/Monsters/Venoshroom.overrideController
@@ -119,9 +119,10 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/GoldGolem.overrideController
 - Assets/AssetBundleResources/Animators/Canvas/TutorialSlime_Idle.anim
 - Assets/AssetBundleResources/Sprites/Items/WoodChest.png
-- Assets/AssetBundleResources/Sprites/Relics/SlimeKnife.asset
+- Assets/AssetBundleResources/Sprites/Relics/GoldBar.asset
 - Assets/AssetBundleResources/Prefabs/Skills/TempestStorm.prefab
 - Assets/AssetBundleResources/Sprites/Relics/AzureSkyArrow.asset
+- Assets/AssetBundleResources/Sprites/Relics/SlimeKnife.asset
 - Assets/AssetBundleResources/Animators/Monsters/CrystalGolem.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/SlimeBall.png
 - Assets/AssetBundleResources/Animators/Projectiles/Wood.controller
@@ -138,6 +139,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Air_Idle.anim
 - Assets/AssetBundleResources/Sprites/Effects/Stun.png
 - Assets/AssetBundleResources/Sprites/Monsters/SlimeFly.png
+- Assets/AssetBundleResources/Sprites/Relics/GoldenFeather.asset
 - Assets/AssetBundleResources/Animators/Projectiles/Leaf.controller
 - Assets/AssetBundleResources/Sprites/Relics/RicochetOrb.asset
 - Assets/AssetBundleResources/Sprites/Items/Dia.png
@@ -148,10 +150,11 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/Thunder.prefab
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneDark.png
 - Assets/AssetBundleResources/Animators/Monsters/LeafImp.overrideController
+- Assets/AssetBundleResources/Sprites/Relics/SlayerMedal.asset
 - Assets/AssetBundleResources/Animators/Canvas/StartScreenSlime.controller
 - Assets/AssetBundleResources/Prefabs/Effects/PowerDownEffectPrefab.prefab
 - Assets/AssetBundleResources/Animators/Canvas/KingSlime_Idle.anim
-- Assets/AssetBundleResources/Sprites/Relics/GoldenFeather.asset
+- Assets/AssetBundleResources/Sprites/Relics/GoldenFeatherBK.asset
 - Assets/AssetBundleResources/Sprites/Relics/PuniLifeCore.asset
 - Assets/AssetBundleResources/Sprites/Relics/RadiantCrystalRing.asset
 - Assets/AssetBundleResources/Sprites/Monsters/WaterElemental.png
@@ -173,9 +176,10 @@ Assets:
 - Assets/AssetBundleResources/Animators/Canvas/Dragon.controller
 - Assets/AssetBundleResources/Animators/Monsters/GoldenBox.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/WindBladeVortex.prefab
-- Assets/AssetBundleResources/Sprites/Relics/HerosInsignia.asset
+- Assets/AssetBundleResources/Sprites/Relics/HerosInsigniaBK.asset
 - Assets/AssetBundleResources/Sprites/Items/AdSkipIndefinitely.png
 - Assets/AssetBundleResources/Sprites/Items/LootDungeonKey.png
+- Assets/AssetBundleResources/Sprites/Relics/HerosInsignia.asset
 - Assets/AssetBundleResources/Animators/Canvas/KingSlime.controller
 - Assets/AssetBundleResources/Sprites/Effects/DEF.png
 - Assets/AssetBundleResources/Animators/Monsters/Common.controller
