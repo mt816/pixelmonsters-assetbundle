@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1333846006
+CRC: 2513839199
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 76f73a1cd0fa5ff6dc2cfe481ce1efeb
+    Hash: bd37552f4773ed5db24201cc75f9251b
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 76f73a1cd0fa5ff6dc2cfe481ce1efeb
+    Hash: bd37552f4773ed5db24201cc75f9251b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -140,6 +140,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Air_Idle.anim
 - Assets/AssetBundleResources/Sprites/Effects/Stun.png
 - Assets/AssetBundleResources/Sprites/Monsters/SlimeFly.png
+- Assets/AssetBundleResources/Sprites/Relics/RadiantCrystalRing.png
 - Assets/AssetBundleResources/Animators/Projectiles/Leaf.controller
 - Assets/AssetBundleResources/Sprites/Relics/PuniLifeCore.png
 - Assets/AssetBundleResources/Sprites/Items/Dia.png
