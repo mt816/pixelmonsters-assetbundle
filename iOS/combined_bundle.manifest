@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1046083949
+CRC: 2741454999
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b3f3f9d2cca3ca1fd605db54402ea65c
+    Hash: 98bfaeacfb9583a8e48c0e7b384b3585
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b3f3f9d2cca3ca1fd605db54402ea65c
+    Hash: 98bfaeacfb9583a8e48c0e7b384b3585
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -101,6 +101,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/WoodElement.png
 - Assets/AssetBundleResources/Animators/Monsters/Mushroom.overrideController
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneLight.png
+- Assets/AssetBundleResources/Sprites/Items/Exp.png
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneFire.png
 - Assets/AssetBundleResources/Sprites/Monsters/QueenSlime.png
 - Assets/AssetBundleResources/Prefabs/Skills/DragonBreath.prefab
@@ -190,7 +191,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Wind.controller
 - Assets/AssetBundleResources/Prefabs/Skills/GodWarBless.prefab
 - Assets/AssetBundleResources/Animators/Monsters/HornRabbit.overrideController
-- Assets/AssetBundleResources/Sprites/Items/Exp.png
+- Assets/AssetBundleResources/Sprites/Items/ExpBK.png
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Relics/MidnightGem.asset
 - Assets/AssetBundleResources/Sprites/Monsters/SlimeCannon.png
