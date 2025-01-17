@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2513839199
+CRC: 1703031597
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bd37552f4773ed5db24201cc75f9251b
+    Hash: b4d4a2e98bdc006a0e35ae4fa349a1e8
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: bd37552f4773ed5db24201cc75f9251b
+    Hash: b4d4a2e98bdc006a0e35ae4fa349a1e8
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -142,7 +142,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/SlimeFly.png
 - Assets/AssetBundleResources/Sprites/Relics/RadiantCrystalRing.png
 - Assets/AssetBundleResources/Animators/Projectiles/Leaf.controller
-- Assets/AssetBundleResources/Sprites/Relics/PuniLifeCore.png
+- Assets/AssetBundleResources/Sprites/Relics/MightRing.png
 - Assets/AssetBundleResources/Sprites/Items/Dia.png
 - Assets/AssetBundleResources/Prefabs/Skills/CycloneSpiral.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/WaterElement.png
@@ -167,11 +167,13 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/FireElemental.png
 - Assets/AssetBundleResources/Animators/Monsters/KingSlime.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Wood_Idle.anim
+- Assets/AssetBundleResources/Sprites/Relics/PuniLifeCore.png
 - Assets/AssetBundleResources/Animators/Projectiles/Fire_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Effects/SlowEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Effects/Burn.png
 - Assets/AssetBundleResources/Animators/Canvas/Dragon.controller
 - Assets/AssetBundleResources/Animators/Monsters/GoldenBox.overrideController
+- Assets/AssetBundleResources/Sprites/Relics/HawkEyeCharm.png
 - Assets/AssetBundleResources/Prefabs/Skills/WindBladeVortex.prefab
 - Assets/AssetBundleResources/Sprites/Relics/FlamebrandEmblem.png
 - Assets/AssetBundleResources/Sprites/Items/AdSkipIndefinitely.png
@@ -195,6 +197,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Relics/DropOfRegeneration.png
 - Assets/AssetBundleResources/Sprites/Monsters/SlimeCannon.png
+- Assets/AssetBundleResources/Sprites/Relics/SageTablet.png
 - Assets/AssetBundleResources/Animators/Monsters/ElderWood.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/SlayerMedal.png
 - Assets/AssetBundleResources/Prefabs/Skills/Speedster.prefab
