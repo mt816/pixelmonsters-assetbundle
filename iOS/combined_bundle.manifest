@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3538394922
+CRC: 1831559696
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2817db7d0af5905dc51f86a405643e52
+    Hash: 1ba189d1d708b76e6704db8b6aeb26e5
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2817db7d0af5905dc51f86a405643e52
+    Hash: 1ba189d1d708b76e6704db8b6aeb26e5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -191,14 +191,15 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Shot.controller
 - Assets/AssetBundleResources/Prefabs/Skills/DominateChain.prefab
 - Assets/AssetBundleResources/Animators/Projectiles/Thread_Idle.anim
+- Assets/AssetBundleResources/Sprites/Effects/Hp.png
 - Assets/AssetBundleResources/Animators/Monsters/AstralGolem.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Wind.controller
-- Assets/AssetBundleResources/Prefabs/Skills/GodWarBless.prefab
 - Assets/AssetBundleResources/Animators/Monsters/HornRabbit.overrideController
-- Assets/AssetBundleResources/Sprites/Items/ExpBK.png
+- Assets/AssetBundleResources/Prefabs/Skills/GodWarBless.prefab
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
-- Assets/AssetBundleResources/Sprites/Relics/DropOfRegeneration.png
+- Assets/AssetBundleResources/Sprites/Items/ExpBK.png
 - Assets/AssetBundleResources/Sprites/Monsters/SlimeCannon.png
+- Assets/AssetBundleResources/Sprites/Relics/DropOfRegeneration.png
 - Assets/AssetBundleResources/Sprites/Relics/SageTablet.png
 - Assets/AssetBundleResources/Animators/Monsters/ElderWood.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/SlayerMedal.png
