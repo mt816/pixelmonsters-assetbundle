@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4293749302
+CRC: 3538394922
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 09b79a2aab94f7ba9fec574fb9885f3d
+    Hash: 2817db7d0af5905dc51f86a405643e52
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 09b79a2aab94f7ba9fec574fb9885f3d
+    Hash: 2817db7d0af5905dc51f86a405643e52
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -109,6 +109,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Relics/HerosInsignia.png
 - Assets/AssetBundleResources/Prefabs/Skills/DragonBreath.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/Fangslash.prefab
+- Assets/AssetBundleResources/Prefabs/Skills/TreeLife.prefab
 - Assets/AssetBundleResources/Animators/Monsters/Florage.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/WoodElemental.png
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneWater.png
