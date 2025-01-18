@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1703031597
+CRC: 4293749302
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b4d4a2e98bdc006a0e35ae4fa349a1e8
+    Hash: 09b79a2aab94f7ba9fec574fb9885f3d
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b4d4a2e98bdc006a0e35ae4fa349a1e8
+    Hash: 09b79a2aab94f7ba9fec574fb9885f3d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -130,6 +130,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Wood.controller
 - Assets/AssetBundleResources/Animators/Projectiles/Shot_Idle.anim
 - Assets/AssetBundleResources/Sprites/Items/SlimeBook.png
+- Assets/AssetBundleResources/Sprites/Relics/SlimeSwordEX.png
 - Assets/AssetBundleResources/Prefabs/Skills/LeafBurst.prefab
 - Assets/AssetBundleResources/Animators/Monsters/BigSlime.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Water.controller
