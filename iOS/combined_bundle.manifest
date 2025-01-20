@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2420159891
+CRC: 1457399644
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1659f46349f3d10548ada260d4b6a1c6
+    Hash: 4da0d7be5bb0edc868d727650735d309
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1659f46349f3d10548ada260d4b6a1c6
+    Hash: 4da0d7be5bb0edc868d727650735d309
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -101,6 +101,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/Dragon.png
 - Assets/AssetBundleResources/Sprites/Monsters/WoodElement.png
 - Assets/AssetBundleResources/Animators/Monsters/Mushroom.overrideController
+- Assets/AssetBundleResources/Sprites/Effects/AttackSPD.png
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneLight.png
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneFire.png
 - Assets/AssetBundleResources/Sprites/Monsters/QueenSlime.png
@@ -152,6 +153,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/LeafImp.overrideController
 - Assets/AssetBundleResources/Animators/Canvas/StartScreenSlime.controller
 - Assets/AssetBundleResources/Prefabs/Effects/PowerDownEffectPrefab.prefab
+- Assets/AssetBundleResources/Sprites/Effects/CritRate.png
 - Assets/AssetBundleResources/Animators/Canvas/KingSlime_Idle.anim
 - Assets/AssetBundleResources/Sprites/Monsters/WaterElemental.png
 - Assets/AssetBundleResources/Animators/Monsters/FireElemental.overrideController
