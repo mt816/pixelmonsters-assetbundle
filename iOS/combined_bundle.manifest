@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 287470132
+CRC: 564161743
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: aed335214e4bedeeb93eba5f1308aaf1
+    Hash: 6e2dea382dd815f40d38a6c65a2250ba
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: aed335214e4bedeeb93eba5f1308aaf1
+    Hash: 6e2dea382dd815f40d38a6c65a2250ba
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -179,6 +179,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Fire_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Effects/SlowEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Effects/Burn.png
+- Assets/AssetBundleResources/Sprites/Effects/DamageNegation.png
 - Assets/AssetBundleResources/Animators/Canvas/Dragon.controller
 - Assets/AssetBundleResources/Animators/Monsters/GoldenBox.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/HawkEyeCharm.png
@@ -198,13 +199,13 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Shot.controller
 - Assets/AssetBundleResources/Prefabs/Skills/DominateChain.prefab
 - Assets/AssetBundleResources/Animators/Projectiles/Thread_Idle.anim
-- Assets/AssetBundleResources/Sprites/Effects/Hp.png
 - Assets/AssetBundleResources/Animators/Monsters/AstralGolem.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Wind.controller
-- Assets/AssetBundleResources/Animators/Monsters/HornRabbit.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/GodWarBless.prefab
-- Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
+- Assets/AssetBundleResources/Animators/Monsters/HornRabbit.overrideController
 - Assets/AssetBundleResources/Sprites/Items/ExpBK.png
+- Assets/AssetBundleResources/Sprites/Effects/Hp.png
+- Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Skills/VariantGuard.asset
 - Assets/AssetBundleResources/Sprites/Monsters/SlimeCannon.png
 - Assets/AssetBundleResources/Sprites/Relics/DropOfRegeneration.png
