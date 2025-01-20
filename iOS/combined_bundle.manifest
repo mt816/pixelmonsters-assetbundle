@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1831559696
+CRC: 79296575
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1ba189d1d708b76e6704db8b6aeb26e5
+    Hash: 5d69e61a0aaf60366b9ce5174d9e43b1
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1ba189d1d708b76e6704db8b6aeb26e5
+    Hash: 5d69e61a0aaf60366b9ce5174d9e43b1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -91,6 +91,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/WoodElemental.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/GoldGolem.png
 - Assets/AssetBundleResources/Sprites/Relics/GelShield.png
+- Assets/AssetBundleResources/Sprites/Skills/TempestStorm.asset
 - Assets/AssetBundleResources/Animators/Canvas/StartScreenSlime_Idle.anim
 - Assets/AssetBundleResources/Animators/Monsters/FireElement.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Fire.controller
