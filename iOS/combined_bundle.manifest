@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1723810676
+CRC: 2420159891
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9d2443bba7878b4c28c7a276fcf6f536
+    Hash: 1659f46349f3d10548ada260d4b6a1c6
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9d2443bba7878b4c28c7a276fcf6f536
+    Hash: 1659f46349f3d10548ada260d4b6a1c6
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -54,9 +54,8 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Effects/PoisonEffectPrefab.prefab
 - Assets/AssetBundleResources/Animators/Monsters/TallSlime.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/RicochetOrb.png
-- Assets/AssetBundleResources/Animators/Monsters/SlimeCannon.overrideController
+- Assets/AssetBundleResources/Sprites/Relics/FlameRune.png
 - Assets/AssetBundleResources/Prefabs/Effects/PowerUpEffectPrefab.prefab
-- Assets/AssetBundleResources/Sprites/Skills/Slow.asset
 - Assets/AssetBundleResources/Sprites/Items/DimensionKey.png
 - Assets/AssetBundleResources/Sprites/Items/FireChest.png
 - Assets/AssetBundleResources/Sprites/Monsters/TallSlime.png
@@ -74,26 +73,22 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Items/Gold.png
 - Assets/AssetBundleResources/Sprites/Relics/SlimeBook.png
 - Assets/AssetBundleResources/Prefabs/Skills/HolyProtection.prefab
-- Assets/AssetBundleResources/Sprites/Relics/FlameRune.png
 - Assets/AssetBundleResources/Sprites/Effects/Poison.png
 - Assets/AssetBundleResources/Sprites/Relics/SlimeKnife.png
 - Assets/AssetBundleResources/Animators/Projectiles/Leaf_Idle.anim
 - Assets/AssetBundleResources/Animators/Projectiles/Water_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Effects/StunEffectPrefab.prefab
-- Assets/AssetBundleResources/Sprites/Titles/TitleB.png
 - Assets/AssetBundleResources/Sprites/Monsters/MachineGolem.png
 - Assets/AssetBundleResources/Animators/Monsters/Slime.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/SlimeBall_Idle.anim
 - Assets/AssetBundleResources/Animators/Monsters/WaterElement.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Thread.controller
 - Assets/AssetBundleResources/Sprites/Relics/VenombrandEmblem.png
-- Assets/AssetBundleResources/Sprites/Titles/TitleA.png
+- Assets/AssetBundleResources/Prefabs/Skills/ChromaticCold.prefab
 - Assets/AssetBundleResources/Animators/Canvas/TutorialSlime.controller
 - Assets/AssetBundleResources/Animators/Monsters/WoodElemental.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/GoldGolem.png
 - Assets/AssetBundleResources/Sprites/Relics/GelShield.png
-- Assets/AssetBundleResources/Sprites/Skills/TempestStorm.asset
-- Assets/AssetBundleResources/Sprites/Skills/GodWarBless.asset
 - Assets/AssetBundleResources/Animators/Canvas/StartScreenSlime_Idle.anim
 - Assets/AssetBundleResources/Animators/Monsters/FireElement.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Fire.controller
@@ -107,8 +102,6 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/WoodElement.png
 - Assets/AssetBundleResources/Animators/Monsters/Mushroom.overrideController
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneLight.png
-- Assets/AssetBundleResources/Sprites/Skills/Stun.asset
-- Assets/AssetBundleResources/Sprites/Skills/DominateChain.asset
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneFire.png
 - Assets/AssetBundleResources/Sprites/Monsters/QueenSlime.png
 - Assets/AssetBundleResources/Sprites/Relics/HerosInsignia.png
@@ -174,27 +167,28 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/FireElemental.png
 - Assets/AssetBundleResources/Animators/Monsters/KingSlime.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Wood_Idle.anim
-- Assets/AssetBundleResources/Sprites/Skills/Burn.asset
 - Assets/AssetBundleResources/Sprites/Relics/PuniLifeCore.png
 - Assets/AssetBundleResources/Animators/Projectiles/Fire_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Effects/SlowEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Effects/Burn.png
 - Assets/AssetBundleResources/Sprites/Effects/DamageNegation.png
+- Assets/AssetBundleResources/Prefabs/Skills/WindBladeVortex.prefab
 - Assets/AssetBundleResources/Animators/Canvas/Dragon.controller
 - Assets/AssetBundleResources/Animators/Monsters/GoldenBox.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/HawkEyeCharm.png
-- Assets/AssetBundleResources/Prefabs/Skills/WindBladeVortex.prefab
 - Assets/AssetBundleResources/Sprites/Relics/FlamebrandEmblem.png
 - Assets/AssetBundleResources/Sprites/Items/AdSkipIndefinitely.png
 - Assets/AssetBundleResources/Prefabs/Skills/VariantGuard.prefab
+- Assets/AssetBundleResources/Prefabs/Skills/Speedster.prefab
 - Assets/AssetBundleResources/Sprites/Items/LootDungeonKey.png
 - Assets/AssetBundleResources/Animators/Canvas/KingSlime.controller
-- Assets/AssetBundleResources/Sprites/Effects/DEF.png
+- Assets/AssetBundleResources/Prefabs/Skills/PrecisionEyes.prefab
 - Assets/AssetBundleResources/Animators/Monsters/Common.controller
 - Assets/AssetBundleResources/Prefabs/Skills/WaterFlow.prefab
-- Assets/AssetBundleResources/Sprites/Relics/MidnightRune.png
+- Assets/AssetBundleResources/Sprites/Effects/DEF.png
 - Assets/AssetBundleResources/Sprites/Monsters/HornRabbit.png
 - Assets/AssetBundleResources/Sprites/Relics/SlimeSword.png
+- Assets/AssetBundleResources/Sprites/Relics/MidnightRune.png
 - Assets/AssetBundleResources/Sprites/Monsters/BigSlime.png
 - Assets/AssetBundleResources/Sprites/Effects/Slow.png
 - Assets/AssetBundleResources/Animators/Projectiles/Shot.controller
@@ -207,12 +201,11 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Items/ExpBK.png
 - Assets/AssetBundleResources/Sprites/Effects/Hp.png
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
-- Assets/AssetBundleResources/Sprites/Skills/VariantGuard.asset
 - Assets/AssetBundleResources/Sprites/Monsters/SlimeCannon.png
 - Assets/AssetBundleResources/Sprites/Relics/DropOfRegeneration.png
 - Assets/AssetBundleResources/Sprites/Relics/SageTablet.png
 - Assets/AssetBundleResources/Animators/Monsters/ElderWood.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/SlayerMedal.png
-- Assets/AssetBundleResources/Prefabs/Skills/Speedster.prefab
+- Assets/AssetBundleResources/Animators/Monsters/SlimeCannon.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/AttackBoost.prefab
 Dependencies: []
