@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 564161743
+CRC: 1723810676
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6e2dea382dd815f40d38a6c65a2250ba
+    Hash: 9d2443bba7878b4c28c7a276fcf6f536
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6e2dea382dd815f40d38a6c65a2250ba
+    Hash: 9d2443bba7878b4c28c7a276fcf6f536
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -191,8 +191,9 @@ Assets:
 - Assets/AssetBundleResources/Animators/Canvas/KingSlime.controller
 - Assets/AssetBundleResources/Sprites/Effects/DEF.png
 - Assets/AssetBundleResources/Animators/Monsters/Common.controller
-- Assets/AssetBundleResources/Sprites/Monsters/HornRabbit.png
+- Assets/AssetBundleResources/Prefabs/Skills/WaterFlow.prefab
 - Assets/AssetBundleResources/Sprites/Relics/MidnightRune.png
+- Assets/AssetBundleResources/Sprites/Monsters/HornRabbit.png
 - Assets/AssetBundleResources/Sprites/Relics/SlimeSword.png
 - Assets/AssetBundleResources/Sprites/Monsters/BigSlime.png
 - Assets/AssetBundleResources/Sprites/Effects/Slow.png
