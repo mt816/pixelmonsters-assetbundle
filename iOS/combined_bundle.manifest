@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 79296575
+CRC: 287470132
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5d69e61a0aaf60366b9ce5174d9e43b1
+    Hash: aed335214e4bedeeb93eba5f1308aaf1
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5d69e61a0aaf60366b9ce5174d9e43b1
+    Hash: aed335214e4bedeeb93eba5f1308aaf1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -56,6 +56,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Relics/RicochetOrb.png
 - Assets/AssetBundleResources/Animators/Monsters/SlimeCannon.overrideController
 - Assets/AssetBundleResources/Prefabs/Effects/PowerUpEffectPrefab.prefab
+- Assets/AssetBundleResources/Sprites/Skills/Slow.asset
 - Assets/AssetBundleResources/Sprites/Items/DimensionKey.png
 - Assets/AssetBundleResources/Sprites/Items/FireChest.png
 - Assets/AssetBundleResources/Sprites/Monsters/TallSlime.png
@@ -92,6 +93,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/GoldGolem.png
 - Assets/AssetBundleResources/Sprites/Relics/GelShield.png
 - Assets/AssetBundleResources/Sprites/Skills/TempestStorm.asset
+- Assets/AssetBundleResources/Sprites/Skills/GodWarBless.asset
 - Assets/AssetBundleResources/Animators/Canvas/StartScreenSlime_Idle.anim
 - Assets/AssetBundleResources/Animators/Monsters/FireElement.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Fire.controller
@@ -105,6 +107,8 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/WoodElement.png
 - Assets/AssetBundleResources/Animators/Monsters/Mushroom.overrideController
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneLight.png
+- Assets/AssetBundleResources/Sprites/Skills/Stun.asset
+- Assets/AssetBundleResources/Sprites/Skills/DominateChain.asset
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneFire.png
 - Assets/AssetBundleResources/Sprites/Monsters/QueenSlime.png
 - Assets/AssetBundleResources/Sprites/Relics/HerosInsignia.png
@@ -170,6 +174,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/FireElemental.png
 - Assets/AssetBundleResources/Animators/Monsters/KingSlime.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Wood_Idle.anim
+- Assets/AssetBundleResources/Sprites/Skills/Burn.asset
 - Assets/AssetBundleResources/Sprites/Relics/PuniLifeCore.png
 - Assets/AssetBundleResources/Animators/Projectiles/Fire_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Effects/SlowEffectPrefab.prefab
@@ -180,6 +185,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/WindBladeVortex.prefab
 - Assets/AssetBundleResources/Sprites/Relics/FlamebrandEmblem.png
 - Assets/AssetBundleResources/Sprites/Items/AdSkipIndefinitely.png
+- Assets/AssetBundleResources/Prefabs/Skills/VariantGuard.prefab
 - Assets/AssetBundleResources/Sprites/Items/LootDungeonKey.png
 - Assets/AssetBundleResources/Animators/Canvas/KingSlime.controller
 - Assets/AssetBundleResources/Sprites/Effects/DEF.png
@@ -199,6 +205,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/GodWarBless.prefab
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Items/ExpBK.png
+- Assets/AssetBundleResources/Sprites/Skills/VariantGuard.asset
 - Assets/AssetBundleResources/Sprites/Monsters/SlimeCannon.png
 - Assets/AssetBundleResources/Sprites/Relics/DropOfRegeneration.png
 - Assets/AssetBundleResources/Sprites/Relics/SageTablet.png
