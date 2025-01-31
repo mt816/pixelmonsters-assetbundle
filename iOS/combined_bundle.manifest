@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3953547523
+CRC: 426751200
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 27258a4d966652eb8776accffc1402e5
+    Hash: 50c00de2c54f0e993980ac3d0adbe991
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 27258a4d966652eb8776accffc1402e5
+    Hash: 50c00de2c54f0e993980ac3d0adbe991
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -54,7 +54,6 @@ Assets:
 - Assets/Resources/Prefabs/Skills/DevilHand.prefab
 - Assets/AssetBundleResources/Sprites/Items/SpeedupSand.png
 - Assets/Resources/Animators/Projectiles/Arrow.png
-- Assets/AssetBundleResources/Sprites/Items/FireChest.png
 - Assets/Resources/Sprites/Monsters/TallSlime.png
 - Assets/Resources/Sprites/Monsters/Piggy.png
 - Assets/Resources/Animators/Monsters/Venoshroom.overrideController
@@ -206,13 +205,12 @@ Assets:
 - Assets/Resources/Animators/Projectiles/Shot.controller
 - Assets/Resources/Prefabs/Skills/DominateChain.prefab
 - Assets/AssetBundleResources/Sprites/Relics/SlayerMedal.png
-- Assets/AssetBundleResources/Sprites/Items/ExpBK.png
 - Assets/AssetBundleResources/Sprites/Relics/DropOfRegeneration.png
-- Assets/Resources/Sprites/Monsters/SlimeCannon.png
 - Assets/Resources/Prefabs/Skills/GodWarBless.prefab
+- Assets/Resources/Sprites/Monsters/SlimeCannon.png
+- Assets/Resources/Prefabs/Skills/WolfBoost.prefab
 - Assets/Resources/Sprites/Monsters/ShadowShaman.png
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
-- Assets/Resources/Prefabs/Skills/WolfBoost.prefab
 - Assets/Resources/Sprites/Monsters/IceScorpion.png
 - Assets/AssetBundleResources/Sprites/Items/SummonStone.png
 - Assets/Resources/Prefabs/Skills/BirdPhantom.prefab
@@ -233,6 +231,7 @@ Assets:
 - Assets/Resources/Animators/Monsters/QueenSlime.overrideController
 - Assets/Resources/Animators/Projectiles/Ray.png
 - Assets/Resources/Sprites/Monsters/FlameBird.png
+- Assets/AssetBundleResources/Sprites/Items/SilverChest.png
 - Assets/AssetBundleResources/Prefabs/Effects/BurnEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Relics/GaleRing.png
 - Assets/AssetBundleResources/Sprites/Effects/DamageNegation.png
@@ -288,7 +287,6 @@ Assets:
 - Assets/Resources/Animators/Projectiles/Blood.png
 - Assets/Resources/Animators/Monsters/SnowBird.overrideController
 - Assets/AssetBundleResources/Sprites/Items/Exp.png
-- Assets/AssetBundleResources/Sprites/Items/SlimeBook.png
 - Assets/AssetBundleResources/Sprites/Relics/AbyssalGreatsword.png
 - Assets/Resources/Prefabs/Skills/FlameInferno.prefab
 - Assets/Resources/Animators/Monsters/ShadowBane.overrideController
