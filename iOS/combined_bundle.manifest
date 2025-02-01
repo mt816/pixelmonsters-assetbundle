@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2414482050
+CRC: 4038623567
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 36c088bc2cc1f4fe550fa513c45602ad
+    Hash: db5ac4fe18d4676e40bcaecb852913a9
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 36c088bc2cc1f4fe550fa513c45602ad
+    Hash: db5ac4fe18d4676e40bcaecb852913a9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -190,18 +190,19 @@ Assets:
 - Assets/Resources/Sprites/Monsters/NightBat.png
 - Assets/Resources/Prefabs/Skills/Speedster.prefab
 - Assets/AssetBundleResources/Sprites/Items/LootDungeonKey.png
-- Assets/Resources/Animators/Monsters/BrightStalker.overrideController
+- Assets/AssetBundleResources/Sprites/Relics/SlimeBracer.png
 - Assets/AssetBundleResources/Animators/Canvas/KingSlime.controller
 - Assets/AssetBundleResources/Sprites/Relics/SlimeCrusher.png
 - Assets/Resources/Animators/Monsters/Common.controller
-- Assets/Resources/Prefabs/Skills/PrecisionEyes.prefab
 - Assets/Resources/Prefabs/Skills/WaterTornado.prefab
+- Assets/Resources/Animators/Monsters/Westerpass.overrideController
+- Assets/Resources/Prefabs/Skills/PrecisionEyes.prefab
 - Assets/Resources/Sprites/Monsters/BigSlime.png
 - Assets/Resources/Prefabs/Skills/DragonProtection.prefab
 - Assets/Resources/Animators/Projectiles/Dark.controller
+- Assets/Resources/Animators/Monsters/BrightStalker.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/SwiftBoots.png
 - Assets/Resources/Animators/Monsters/Draphin.overrideController
-- Assets/Resources/Animators/Monsters/Westerpass.overrideController
 - Assets/Resources/Animators/Projectiles/Shot.controller
 - Assets/Resources/Prefabs/Skills/DominateChain.prefab
 - Assets/AssetBundleResources/Sprites/Relics/SlayerMedal.png
@@ -237,6 +238,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Effects/DamageNegation.png
 - Assets/Resources/Animators/Projectiles/Leaf_Idle.anim
 - Assets/Resources/Sprites/Monsters/ElderWood.png
+- Assets/AssetBundleResources/Sprites/Relics/SlimeGuard.png
 - Assets/Resources/Animators/Monsters/CrimsonImp.overrideController
 - Assets/Resources/Sprites/Monsters/WhiteWolf.png
 - Assets/AssetBundleResources/Sprites/Relics/VoidGauntlet.png
