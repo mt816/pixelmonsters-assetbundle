@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 426751200
+CRC: 2414482050
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 50c00de2c54f0e993980ac3d0adbe991
+    Hash: 36c088bc2cc1f4fe550fa513c45602ad
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 50c00de2c54f0e993980ac3d0adbe991
+    Hash: 36c088bc2cc1f4fe550fa513c45602ad
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -297,20 +297,21 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Relics/BreezyRing.png
 - Assets/Resources/Animators/Projectiles/Water.controller
 - Assets/Resources/Sprites/Monsters/FoxArrow.png
-- Assets/Resources/Sprites/Monsters/KingSlime.png
+- Assets/AssetBundleResources/Sprites/Items/SlimeChest.png
 - Assets/Resources/Animators/Monsters/WaterElemental.overrideController
 - Assets/Resources/Animators/Monsters/SlimeFly.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/BloomingArrow.png
-- Assets/Resources/Sprites/Monsters/SlimeFly.png
+- Assets/Resources/Sprites/Monsters/KingSlime.png
 - Assets/Resources/Animators/Monsters/LionKnight.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/MightBaohuan.png
 - Assets/Resources/Prefabs/Skills/ShadowFlare.prefab
 - Assets/Resources/Prefabs/Skills/CycloneSpiral.prefab
-- Assets/Resources/Animators/Monsters/ShadowShaman.overrideController
+- Assets/Resources/Sprites/Monsters/SlimeFly.png
 - Assets/Resources/Animators/Monsters/SnowGhost.overrideController
 - Assets/Resources/Animators/Monsters/Dragon.overrideController
 - Assets/Resources/Prefabs/Skills/PoisonThunder.prefab
 - Assets/Resources/Animators/Monsters/LittleMash.overrideController
+- Assets/Resources/Animators/Monsters/ShadowShaman.overrideController
 - Assets/AssetBundleResources/Animators/Canvas/StartScreenSlime.controller
 - Assets/Resources/Animators/Monsters/EmberSaint.overrideController
 - Assets/AssetBundleResources/Animators/Canvas/KingSlime_Idle.anim
