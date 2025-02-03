@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 507915837
+CRC: 2447263795
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9acc943e1d1fc1ab6653ef88e76527b2
+    Hash: f4bdb17963cca6150dcc7b1f301b02d2
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9acc943e1d1fc1ab6653ef88e76527b2
+    Hash: f4bdb17963cca6150dcc7b1f301b02d2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -95,8 +95,9 @@ Assets:
 - Assets/AssetBundleResources/Animators/Canvas/StartScreenSlime_Idle.anim
 - Assets/Resources/Animators/Monsters/FireElement.overrideController
 - Assets/Resources/Animators/Projectiles/Arrow.controller
-- Assets/Resources/Sprites/Monsters/Hellpaia.png
+- Assets/AssetBundleResources/Animators/Canvas/IceWidow_Idle.anim
 - Assets/AssetBundleResources/Sprites/Items/ArenaKey.png
+- Assets/Resources/Sprites/Monsters/Hellpaia.png
 - Assets/AssetBundleResources/Sprites/Relics/VineguardShield.png
 - Assets/Resources/Animators/Monsters/SlimeCube.overrideController
 - Assets/Resources/Sprites/Monsters/AstralGolem.png
@@ -193,9 +194,8 @@ Assets:
 - Assets/Resources/Prefabs/Skills/Frozen.prefab
 - Assets/AssetBundleResources/Sprites/Effects/Poison.png
 - Assets/Resources/Sprites/Monsters/LionKnight.png
-- Assets/AssetBundleResources/Animators/Canvas/Dragon.controller
-- Assets/Resources/Animators/Monsters/GoldenBox.overrideController
 - Assets/Resources/Animators/Projectiles/Breath.png
+- Assets/Resources/Animators/Monsters/GoldenBox.overrideController
 - Assets/Resources/Animators/Monsters/GearHopper.overrideController
 - Assets/AssetBundleResources/Sprites/Effects/Stun.png
 - Assets/Resources/Sprites/Monsters/NightBat.png
@@ -338,7 +338,6 @@ Assets:
 - Assets/Resources/Animators/Monsters/CrimsonMask.overrideController
 - Assets/Resources/Animators/Monsters/FireElemental.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/GoldBar.png
-- Assets/AssetBundleResources/Animators/Canvas/Dragon_Idle.anim
 - Assets/Resources/Animators/Projectiles/Rock.png
 - Assets/Resources/Sprites/Monsters/CrystalGolem.png
 - Assets/Resources/Sprites/Monsters/SkullTrio.png
@@ -369,21 +368,22 @@ Assets:
 - Assets/Resources/Animators/Projectiles/Ray_Idle.anim
 - Assets/Resources/Sprites/Monsters/CrimsonImp.png
 - Assets/Resources/Prefabs/Skills/PoisonousThorns.prefab
+- Assets/AssetBundleResources/Animators/Canvas/IceWidow.controller
 - Assets/AssetBundleResources/Sprites/Items/AdSkipIndefinitely.png
-- Assets/AssetBundleResources/Sprites/Relics/WingBow.png
 - Assets/AssetBundleResources/Sprites/Relics/ElementChest.png
 - Assets/Resources/Prefabs/Skills/SlowThunder.prefab
 - Assets/Resources/Animators/Projectiles/Thread_Idle.anim
-- Assets/Resources/Animators/Monsters/AstralGolem.overrideController
+- Assets/AssetBundleResources/Sprites/Relics/WingBow.png
 - Assets/Resources/Animators/Projectiles/Wind.controller
 - Assets/Resources/Animators/Monsters/SparkBot.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/SpiritBarrierShield.png
 - Assets/AssetBundleResources/Sprites/Relics/SpiritRing.png
+- Assets/Resources/Animators/Monsters/AstralGolem.overrideController
 - Assets/Resources/Animators/Monsters/HornRabbit.overrideController
-- Assets/Resources/Animators/Projectiles/Rock_Idle.anim
 - Assets/Resources/Animators/Monsters/IceScorpion.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/SpiritGrimoire.png
 - Assets/AssetBundleResources/Sprites/Relics/SageTablet.png
+- Assets/Resources/Animators/Projectiles/Rock_Idle.anim
 - Assets/Resources/Animators/Monsters/SlimeCannon.overrideController
 - Assets/Resources/Sprites/Monsters/SnowGhost.png
 Dependencies: []
