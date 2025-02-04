@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3762257097
+CRC: 3128705502
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ab53e986614c179a10a8df6e1ae9e3c2
+    Hash: 5ad2456c256bfda1beabe74b6be7e3a1
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ab53e986614c179a10a8df6e1ae9e3c2
+    Hash: 5ad2456c256bfda1beabe74b6be7e3a1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -52,6 +52,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/AssetBundleResources/Sprites/Items/ElementChest.png
 - Assets/AssetBundleResources/Sprites/Relics/BeasthideChestguard.png
+- Assets/AssetBundleResources/Sprites/Relics/ShiningCrystal.png
 - Assets/Resources/Animators/Projectiles/Arrow.png
 - Assets/Resources/Sprites/Monsters/Piggy.png
 - Assets/AssetBundleResources/Sprites/Relics/SpiritCoreArmor.png
@@ -159,6 +160,7 @@ Assets:
 - Assets/Resources/Animators/Projectiles/SlimeBall_Idle.anim
 - Assets/Resources/Sprites/Monsters/SnowBird.png
 - Assets/Resources/Sprites/Monsters/GoldGolem.png
+- Assets/AssetBundleResources/Sprites/Relics/OceanCrystal.png
 - Assets/Resources/Sprites/Monsters/IceNinja.png
 - Assets/Resources/Animators/Projectiles/Ray.controller
 - Assets/AssetBundleResources/Sprites/Relics/ShiningRing.png
@@ -207,6 +209,7 @@ Assets:
 - Assets/Resources/Prefabs/Skills/BurnThunder.prefab
 - Assets/AssetBundleResources/Sprites/Items/Gem.Png
 - Assets/Resources/Sprites/Monsters/HornRabbit.png
+- Assets/AssetBundleResources/Sprites/Relics/FlameCrystal.png
 - Assets/AssetBundleResources/Sprites/Relics/MidnightRune.png
 - Assets/AssetBundleResources/Sprites/Effects/DEF.png
 - Assets/Resources/Prefabs/Skills/FireTornado.prefab
@@ -359,9 +362,11 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Effects/Slow.png
 - Assets/Resources/Prefabs/Skills/GrassKnot.prefab
 - Assets/Resources/Animators/Monsters/SnowBird.overrideController
+- Assets/AssetBundleResources/Sprites/Relics/MidnightCrystal.png
 - Assets/Resources/Sprites/Monsters/FrogSaber.png
 - Assets/Resources/Animators/Monsters/FlameBird.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/FlashbrandEmblem.png
+- Assets/AssetBundleResources/Sprites/Relics/ForestCrystal.png
 - Assets/Resources/Animators/Monsters/BigSlime.overrideController
 - Assets/Resources/Sprites/Monsters/FoxArrow.png
 - Assets/Resources/Animators/Monsters/LionKnight.overrideController
