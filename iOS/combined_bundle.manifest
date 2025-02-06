@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2132142485
+CRC: 962875790
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b73ee6cf16a078f49c59a748ce21a2e6
+    Hash: 620fb0d2c9fe9c0133a44a60ef03582f
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b73ee6cf16a078f49c59a748ce21a2e6
+    Hash: 620fb0d2c9fe9c0133a44a60ef03582f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -203,6 +203,7 @@ Assets:
 - Assets/Resources/Animators/Monsters/UndeadHarpy.overrideController
 - Assets/Resources/Animators/Monsters/Hellpaia.overrideController
 - Assets/AssetBundleResources/Prefabs/Effects/SlowEffectPrefab.prefab
+- Assets/AssetBundleResources/Sprites/Relics/FrostbrandEmblem.png
 - Assets/Resources/Prefabs/Skills/WindBladeVortex.prefab
 - Assets/AssetBundleResources/Sprites/Relics/BeastclawBlade.png
 - Assets/AssetBundleResources/Sprites/Relics/IronShield.png
