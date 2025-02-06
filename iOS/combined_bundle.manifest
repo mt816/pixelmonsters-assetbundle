@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 962875790
+CRC: 2671239949
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 620fb0d2c9fe9c0133a44a60ef03582f
+    Hash: 703d9572b33db5abf6c724ca0d57b13f
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 620fb0d2c9fe9c0133a44a60ef03582f
+    Hash: 703d9572b33db5abf6c724ca0d57b13f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -84,9 +84,10 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Relics/SkyfeatherHat.png
 - Assets/Resources/Sprites/Monsters/QueenSlime.png
 - Assets/Resources/Prefabs/Skills/FlameBreath.prefab
-- Assets/AssetBundleResources/Sprites/Relics/HawkEyeCharm.png
+- Assets/AssetBundleResources/Sprites/Equips/IronSword.png
 - Assets/AssetBundleResources/Sprites/Relics/BeastBoneShield.png
 - Assets/AssetBundleResources/Sprites/Relics/HeroMagicBook.png
+- Assets/AssetBundleResources/Sprites/Relics/HawkEyeCharm.png
 - Assets/Resources/Animators/Monsters/FrogSaber.overrideController
 - Assets/AssetBundleResources/Sprites/Effects/ATK.png
 - Assets/AssetBundleResources/Sprites/Relics/AncientTreeMagicBook.png
@@ -310,7 +311,9 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Relics/SlimeCrusher.png
 - Assets/Resources/Prefabs/Skills/PrecisionEyes.prefab
 - Assets/Resources/Animators/Monsters/Common.controller
+- Assets/AssetBundleResources/Sprites/Equips/IronShield.png
 - Assets/Resources/Prefabs/Skills/WaterTornado.prefab
+- Assets/AssetBundleResources/Sprites/Equips/IronBreastplate.png
 - Assets/Resources/Sprites/Monsters/BigSlime.png
 - Assets/Resources/Prefabs/Skills/DragonProtection.prefab
 - Assets/AssetBundleResources/Sprites/Relics/ShiningSoul.png
@@ -323,11 +326,11 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
 - Assets/Resources/Sprites/Monsters/IceScorpion.png
 - Assets/Resources/Animators/Monsters/ElderWood.overrideController
-- Assets/AssetBundleResources/Sprites/Items/BirdChest.png
-- Assets/AssetBundleResources/Sprites/Relics/ShadowbindEmblem.png
-- Assets/AssetBundleResources/Prefabs/Effects/DeathEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Relics/FlameRune.png
 - Assets/AssetBundleResources/Sprites/Relics/ForestStone.png
+- Assets/AssetBundleResources/Prefabs/Effects/DeathEffectPrefab.prefab
+- Assets/AssetBundleResources/Sprites/Items/BirdChest.png
+- Assets/AssetBundleResources/Sprites/Relics/ShadowbindEmblem.png
 - Assets/Resources/Prefabs/Skills/BlackHeartbeat.prefab
 - Assets/Resources/Prefabs/Skills/AttackBoost.prefab
 - Assets/AssetBundleResources/Sprites/Relics/BeastfangMagicBook.png
