@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2729892009
+CRC: 3058038150
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2af9444807d2c2408611838156ab5e72
+    Hash: 00e0682a2729faf63eedbb99f8e8c007
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2af9444807d2c2408611838156ab5e72
+    Hash: 00e0682a2729faf63eedbb99f8e8c007
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -91,7 +91,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Relics/BeastBoneShield.png
 - Assets/AssetBundleResources/Sprites/Relics/HeroMagicBook.png
 - Assets/AssetBundleResources/Sprites/Relics/HawkEyeCharm.png
-- Assets/AssetBundleResources/Sprites/Equips/ThunderHammer.png
+- Assets/AssetBundleResources/Sprites/Equips/ThunderAxe.png
 - Assets/Resources/Animators/Monsters/FrogSaber.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/StormGodHammer.png
 - Assets/AssetBundleResources/Sprites/Effects/ATK.png
@@ -302,7 +302,7 @@ Assets:
 - Assets/Resources/Animators/Monsters/WhiteWolf.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/RadiantCrystalMagicBook.png
 - Assets/AssetBundleResources/Sprites/Equips/ForbiddenTome.png
-- Assets/AssetBundleResources/Sprites/Equips/FlameBlade.png
+- Assets/AssetBundleResources/Sprites/Equips/FlameSword.png
 - Assets/AssetBundleResources/Sprites/Items/DemonChest.png
 - Assets/AssetBundleResources/Sprites/Equips/ArmorBreakAxe.png
 - Assets/AssetBundleResources/Sprites/Relics/RadiantCrystalRing.png
@@ -362,7 +362,7 @@ Assets:
 - Assets/Resources/Animators/Projectiles/Ray.png
 - Assets/AssetBundleResources/Prefabs/Effects/BurnEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Equips/SharpAxe.png
-- Assets/AssetBundleResources/Sprites/Equips/Hammer_v2_12.png
+- Assets/AssetBundleResources/Sprites/Equips/ThunderHammer.png
 - Assets/AssetBundleResources/Sprites/Relics/GaleRing.png
 - Assets/AssetBundleResources/Sprites/Relics/WindShield.png
 - Assets/Resources/Sprites/Monsters/ElderWood.png
@@ -433,7 +433,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Relics/FlamebrandEmblem.png
 - Assets/Resources/Sprites/Monsters/FlameTroll.png
 - Assets/Resources/Prefabs/Skills/FireCircle.prefab
-- Assets/AssetBundleResources/Sprites/Equips/CrimsonBlade.png
+- Assets/AssetBundleResources/Sprites/Equips/CrimsonSword.png
 - Assets/Resources/Sprites/Monsters/CrimsonImp.png
 - Assets/AssetBundleResources/Sprites/Equips/AegisShield.png
 - Assets/AssetBundleResources/Animators/Canvas/IceWidow.controller
