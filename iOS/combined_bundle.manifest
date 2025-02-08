@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3058038150
+CRC: 2523584051
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 00e0682a2729faf63eedbb99f8e8c007
+    Hash: b6eafddacf8bcfd7cd243c4811e6785e
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 00e0682a2729faf63eedbb99f8e8c007
+    Hash: b6eafddacf8bcfd7cd243c4811e6785e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -137,11 +137,12 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Effects/Poison.png
 - Assets/AssetBundleResources/Sprites/Equips/LightningDagger.png
 - Assets/Resources/Animators/Projectiles/Breath.png
+- Assets/AssetBundleResources/Sprites/Equips/BeastAxe.png
 - Assets/Resources/Animators/Monsters/GoldenBox.overrideController
-- Assets/Resources/Sprites/Monsters/LionKnight.png
 - Assets/Resources/Animators/Monsters/GearHopper.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/SlowSpear.png
 - Assets/AssetBundleResources/Sprites/Effects/Stun.png
+- Assets/Resources/Sprites/Monsters/LionKnight.png
 - Assets/Resources/Prefabs/Skills/Speedster.prefab
 - Assets/Resources/Animators/Monsters/BrightStalker.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/SlimeBracer.png
@@ -215,6 +216,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/VenomDagger.png
 - Assets/AssetBundleResources/Sprites/Relics/ForestSoul.png
 - Assets/Resources/Animators/Monsters/UndeadHarpy.overrideController
+- Assets/AssetBundleResources/Sprites/Equips/WhirlwindDagger.png
 - Assets/Resources/Animators/Monsters/Hellpaia.overrideController
 - Assets/AssetBundleResources/Prefabs/Effects/SlowEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Relics/FrostbrandEmblem.png
