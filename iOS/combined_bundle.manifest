@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2523584051
+CRC: 538792225
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b6eafddacf8bcfd7cd243c4811e6785e
+    Hash: c9c782754b9e982a0d107d8fb28bbf80
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b6eafddacf8bcfd7cd243c4811e6785e
+    Hash: c9c782754b9e982a0d107d8fb28bbf80
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -213,7 +213,6 @@ Assets:
 - Assets/AssetBundleResources/Animators/Canvas/StartScreenSlime.controller
 - Assets/AssetBundleResources/Animators/Canvas/KingSlime_Idle.anim
 - Assets/AssetBundleResources/Sprites/Relics/GoldBar.png
-- Assets/AssetBundleResources/Sprites/Equips/VenomDagger.png
 - Assets/AssetBundleResources/Sprites/Relics/ForestSoul.png
 - Assets/Resources/Animators/Monsters/UndeadHarpy.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/WhirlwindDagger.png
@@ -221,7 +220,6 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Effects/SlowEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Relics/FrostbrandEmblem.png
 - Assets/Resources/Prefabs/Skills/WindBladeVortex.prefab
-- Assets/AssetBundleResources/Sprites/Equips/CorrosiveDagger.png
 - Assets/AssetBundleResources/Sprites/Relics/BeastclawBlade.png
 - Assets/AssetBundleResources/Sprites/Relics/IronShield.png
 - Assets/Resources/Prefabs/Skills/VariantGuard.prefab
@@ -371,6 +369,7 @@ Assets:
 - Assets/Resources/Animators/Projectiles/Leaf_Idle.anim
 - Assets/Resources/Sprites/Monsters/WhiteWolf.png
 - Assets/AssetBundleResources/Sprites/Relics/SlimeGuard.png
+- Assets/AssetBundleResources/Sprites/Equips/VenomDagger.png
 - Assets/AssetBundleResources/Sprites/Relics/VoidGauntlet.png
 - Assets/AssetBundleResources/Sprites/Relics/SageSecretTablet.png
 - Assets/Resources/Animators/Projectiles/Thread.controller
@@ -439,8 +438,9 @@ Assets:
 - Assets/Resources/Sprites/Monsters/CrimsonImp.png
 - Assets/AssetBundleResources/Sprites/Equips/AegisShield.png
 - Assets/AssetBundleResources/Animators/Canvas/IceWidow.controller
-- Assets/Resources/Animators/Projectiles/Rock_Idle.anim
+- Assets/AssetBundleResources/Sprites/Equips/CorrosiveDagger.png
 - Assets/Resources/Prefabs/Skills/PoisonousThorns.prefab
+- Assets/Resources/Animators/Projectiles/Rock_Idle.anim
 - Assets/Resources/Animators/Projectiles/Thread_Idle.anim
 - Assets/Resources/Animators/Monsters/IceScorpion.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/SpiritBarrierShield.png
