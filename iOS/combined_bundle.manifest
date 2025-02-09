@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 99303073
+CRC: 2594493850
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e880ec4457b39684fd6ebc7bef0646a0
+    Hash: 9fba99cc1a4ebe8ad35a43de6df217d6
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e880ec4457b39684fd6ebc7bef0646a0
+    Hash: 9fba99cc1a4ebe8ad35a43de6df217d6
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -172,6 +172,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/CrimsonImp.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/Slime.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/SlimeBall_Idle.anim
+- Assets/AssetBundleResources/Prefabs/Skills/SandTornado.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/SnowBird.png
 - Assets/AssetBundleResources/Sprites/Monsters/GoldGolem.png
 - Assets/AssetBundleResources/Sprites/Relics/OceanCrystal.png
@@ -210,6 +211,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/ShadowFlare.prefab
 - Assets/AssetBundleResources/Sprites/Relics/MightBaohuan.png
 - Assets/AssetBundleResources/Prefabs/Skills/PoisonThunder.prefab
+- Assets/AssetBundleResources/Prefabs/Skills/AquaBolt.prefab
 - Assets/AssetBundleResources/Animators/Canvas/StartScreenSlime.controller
 - Assets/AssetBundleResources/Animators/Canvas/KingSlime_Idle.anim
 - Assets/AssetBundleResources/Sprites/Relics/GoldBar.png
