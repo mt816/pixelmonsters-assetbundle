@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3797294418
+CRC: 3956501508
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 69e942b1b142485507d7c4f2d250b3b3
+    Hash: 27112cb607b5c843b260fe9b50fcf7c9
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab122c2df2fb5859c14c6d76a86d3b39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 69e942b1b142485507d7c4f2d250b3b3
+    Hash: 27112cb607b5c843b260fe9b50fcf7c9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -102,7 +102,6 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/Skull.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/FireElement.png
 - Assets/AssetBundleResources/Animators/Canvas/TutorialSlime_Idle.anim
-- Assets/AssetBundleResources/Sprites/Equips/DecelerationSpear.png
 - Assets/AssetBundleResources/Sprites/Relics/IronSword.png
 - Assets/AssetBundleResources/Sprites/Relics/OceanRing.png
 - Assets/AssetBundleResources/Animators/Monsters/CrystalGolem.overrideController
@@ -115,6 +114,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Blood.controller
 - Assets/AssetBundleResources/Animators/Projectiles/Leaf.controller
 - Assets/AssetBundleResources/Animators/Monsters/FlameTroll.overrideController
+- Assets/AssetBundleResources/Sprites/Equips/CurseWand.png
 - Assets/AssetBundleResources/Sprites/Relics/SoaringArrow.png
 - Assets/AssetBundleResources/Sprites/Monsters/WaterElement.png
 - Assets/AssetBundleResources/Prefabs/Skills/BlindScorch.prefab
@@ -140,7 +140,6 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/GoldenBox.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/LightningDagger.png
 - Assets/AssetBundleResources/Animators/Monsters/GearHopper.overrideController
-- Assets/AssetBundleResources/Sprites/Equips/SlowSpear.png
 - Assets/AssetBundleResources/Sprites/Effects/Stun.png
 - Assets/AssetBundleResources/Sprites/Monsters/LionKnight.png
 - Assets/AssetBundleResources/Animators/Monsters/BrightStalker.overrideController
@@ -416,6 +415,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/SlimeFly.png
 - Assets/AssetBundleResources/Sprites/Monsters/KingSlime.png
 - Assets/AssetBundleResources/Prefabs/Skills/CycloneSpiral.prefab
+- Assets/AssetBundleResources/Sprites/Equips/DemiseWand.png
 - Assets/AssetBundleResources/Animators/Monsters/SnowGhost.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/Dragon.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/LittleMash.overrideController
