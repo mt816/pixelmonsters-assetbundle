@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2792700724
+CRC: 2278166913
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c6aefee3ec0c7b324042e431e600cb86
+    Hash: 10bc068b3ac6b899439256b89b0302ca
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4c84cb97acec5394b72f2529591ea013
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c6aefee3ec0c7b324042e431e600cb86
+    Hash: 10bc068b3ac6b899439256b89b0302ca
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -60,10 +60,12 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/Venoshroom.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/ArcaneTome.png
 - Assets/AssetBundleResources/Sprites/Relics/SpiritCoreArmor.png
+- Assets/AssetBundleResources/Sprites/Titles/NightmareMode.png
 - Assets/AssetBundleResources/Sprites/Relics/IronBreastplate.png
 - Assets/AssetBundleResources/Sprites/Relics/DarknessBlade.png
 - Assets/AssetBundleResources/Animators/Monsters/IceWidow.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/ShineGuard.prefab
+- Assets/AssetBundleResources/Sprites/Titles/ArenaRank1.png
 - Assets/AssetBundleResources/Animators/Projectiles/Water_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Effects/StunEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Relics/BeastfangKnife.png
@@ -174,6 +176,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/Slime.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/SlimeBall_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Skills/SandTornado.prefab
+- Assets/AssetBundleResources/Sprites/Titles/ArenaRank2.png
 - Assets/AssetBundleResources/Sprites/Monsters/SnowBird.png
 - Assets/AssetBundleResources/Sprites/Monsters/GoldGolem.png
 - Assets/AssetBundleResources/Sprites/Relics/OceanCrystal.png
@@ -222,6 +225,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/WhirlwindDagger.png
 - Assets/AssetBundleResources/Prefabs/Effects/SlowEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Relics/FrostbrandEmblem.png
+- Assets/AssetBundleResources/Sprites/Titles/CollectionEquip.png
 - Assets/AssetBundleResources/Prefabs/Skills/WindBladeVortex.prefab
 - Assets/AssetBundleResources/Sprites/Relics/BeastclawBlade.png
 - Assets/AssetBundleResources/Sprites/Relics/IronShield.png
@@ -260,6 +264,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/WildFang.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/NightBat.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/ShadowBane.png
+- Assets/AssetBundleResources/Sprites/Titles/CollectionMonster.png
 - Assets/AssetBundleResources/Sprites/Monsters/Skull.png
 - Assets/AssetBundleResources/Animators/Projectiles/Dark.png
 - Assets/AssetBundleResources/Sprites/Relics/SlimeExecutor.png
@@ -328,7 +333,9 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Items/TowerDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Monsters/LittleMash.png
 - Assets/AssetBundleResources/Animators/Monsters/KingSlime.overrideController
+- Assets/AssetBundleResources/Sprites/Titles/ArenaRank3.png
 - Assets/AssetBundleResources/Animators/Projectiles/Fire_Idle.anim
+- Assets/AssetBundleResources/Sprites/Titles/NormalMode.png
 - Assets/AssetBundleResources/Sprites/Monsters/NightBat.png
 - Assets/AssetBundleResources/Sprites/Items/LootDungeonKey.png
 - Assets/AssetBundleResources/Animators/Monsters/Westerpass.overrideController
