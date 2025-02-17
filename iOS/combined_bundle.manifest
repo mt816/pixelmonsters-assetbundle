@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1869885276
+CRC: 1456188679
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2ebb6b8355017d3dd54273ba2dd02717
+    Hash: a4a19bb942207afd01ea65fab2512db4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4c84cb97acec5394b72f2529591ea013
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2ebb6b8355017d3dd54273ba2dd02717
+    Hash: a4a19bb942207afd01ea65fab2512db4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -170,6 +170,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Relics/SpiritShard.png
 - Assets/AssetBundleResources/Sprites/Monsters/FlameBird.png
 - Assets/AssetBundleResources/Sprites/Items/SilverChest.png
+- Assets/AssetBundleResources/Sprites/Titles/HellMode.png
 - Assets/AssetBundleResources/Sprites/Effects/DamageNegation.png
 - Assets/AssetBundleResources/Sprites/Equips/GaleDagger.png
 - Assets/AssetBundleResources/Animators/Monsters/CrimsonImp.overrideController
