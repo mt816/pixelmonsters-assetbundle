@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2278166913
+CRC: 1009818187
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 10bc068b3ac6b899439256b89b0302ca
+    Hash: 12c2b86e4c6ee0b5263de81c5bbaeb6a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4c84cb97acec5394b72f2529591ea013
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 10bc068b3ac6b899439256b89b0302ca
+    Hash: 12c2b86e4c6ee0b5263de81c5bbaeb6a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -357,6 +357,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Monsters/IceScorpion.png
 - Assets/AssetBundleResources/Animators/Monsters/ElderWood.overrideController
+- Assets/AssetBundleResources/Sprites/Titles/ArenaRank4-10.png
 - Assets/AssetBundleResources/Sprites/Items/BirdChest.png
 - Assets/AssetBundleResources/Prefabs/Skills/AttackBoost.prefab
 - Assets/AssetBundleResources/Prefabs/Effects/DeathEffectPrefab.prefab
@@ -456,6 +457,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/IceScorpion.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/HornRabbit.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/SpiritBarrierShield.png
+- Assets/AssetBundleResources/Sprites/Titles/ArenaRank1-5.png
 - Assets/AssetBundleResources/Sprites/Relics/SpiritGrimoire.png
 - Assets/AssetBundleResources/Sprites/Relics/SageTablet.png
 - Assets/AssetBundleResources/Sprites/Relics/FlameRing.png
