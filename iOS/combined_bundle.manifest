@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1456188679
+CRC: 2096016520
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a4a19bb942207afd01ea65fab2512db4
+    Hash: 076b0e6eda50ad758d44f96086818a81
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4c84cb97acec5394b72f2529591ea013
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a4a19bb942207afd01ea65fab2512db4
+    Hash: 076b0e6eda50ad758d44f96086818a81
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -336,6 +336,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/KingSlime.overrideController
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank3.png
 - Assets/AssetBundleResources/Animators/Projectiles/Fire_Idle.anim
+- Assets/AssetBundleResources/Sprites/Equips/DivineGaleDagger.png
 - Assets/AssetBundleResources/Sprites/Titles/NormalMode.png
 - Assets/AssetBundleResources/Sprites/Monsters/NightBat.png
 - Assets/AssetBundleResources/Sprites/Items/LootDungeonKey.png
@@ -357,6 +358,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Items/PlantChest.png
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Monsters/IceScorpion.png
+- Assets/AssetBundleResources/Sprites/Equips/RaijinAxe.png
 - Assets/AssetBundleResources/Animators/Monsters/ElderWood.overrideController
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank410.png
 - Assets/AssetBundleResources/Sprites/Items/BirdChest.png
