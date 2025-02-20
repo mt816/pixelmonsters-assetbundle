@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 50964163
+CRC: 2252778416
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 483058bdb3bd2b5d28af57f2964ffdd4
+    Hash: d3504b1cfa5f34c55e686aad7c9b5950
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4c84cb97acec5394b72f2529591ea013
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 483058bdb3bd2b5d28af57f2964ffdd4
+    Hash: d3504b1cfa5f34c55e686aad7c9b5950
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -68,6 +68,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/IceWidow.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/ShineGuard.prefab
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank1.png
+- Assets/AssetBundleResources/Sprites/Monsters/IceScorpion.png
 - Assets/AssetBundleResources/Animators/Projectiles/Water_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Effects/StunEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Relics/BeastfangKnife.png
@@ -327,7 +328,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Relics/BloodstainedAmulet.png
 - Assets/AssetBundleResources/Sprites/Relics/OceanStone.png
 - Assets/AssetBundleResources/Sprites/Relics/RadiantCrystalRing.png
-- Assets/AssetBundleResources/Sprites/Monsters/IceScorpion.png
+- Assets/AssetBundleResources/Sprites/Monsters/IceScorpionBK.png
 - Assets/AssetBundleResources/Animators/Monsters/LeafImp.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/SantaSlime.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/CursedDagger.png
