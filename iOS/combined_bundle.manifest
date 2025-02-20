@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2672097068
+CRC: 3284324155
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b338723619010f5a7d0b59eb5a4038e6
+    Hash: 5fa98c2cd3a82122ef8036fb5346ec95
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4c84cb97acec5394b72f2529591ea013
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b338723619010f5a7d0b59eb5a4038e6
+    Hash: 5fa98c2cd3a82122ef8036fb5346ec95
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -147,8 +147,9 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/BrightStalker.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/Speedster.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/FoxArrow.png
-- Assets/AssetBundleResources/Sprites/Monsters/NightBat.png
+- Assets/AssetBundleResources/Animators/Monsters/GoldSlime.overrideController
 - Assets/AssetBundleResources/Animators/Canvas/KingSlime.controller
+- Assets/AssetBundleResources/Sprites/Monsters/NightBat.png
 - Assets/AssetBundleResources/Sprites/Relics/SlimeBracer.png
 - Assets/AssetBundleResources/Sprites/Relics/SwiftBoots.png
 - Assets/AssetBundleResources/Sprites/Monsters/PlantTreant.png
