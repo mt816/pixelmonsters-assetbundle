@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 497771501
+CRC: 583747197
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c7d6b90b8515756171833138a887d05b
+    Hash: 70ebb9a5eea45831a0df215de6400552
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4c84cb97acec5394b72f2529591ea013
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c7d6b90b8515756171833138a887d05b
+    Hash: 70ebb9a5eea45831a0df215de6400552
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -212,6 +212,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/LittleMash.png
 - Assets/AssetBundleResources/Sprites/Relics/AbyssalGreatsword.png
 - Assets/AssetBundleResources/Prefabs/Skills/FlameInferno.prefab
+- Assets/AssetBundleResources/Prefabs/Skills/HellsBurst.prefab
 - Assets/AssetBundleResources/Animators/Monsters/EmberSaint.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/PuniLifeCore.png
 - Assets/AssetBundleResources/Animators/Projectiles/Water.controller
