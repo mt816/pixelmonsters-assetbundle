@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3284324155
+CRC: 1736491700
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5fa98c2cd3a82122ef8036fb5346ec95
+    Hash: e9a09c611becc3274b3ce7655391bf45
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4c84cb97acec5394b72f2529591ea013
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5fa98c2cd3a82122ef8036fb5346ec95
+    Hash: e9a09c611becc3274b3ce7655391bf45
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -131,6 +131,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Ice_Idle.anim
 - Assets/AssetBundleResources/Sprites/Relics/AzureSkyBow.png
 - Assets/AssetBundleResources/Animators/Monsters/SkullTrio.overrideController
+- Assets/AssetBundleResources/Sprites/Monsters/GoldSlime.png
 - Assets/AssetBundleResources/Sprites/Effects/CritRate.png
 - Assets/AssetBundleResources/Sprites/Effects/ATKDown.png
 - Assets/AssetBundleResources/Sprites/Monsters/ShadowShaman.png
