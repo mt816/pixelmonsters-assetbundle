@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2252778416
+CRC: 612810414
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d3504b1cfa5f34c55e686aad7c9b5950
+    Hash: ebcd0a3bb70539cd55ed55707fec31e4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4c84cb97acec5394b72f2529591ea013
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d3504b1cfa5f34c55e686aad7c9b5950
+    Hash: ebcd0a3bb70539cd55ed55707fec31e4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -158,6 +158,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Relics/SwiftBoots.png
 - Assets/AssetBundleResources/Sprites/Monsters/PlantTreant.png
 - Assets/AssetBundleResources/Animators/Projectiles/Shot.controller
+- Assets/AssetBundleResources/Sprites/Equips/PaladinShield.png
 - Assets/AssetBundleResources/Prefabs/Skills/GodWarBless.prefab
 - Assets/AssetBundleResources/Sprites/Relics/DropOfRegeneration.png
 - Assets/AssetBundleResources/Prefabs/Skills/WolfBoost.prefab
@@ -256,6 +257,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/UndeadHarpy.png
 - Assets/AssetBundleResources/Sprites/Items/AdSkipIndefinitely.png
 - Assets/AssetBundleResources/Sprites/Relics/WingBow.png
+- Assets/AssetBundleResources/Sprites/Equips/UnyieldingRing.png
 - Assets/AssetBundleResources/Sprites/Relics/ElementChest.png
 - Assets/AssetBundleResources/Sprites/Monsters/IceWidow.png
 - Assets/AssetBundleResources/Animators/Monsters/AstralGolem.overrideController
@@ -295,6 +297,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/DreadPuppet.overrideController
 - Assets/AssetBundleResources/Sprites/Relics/AncientTreeScepter.png
 - Assets/AssetBundleResources/Prefabs/Skills/DevilContract.prefab
+- Assets/AssetBundleResources/Sprites/Equips/SwiftstormRing.png
 - Assets/AssetBundleResources/Animators/Projectiles/Arrow_Idle.anim
 - Assets/AssetBundleResources/Animators/Monsters/Snowbread.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/ShadowGate.prefab
@@ -339,12 +342,14 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/DominatorAxe.png
 - Assets/AssetBundleResources/Prefabs/Skills/GroundSmash.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/RockDrop.prefab
+- Assets/AssetBundleResources/Sprites/Equips/PurityRing.png
 - Assets/AssetBundleResources/Sprites/Items/TowerDungeonKey.png
 - Assets/AssetBundleResources/Animators/Monsters/KingSlime.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/Harpy.png
 - Assets/AssetBundleResources/Sprites/Monsters/PlantSeeder.png
 - Assets/AssetBundleResources/Sprites/Monsters/GoldGolem.png
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank3.png
+- Assets/AssetBundleResources/Sprites/Equips/Ring_44.png
 - Assets/AssetBundleResources/Animators/Projectiles/Fire_Idle.anim
 - Assets/AssetBundleResources/Sprites/Monsters/Venoshroom.png
 - Assets/AssetBundleResources/Sprites/Equips/DivineGaleDagger.png
@@ -445,6 +450,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/FireElemental.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Rock.png
 - Assets/AssetBundleResources/Sprites/Relics/OceanSoul.png
+- Assets/AssetBundleResources/Sprites/Equips/InfernoRing.png
 - Assets/AssetBundleResources/Animators/Projectiles/Wood_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Skills/Concentration.prefab
 - Assets/AssetBundleResources/Sprites/Relics/HawkEyeDivine.png
