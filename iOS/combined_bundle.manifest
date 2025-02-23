@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 612810414
+CRC: 1987686887
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ebcd0a3bb70539cd55ed55707fec31e4
+    Hash: f573666b280412d6e2e8d83eafb766c6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4c84cb97acec5394b72f2529591ea013
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ebcd0a3bb70539cd55ed55707fec31e4
+    Hash: f573666b280412d6e2e8d83eafb766c6
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -104,9 +104,10 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Effects/ATK.png
 - Assets/AssetBundleResources/Sprites/Monsters/SnowBird.png
 - Assets/AssetBundleResources/Sprites/Relics/AncientTreeMagicBook.png
-- Assets/AssetBundleResources/Prefabs/Skills/TreeLife.prefab
+- Assets/AssetBundleResources/Animators/Canvas/ShadowBane.controller
 - Assets/AssetBundleResources/Animators/Monsters/PlantTreant.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/Skull.overrideController
+- Assets/AssetBundleResources/Prefabs/Skills/TreeLife.prefab
 - Assets/AssetBundleResources/Sprites/Relics/RadiantCrystalPendant.png
 - Assets/AssetBundleResources/Animators/Canvas/TutorialSlime_Idle.anim
 - Assets/AssetBundleResources/Sprites/Relics/IronSword.png
@@ -290,8 +291,9 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/PrecisionRing.png
 - Assets/AssetBundleResources/Sprites/Relics/SpiritMagicBook.png
 - Assets/AssetBundleResources/Animators/Projectiles/Arrow.controller
-- Assets/AssetBundleResources/Sprites/Monsters/LeafImp.png
+- Assets/AssetBundleResources/Animators/Canvas/ShadowBane_Idle.anim
 - Assets/AssetBundleResources/Animators/Canvas/IceWidow_Idle.anim
+- Assets/AssetBundleResources/Sprites/Monsters/LeafImp.png
 - Assets/AssetBundleResources/Sprites/Monsters/WoodElement.png
 - Assets/AssetBundleResources/Sprites/Relics/ForestRune.png
 - Assets/AssetBundleResources/Animators/Monsters/DreadPuppet.overrideController
