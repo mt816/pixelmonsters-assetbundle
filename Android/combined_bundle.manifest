@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3016380066
+CRC: 1441229246
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 63f60f374ad58bf651eeb97252b88d23
+    Hash: 676ba7371b1119dfe0ffd2b701eea90c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4c84cb97acec5394b72f2529591ea013
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 63f60f374ad58bf651eeb97252b88d23
+    Hash: 676ba7371b1119dfe0ffd2b701eea90c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -62,6 +62,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/WingBear.png
 - Assets/AssetBundleResources/Sprites/Relics/SpiritCoreArmor.png
 - Assets/AssetBundleResources/Sprites/Titles/NightmareMode.png
+- Assets/AssetBundleResources/Sprites/Titles/ArenaRank410.png
 - Assets/AssetBundleResources/Sprites/Relics/IronBreastplate.png
 - Assets/AssetBundleResources/Sprites/Monsters/AstralGolem.png
 - Assets/AssetBundleResources/Sprites/Relics/DarknessBlade.png
@@ -104,9 +105,10 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Effects/ATK.png
 - Assets/AssetBundleResources/Sprites/Monsters/SnowBird.png
 - Assets/AssetBundleResources/Sprites/Relics/AncientTreeMagicBook.png
-- Assets/AssetBundleResources/Prefabs/Skills/TreeLife.prefab
+- Assets/AssetBundleResources/Animators/Canvas/ShadowBane.controller
 - Assets/AssetBundleResources/Animators/Monsters/PlantTreant.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/Skull.overrideController
+- Assets/AssetBundleResources/Prefabs/Skills/TreeLife.prefab
 - Assets/AssetBundleResources/Sprites/Relics/RadiantCrystalPendant.png
 - Assets/AssetBundleResources/Animators/Canvas/TutorialSlime_Idle.anim
 - Assets/AssetBundleResources/Sprites/Relics/IronSword.png
@@ -290,8 +292,9 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/PrecisionRing.png
 - Assets/AssetBundleResources/Sprites/Relics/SpiritMagicBook.png
 - Assets/AssetBundleResources/Animators/Projectiles/Arrow.controller
-- Assets/AssetBundleResources/Sprites/Monsters/LeafImp.png
+- Assets/AssetBundleResources/Animators/Canvas/ShadowBane_Idle.anim
 - Assets/AssetBundleResources/Animators/Canvas/IceWidow_Idle.anim
+- Assets/AssetBundleResources/Sprites/Monsters/LeafImp.png
 - Assets/AssetBundleResources/Sprites/Monsters/WoodElement.png
 - Assets/AssetBundleResources/Sprites/Relics/ForestRune.png
 - Assets/AssetBundleResources/Animators/Monsters/DreadPuppet.overrideController
@@ -367,6 +370,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Dark.controller
 - Assets/AssetBundleResources/Sprites/Relics/ShiningSoul.png
 - Assets/AssetBundleResources/Animators/Monsters/Draphin.overrideController
+- Assets/AssetBundleResources/Sprites/Titles/ArenaRank11100.png
 - Assets/AssetBundleResources/Prefabs/Skills/DominateChain.prefab
 - Assets/AssetBundleResources/Sprites/Relics/SlayerMedal.png
 - Assets/AssetBundleResources/Sprites/Monsters/Florage.png
@@ -376,7 +380,6 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/SparkBot.png
 - Assets/AssetBundleResources/Sprites/Equips/RaijinAxe.png
 - Assets/AssetBundleResources/Animators/Monsters/ElderWood.overrideController
-- Assets/AssetBundleResources/Sprites/Titles/ArenaRank410.png
 - Assets/AssetBundleResources/Sprites/Items/BirdChest.png
 - Assets/AssetBundleResources/Prefabs/Skills/AttackBoost.prefab
 - Assets/AssetBundleResources/Prefabs/Effects/DeathEffectPrefab.prefab
