@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 927406728
+CRC: 934702875
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6accf2140fb06c4516ddc1aa854faf26
+    Hash: 7e54ae7936242744dca8476cf6c41d8e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6accf2140fb06c4516ddc1aa854faf26
+    Hash: 7e54ae7936242744dca8476cf6c41d8e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -248,7 +248,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Effects/BurnEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Equips/SharpAxe.png
 - Assets/AssetBundleResources/Sprites/Equips/ThunderHammer.png
-- Assets/AssetBundleResources/Sprites/Titles/HellMode.png
+- Assets/AssetBundleResources/Sprites/Titles/AbyssMode.png
 - Assets/AssetBundleResources/Sprites/Monsters/Mushroom.png
 - Assets/AssetBundleResources/Sprites/Effects/DamageNegation.png
 - Assets/AssetBundleResources/Animators/Projectiles/Leaf_Idle.anim
