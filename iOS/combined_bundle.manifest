@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 998929575
+CRC: 2572317889
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: def764145fab46d56d2d14df5a56490d
+    Hash: db2c3297dad96822d0de3d94cbd0a022
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: def764145fab46d56d2d14df5a56490d
+    Hash: db2c3297dad96822d0de3d94cbd0a022
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -228,6 +228,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/RaijinAxe.png
 - Assets/AssetBundleResources/Sprites/Items/SummonStone.png
 - Assets/AssetBundleResources/Prefabs/Skills/BirdPhantom.prefab
+- Assets/AssetBundleResources/Animators/Monsters/Bluenes.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/ElderWood.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Rock.controller
 - Assets/AssetBundleResources/Prefabs/Skills/AttackBoost.prefab
