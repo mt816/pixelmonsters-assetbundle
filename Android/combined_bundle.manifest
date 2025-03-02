@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4044204607
+CRC: 3948482313
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 739fc818ecf175a9892a6d81f68d7308
+    Hash: d1c75ab9e2ae87ba2b4a589a6de05ca2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 739fc818ecf175a9892a6d81f68d7308
+    Hash: d1c75ab9e2ae87ba2b4a589a6de05ca2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -84,6 +84,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Ice.controller
 - Assets/AssetBundleResources/Animators/Canvas/TutorialSlime.controller
 - Assets/AssetBundleResources/Prefabs/Skills/DemonPoison.prefab
+- Assets/AssetBundleResources/Prefabs/Skills/SplashBreak.prefab
 - Assets/AssetBundleResources/Sprites/Equips/PrecisionRing.png
 - Assets/AssetBundleResources/Animators/Monsters/ShadowFang.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/AgileBoots.png
