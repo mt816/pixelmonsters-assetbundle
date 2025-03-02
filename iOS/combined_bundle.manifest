@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2572317889
+CRC: 3195346578
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: db2c3297dad96822d0de3d94cbd0a022
+    Hash: 83db24943c13ddbdcd5bfe13c276dcaf
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: db2c3297dad96822d0de3d94cbd0a022
+    Hash: 83db24943c13ddbdcd5bfe13c276dcaf
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -154,6 +154,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/FlameTroll.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/CurseWand.png
 - Assets/AssetBundleResources/Sprites/Monsters/WaterElement.png
+- Assets/AssetBundleResources/Sprites/Monsters/Bluenes.png
 - Assets/AssetBundleResources/Sprites/Monsters/IceScorpionBK.png
 - Assets/AssetBundleResources/Sprites/Monsters/Westerpass.png
 - Assets/AssetBundleResources/Animators/Monsters/LeafImp.overrideController
