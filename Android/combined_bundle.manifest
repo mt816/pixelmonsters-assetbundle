@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1186801787
+CRC: 77572137
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a32b5920f2ab9ec0b55828ad9fefb5d5
+    Hash: d5a818ab09f9a583ce42a5d35a6fcca7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a32b5920f2ab9ec0b55828ad9fefb5d5
+    Hash: d5a818ab09f9a583ce42a5d35a6fcca7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -166,6 +166,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/SantaSlime.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/PlantSeeder.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/LionKnight.png
+- Assets/AssetBundleResources/Sprites/Monsters/Eaglord.png
 - Assets/AssetBundleResources/Animators/Projectiles/Air.controller
 - Assets/AssetBundleResources/Sprites/Equips/DominatorAxe.png
 - Assets/AssetBundleResources/Prefabs/Skills/GroundSmash.prefab
