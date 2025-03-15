@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 256920198
+CRC: 1449306773
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0936f4d2bc16135ee8ace0a41a18f905
+    Hash: 7906ae72cf473707c392a6dc07c0ebe9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0936f4d2bc16135ee8ace0a41a18f905
+    Hash: 7906ae72cf473707c392a6dc07c0ebe9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -53,12 +53,12 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/AssetBundleResources/Sprites/Items/ElementChest.png
-- Assets/AssetBundleResources/Prefabs/Effects/PoisonEffectPrefab.prefab
+- Assets/AssetBundleResources/Sprites/Monsters/SnowGhost.png
 - Assets/AssetBundleResources/Prefabs/Skills/DevilHand.prefab
 - Assets/AssetBundleResources/Sprites/Items/SpeedupSand.png
+- Assets/Resources/Prefabs/Effects/PoisonEffectPrefab.prefab
 - Assets/AssetBundleResources/Animators/Projectiles/Arrow.png
 - Assets/AssetBundleResources/Sprites/Monsters/TallSlime.png
-- Assets/AssetBundleResources/Sprites/Monsters/SnowGhost.png
 - Assets/AssetBundleResources/Sprites/Monsters/DarkSmasher.png
 - Assets/AssetBundleResources/Animators/Monsters/Venoshroom.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/ArcaneTome.png
@@ -76,7 +76,8 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Titles/CollectionMonster.png
 - Assets/AssetBundleResources/Animators/Projectiles/Dark.png
 - Assets/AssetBundleResources/Animators/Projectiles/Water_Idle.anim
-- Assets/AssetBundleResources/Prefabs/Effects/StunEffectPrefab.prefab
+- Assets/AssetBundleResources/Sprites/Titles/ArenaRank410.png
+- Assets/Resources/Prefabs/Effects/StunEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank15.png
 - Assets/AssetBundleResources/Prefabs/Skills/ChromaticCold.prefab
 - Assets/AssetBundleResources/Animators/Projectiles/Breath_Idle.anim
@@ -145,7 +146,6 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/LeafBurst.prefab
 - Assets/AssetBundleResources/Sprites/Equips/FlameSword.png
 - Assets/AssetBundleResources/Sprites/Items/DemonChest.png
-- Assets/AssetBundleResources/Sprites/Titles/ArenaRank410.png
 - Assets/AssetBundleResources/Sprites/Monsters/FlameBird.png
 - Assets/AssetBundleResources/Sprites/Monsters/WaterElemental.png
 - Assets/AssetBundleResources/Sprites/Equips/ArmorBreakAxe.png
@@ -161,7 +161,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/Westerpass.png
 - Assets/AssetBundleResources/Animators/Monsters/LeafImp.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/BlindScorch.prefab
-- Assets/AssetBundleResources/Prefabs/Effects/PowerDownEffectPrefab.prefab
+- Assets/Resources/Prefabs/Effects/PowerDownEffectPrefab.prefab
 - Assets/AssetBundleResources/Animators/Monsters/BarkTroll.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/SantaSlime.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/PlantSeeder.overrideController
@@ -236,21 +236,21 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/ElderWood.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Rock.controller
 - Assets/AssetBundleResources/Prefabs/Skills/AttackBoost.prefab
-- Assets/AssetBundleResources/Prefabs/Effects/DeathEffectPrefab.prefab
-- Assets/AssetBundleResources/Sprites/Items/BirdChest.png
 - Assets/AssetBundleResources/Animators/Monsters/TallSlime.overrideController
-- Assets/AssetBundleResources/Prefabs/Skills/BlackHeartbeat.prefab
-- Assets/AssetBundleResources/Prefabs/Effects/PowerUpEffectPrefab.prefab
-- Assets/AssetBundleResources/Sprites/Equips/GuardianArmor.png
-- Assets/AssetBundleResources/Sprites/Items/DimensionKey.png
+- Assets/AssetBundleResources/Sprites/Items/BirdChest.png
 - Assets/AssetBundleResources/Sprites/Monsters/BrightStalker.png
+- Assets/Resources/Prefabs/Effects/DeathEffectPrefab.prefab
+- Assets/AssetBundleResources/Prefabs/Skills/BlackHeartbeat.prefab
+- Assets/AssetBundleResources/Sprites/Equips/GuardianArmor.png
+- Assets/Resources/Prefabs/Effects/PowerUpEffectPrefab.prefab
+- Assets/AssetBundleResources/Sprites/Items/DimensionKey.png
 - Assets/AssetBundleResources/Sprites/Monsters/Slime.png
 - Assets/AssetBundleResources/Animators/Projectiles/Ray.png
 - Assets/AssetBundleResources/Animators/Monsters/QueenSlime.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/SharpRing.png
 - Assets/AssetBundleResources/Sprites/Items/SilverChest.png
 - Assets/AssetBundleResources/Sprites/Equips/TornadoBoots.png
-- Assets/AssetBundleResources/Prefabs/Effects/BurnEffectPrefab.prefab
+- Assets/Resources/Prefabs/Effects/BurnEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Equips/SharpAxe.png
 - Assets/AssetBundleResources/Sprites/Equips/ThunderHammer.png
 - Assets/AssetBundleResources/Sprites/Titles/AbyssMode.png
@@ -341,8 +341,8 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/Concentration.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/SlimeCannon.png
 - Assets/AssetBundleResources/Sprites/Equips/WhirlwindDagger.png
-- Assets/AssetBundleResources/Prefabs/Effects/SlowEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/Piggy.png
+- Assets/Resources/Prefabs/Effects/SlowEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/ShadowFang.png
 - Assets/AssetBundleResources/Sprites/Titles/CollectionEquip.png
 - Assets/AssetBundleResources/Prefabs/Skills/WindBladeVortex.prefab
