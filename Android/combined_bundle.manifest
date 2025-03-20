@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1449306773
+CRC: 3303737420
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7906ae72cf473707c392a6dc07c0ebe9
+    Hash: 8084ccc47269c3287a94c8942d9f5a69
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 7906ae72cf473707c392a6dc07c0ebe9
+    Hash: 8084ccc47269c3287a94c8942d9f5a69
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -60,6 +60,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Arrow.png
 - Assets/AssetBundleResources/Sprites/Monsters/TallSlime.png
 - Assets/AssetBundleResources/Sprites/Monsters/DarkSmasher.png
+- Assets/AssetBundleResources/Animators/Monsters/TombEye.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/Venoshroom.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/ArcaneTome.png
 - Assets/AssetBundleResources/Sprites/Items/LoyalChest.png
@@ -146,6 +147,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/LeafBurst.prefab
 - Assets/AssetBundleResources/Sprites/Equips/FlameSword.png
 - Assets/AssetBundleResources/Sprites/Items/DemonChest.png
+- Assets/AssetBundleResources/Sprites/Monsters/TombEye.png
 - Assets/AssetBundleResources/Sprites/Monsters/FlameBird.png
 - Assets/AssetBundleResources/Sprites/Monsters/WaterElemental.png
 - Assets/AssetBundleResources/Sprites/Equips/ArmorBreakAxe.png
@@ -331,6 +333,8 @@ Assets:
 - Assets/AssetBundleResources/Animators/Canvas/StartScreenSlime.controller
 - Assets/AssetBundleResources/Sprites/Monsters/FireElemental.png
 - Assets/AssetBundleResources/Animators/Canvas/KingSlime_Idle.anim
+- Assets/AssetBundleResources/Animators/Monsters/ShadowSpecter.overrideController
+- Assets/AssetBundleResources/Sprites/Monsters/ShadowSpecter.png
 - Assets/AssetBundleResources/Animators/Monsters/FireElemental.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/SlimeFly.png
 - Assets/AssetBundleResources/Animators/Projectiles/Rock.png
