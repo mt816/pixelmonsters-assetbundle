@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 942862277
+CRC: 4108830228
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 33c5a7ba878dd8749bfed8bd80110a21
+    Hash: 8739e496d24cdd0922f60b1fd03e16a1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 33c5a7ba878dd8749bfed8bd80110a21
+    Hash: 8739e496d24cdd0922f60b1fd03e16a1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -354,6 +354,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/VariantGuard.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/EmberSaint.png
 - Assets/AssetBundleResources/Prefabs/Skills/BurnThunder.prefab
+- Assets/AssetBundleResources/Prefabs/Skills/DarkNova.prefab
 - Assets/AssetBundleResources/Sprites/Items/Gem.Png
 - Assets/AssetBundleResources/Prefabs/Skills/FireCircle.prefab
 - Assets/AssetBundleResources/Sprites/Equips/CrimsonSword.png
