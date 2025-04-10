@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2531804575
+CRC: 1188883853
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 237ece3bc57c88d8fefa3ad0a812a25a
+    Hash: 6c2f5d9e75c55530138fc5f6f87b922f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 237ece3bc57c88d8fefa3ad0a812a25a
+    Hash: 6c2f5d9e75c55530138fc5f6f87b922f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -153,16 +153,18 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/ArmorBreakAxe.png
 - Assets/AssetBundleResources/Sprites/Items/GoldDungeonKey.png
 - Assets/AssetBundleResources/Animators/Projectiles/Air_Idle.anim
+- Assets/AssetBundleResources/Animators/Canvas/Harpy.controller
 - Assets/AssetBundleResources/Animators/Projectiles/Blood.controller
-- Assets/AssetBundleResources/Animators/Projectiles/Leaf.controller
 - Assets/AssetBundleResources/Animators/Monsters/FlameTroll.overrideController
-- Assets/AssetBundleResources/Sprites/Equips/CurseWand.png
+- Assets/AssetBundleResources/Animators/Projectiles/Leaf.controller
+- Assets/AssetBundleResources/Animators/Canvas/Harpy_Idle.anim
 - Assets/AssetBundleResources/Sprites/Monsters/WaterElement.png
+- Assets/AssetBundleResources/Sprites/Equips/CurseWand.png
 - Assets/AssetBundleResources/Sprites/Monsters/Bluenes.png
 - Assets/AssetBundleResources/Sprites/Monsters/IceScorpionBK.png
-- Assets/AssetBundleResources/Sprites/Monsters/Westerpass.png
 - Assets/AssetBundleResources/Animators/Monsters/LeafImp.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/BlindScorch.prefab
+- Assets/AssetBundleResources/Sprites/Monsters/Westerpass.png
 - Assets/Resources/Prefabs/Effects/PowerDownEffectPrefab.prefab
 - Assets/AssetBundleResources/Animators/Monsters/BarkTroll.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/SantaSlime.overrideController
