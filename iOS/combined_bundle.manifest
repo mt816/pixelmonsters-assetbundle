@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1002925732
+CRC: 2197134256
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b2897fa287c8b5516fbfa8275b7a818d
+    Hash: 9790c4b3c89675995210eab4ed6015b9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b2897fa287c8b5516fbfa8275b7a818d
+    Hash: 9790c4b3c89675995210eab4ed6015b9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -110,7 +110,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Arrow_Idle.anim
 - Assets/AssetBundleResources/Animators/Monsters/Snowbread.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/ShadowGate.prefab
-- Assets/AssetBundleResources/Sprites/Monsters/QueenSlime.png
+- Assets/AssetBundleResources/Sprites/Items/TuningBookShine.Png
 - Assets/AssetBundleResources/Animators/Monsters/WingBear.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Breath.controller
 - Assets/AssetBundleResources/Prefabs/Skills/teleportblueorb.prefab
@@ -143,6 +143,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/FireElement.png
 - Assets/AssetBundleResources/Sprites/Equips/ThunderAxe.png
 - Assets/AssetBundleResources/Animators/Monsters/WhiteWolf.overrideController
+- Assets/AssetBundleResources/Sprites/Monsters/QueenSlime.png
 - Assets/AssetBundleResources/Sprites/Equips/ForbiddenTome.png
 - Assets/AssetBundleResources/Prefabs/Skills/LeafBurst.prefab
 - Assets/AssetBundleResources/Sprites/Equips/FlameSword.png
@@ -180,14 +181,15 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Items/TowerDungeonKey.png
 - Assets/AssetBundleResources/Animators/Monsters/KingSlime.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/SkullTrio.overrideController
-- Assets/AssetBundleResources/Sprites/Monsters/Harpy.png
+- Assets/AssetBundleResources/Sprites/Items/TuningBook.Png
 - Assets/AssetBundleResources/Sprites/Monsters/GoldGolem.png
-- Assets/AssetBundleResources/Sprites/Titles/ArenaRank3.png
+- Assets/AssetBundleResources/Sprites/Monsters/Harpy.png
 - Assets/AssetBundleResources/Sprites/Monsters/PlantSeeder.png
 - Assets/AssetBundleResources/Sprites/Equips/Ring_44.png
 - Assets/AssetBundleResources/Animators/Projectiles/Fire_Idle.anim
 - Assets/AssetBundleResources/Sprites/Monsters/GoldSlime.png
 - Assets/AssetBundleResources/Sprites/Effects/CritRate.png
+- Assets/AssetBundleResources/Sprites/Titles/ArenaRank3.png
 - Assets/AssetBundleResources/Animators/Monsters/DarkSmasher.overrideController
 - Assets/AssetBundleResources/Sprites/Effects/ATKDown.png
 - Assets/AssetBundleResources/Sprites/Monsters/ShadowShaman.png
