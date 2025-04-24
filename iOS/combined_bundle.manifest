@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 415977334
+CRC: 245475315
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9c7cc2a173d533295dd3b2ccb0773e14
+    Hash: 8b1428ca5803718db512368bcecc50a3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9c7cc2a173d533295dd3b2ccb0773e14
+    Hash: 8b1428ca5803718db512368bcecc50a3
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -205,6 +205,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/GearHopper.overrideController
 - Assets/AssetBundleResources/Sprites/Titles/NormalMode.png
 - Assets/AssetBundleResources/Sprites/Effects/Stun.png
+- Assets/AssetBundleResources/Sprites/Monsters/HellDragoon.png
 - Assets/AssetBundleResources/Animators/Monsters/BrightStalker.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/Speedster.prefab
 - Assets/AssetBundleResources/Sprites/Items/LootDungeonKey.png
@@ -331,7 +332,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/CycloneSpiral.prefab
 - Assets/AssetBundleResources/Sprites/Equips/DemiseWand.png
 - Assets/AssetBundleResources/Animators/Monsters/SnowGhost.overrideController
-- Assets/AssetBundleResources/Animators/Monsters/Dragon.overrideController
+- Assets/AssetBundleResources/Animators/Monsters/HellDragoon.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/LittleMash.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/PoisonThunder.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/AquaBolt.prefab
