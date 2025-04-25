@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1504833317
+CRC: 3263219525
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 23c889861ee897e6df92a8280b0e8022
+    Hash: fd9048ed0eaa338cbcd00924ccc1046c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 23c889861ee897e6df92a8280b0e8022
+    Hash: fd9048ed0eaa338cbcd00924ccc1046c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -133,10 +133,11 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/GearHopper.overrideController
 - Assets/AssetBundleResources/Sprites/Effects/Stun.png
 - Assets/AssetBundleResources/Animators/Monsters/BrightStalker.overrideController
-- Assets/AssetBundleResources/Prefabs/Skills/Speedster.prefab
+- Assets/AssetBundleResources/Animators/Projectiles/ThunderBall.controller
 - Assets/AssetBundleResources/Sprites/Monsters/FoxArrow.png
 - Assets/AssetBundleResources/Animators/Monsters/GoldSlime.overrideController
 - Assets/AssetBundleResources/Animators/Canvas/KingSlime.controller
+- Assets/AssetBundleResources/Prefabs/Skills/Speedster.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/NightBat.png
 - Assets/AssetBundleResources/Animators/Monsters/BoneCaster.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/PlantTreant.png
@@ -154,6 +155,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/BrightStalker.png
 - Assets/AssetBundleResources/Sprites/Equips/GuardianArmor.png
 - Assets/Resources/Prefabs/Effects/PowerUpEffectPrefab.prefab
+- Assets/AssetBundleResources/Animators/Projectiles/ThunderBall_Idle.anim
 - Assets/AssetBundleResources/Sprites/Equips/TornadoBoots.png
 - Assets/AssetBundleResources/Animators/Monsters/QueenSlime.overrideController
 - Assets/AssetBundleResources/Sprites/Items/SilverChest.png
@@ -264,6 +266,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Blood_Idle.anim
 - Assets/AssetBundleResources/Sprites/Equips/DivineAegis.png
 - Assets/AssetBundleResources/Animators/Monsters/Piggy.overrideController
+- Assets/AssetBundleResources/Animators/Projectiles/ThunderBall.png
 - Assets/AssetBundleResources/Prefabs/Skills/DarkCircle.prefab
 - Assets/AssetBundleResources/Sprites/Items/WoodChest.png
 - Assets/AssetBundleResources/Sprites/Items/Gold.Png
