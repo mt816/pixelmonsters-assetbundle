@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2491540615
+CRC: 1504833317
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2236175fbbc7868bfa7ade25cf7747ad
+    Hash: 23c889861ee897e6df92a8280b0e8022
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2236175fbbc7868bfa7ade25cf7747ad
+    Hash: 23c889861ee897e6df92a8280b0e8022
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -62,7 +62,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Titles/NightmareMode.png
 - Assets/AssetBundleResources/Sprites/Monsters/AstralGolem.png
 - Assets/AssetBundleResources/Animators/Monsters/IceWidow.overrideController
-- Assets/AssetBundleResources/Prefabs/Skills/DivineGuard.prefab
+- Assets/AssetBundleResources/Prefabs/Skills/DivineGuardbk.prefab
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank1.png
 - Assets/AssetBundleResources/Sprites/Monsters/IceScorpion.png
 - Assets/AssetBundleResources/Animators/Projectiles/Water_Idle.anim
@@ -172,6 +172,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/WoodElement.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/AquaOrb.prefab
 - Assets/AssetBundleResources/Animators/Monsters/Mushroom.overrideController
+- Assets/AssetBundleResources/Prefabs/Skills/DivineGuard.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/Draphin.png
 - Assets/AssetBundleResources/Prefabs/Skills/Fangslash.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/DevilGuillotine.prefab
@@ -318,6 +319,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/ShadowBane.png
 - Assets/AssetBundleResources/Sprites/Monsters/SparkBot.png
 - Assets/AssetBundleResources/Sprites/Equips/RaijinAxe.png
+- Assets/AssetBundleResources/Sprites/Monsters/SaintRobe.png
 - Assets/AssetBundleResources/Animators/Monsters/ElderWood.overrideController
 - Assets/AssetBundleResources/Sprites/Items/BirdChest.png
 - Assets/AssetBundleResources/Prefabs/Skills/AttackBoost.prefab
@@ -377,6 +379,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/InfernoRing.png
 - Assets/AssetBundleResources/Animators/Projectiles/Wood_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Skills/Concentration.prefab
+- Assets/AssetBundleResources/Animators/Monsters/SaintRobe.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Ray_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Skills/FireCircle.prefab
 - Assets/AssetBundleResources/Sprites/Equips/CrimsonSword.png
