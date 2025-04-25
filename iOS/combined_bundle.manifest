@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1198020126
+CRC: 1629911082
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b5fa79a320686701abc7b78d688e677c
+    Hash: df7c0784608cd9edda64f99e35518d30
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b5fa79a320686701abc7b78d688e677c
+    Hash: df7c0784608cd9edda64f99e35518d30
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -65,6 +65,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/DivineGuardbk.prefab
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank1.png
 - Assets/AssetBundleResources/Sprites/Monsters/IceScorpion.png
+- Assets/AssetBundleResources/Sprites/Equips/HolyHealRing.png
 - Assets/AssetBundleResources/Animators/Projectiles/Water_Idle.anim
 - Assets/Resources/Prefabs/Effects/StunEffectPrefab.prefab
 - Assets/AssetBundleResources/Animators/Projectiles/Ice.controller
@@ -323,6 +324,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Monsters/ShadowBane.png
 - Assets/AssetBundleResources/Sprites/Monsters/SparkBot.png
+- Assets/AssetBundleResources/Sprites/Equips/DivineHealRing.png
 - Assets/AssetBundleResources/Sprites/Equips/RaijinAxe.png
 - Assets/AssetBundleResources/Sprites/Monsters/SaintRobe.png
 - Assets/AssetBundleResources/Animators/Monsters/ElderWood.overrideController
@@ -387,7 +389,6 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/InfernoRing.png
 - Assets/AssetBundleResources/Animators/Projectiles/Wood_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Skills/Concentration.prefab
-- Assets/AssetBundleResources/Sprites/Equips/DivineHealRing.png
 - Assets/AssetBundleResources/Animators/Monsters/SaintRobe.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Ray_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Skills/FireCircle.prefab
