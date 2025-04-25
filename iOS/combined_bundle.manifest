@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 414684056
+CRC: 604903825
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2cd3ae781795dc001f0a614a42f18b49
+    Hash: b3cbc39d210d7b813dc6f0a03ab638df
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2cd3ae781795dc001f0a614a42f18b49
+    Hash: b3cbc39d210d7b813dc6f0a03ab638df
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -234,6 +234,7 @@ Assets:
 - Assets/Resources/Prefabs/Effects/PoisonEffectPrefab.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/DevilHand.prefab
 - Assets/AssetBundleResources/Sprites/Items/SpeedupSand.png
+- Assets/AssetBundleResources/Sprites/Monsters/PhantomLancer.png
 - Assets/AssetBundleResources/Sprites/Monsters/TallSlime.png
 - Assets/AssetBundleResources/Animators/Monsters/TombEye.overrideController
 - Assets/AssetBundleResources/Sprites/Items/LoyalChest.png
@@ -265,6 +266,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/DivineTree.prefab
 - Assets/AssetBundleResources/Animators/Projectiles/Blood_Idle.anim
 - Assets/AssetBundleResources/Sprites/Equips/DivineAegis.png
+- Assets/AssetBundleResources/Sprites/Monsters/GoblinShaman.png
 - Assets/AssetBundleResources/Animators/Monsters/Piggy.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/ThunderBall.png
 - Assets/AssetBundleResources/Prefabs/Skills/DarkCircle.prefab
@@ -347,6 +349,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/Hellpaia.png
 - Assets/AssetBundleResources/Animators/Projectiles/Dark_Idle.anim
 - Assets/AssetBundleResources/Sprites/Monsters/BigSlime.png
+- Assets/AssetBundleResources/Animators/Monsters/GoblinShaman.overrideController
 - Assets/AssetBundleResources/Sprites/Items/BeastChest.png
 - Assets/AssetBundleResources/Animators/Monsters/Florage.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/ShadowBane.overrideController
@@ -378,6 +381,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/HellDragoon.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/LittleMash.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/FireElemental.overrideController
+- Assets/AssetBundleResources/Animators/Monsters/PhantomLancer.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Rock.png
 - Assets/AssetBundleResources/Sprites/Equips/InfernoRing.png
 - Assets/AssetBundleResources/Animators/Projectiles/Wood_Idle.anim
