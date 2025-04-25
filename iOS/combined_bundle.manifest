@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 604903825
+CRC: 1198020126
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b3cbc39d210d7b813dc6f0a03ab638df
+    Hash: b5fa79a320686701abc7b78d688e677c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b3cbc39d210d7b813dc6f0a03ab638df
+    Hash: b5fa79a320686701abc7b78d688e677c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -337,6 +337,7 @@ Assets:
 - Assets/Resources/Prefabs/Effects/BurnEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Equips/SharpAxe.png
 - Assets/AssetBundleResources/Sprites/Equips/ThunderHammer.png
+- Assets/AssetBundleResources/Sprites/Equips/DivineTome.png
 - Assets/AssetBundleResources/Animators/Projectiles/Leaf_Idle.anim
 - Assets/AssetBundleResources/Sprites/Equips/VenomDagger.png
 - Assets/AssetBundleResources/Animators/Monsters/Harpy.overrideController
@@ -386,23 +387,25 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/InfernoRing.png
 - Assets/AssetBundleResources/Animators/Projectiles/Wood_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Skills/Concentration.prefab
+- Assets/AssetBundleResources/Sprites/Equips/DivineHealRing.png
 - Assets/AssetBundleResources/Animators/Monsters/SaintRobe.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Ray_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Skills/FireCircle.prefab
 - Assets/AssetBundleResources/Sprites/Equips/CrimsonSword.png
 - Assets/AssetBundleResources/Sprites/Monsters/SantaSlime.png
-- Assets/AssetBundleResources/Sprites/Titles/ArenaRank15.png
+- Assets/AssetBundleResources/Prefabs/Skills/PoisonousThorns.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/SnowGhost.png
 - Assets/AssetBundleResources/Animators/Canvas/IceWidow.controller
-- Assets/AssetBundleResources/Prefabs/Skills/PoisonousThorns.prefab
+- Assets/AssetBundleResources/Sprites/Equips/AegisShield.png
 - Assets/AssetBundleResources/Animators/Projectiles/Rock_Idle.anim
 - Assets/AssetBundleResources/Sprites/Equips/CorrosiveDagger.png
-- Assets/AssetBundleResources/Sprites/Equips/AegisShield.png
 - Assets/AssetBundleResources/Animators/Projectiles/Thread_Idle.anim
 - Assets/AssetBundleResources/Animators/Monsters/IceScorpion.overrideController
+- Assets/AssetBundleResources/Sprites/Equips/AzureSkyBow.png
 - Assets/AssetBundleResources/Sprites/Monsters/CrystalGolem.png
 - Assets/AssetBundleResources/Animators/Monsters/HornRabbit.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/Snowbread.png
+- Assets/AssetBundleResources/Sprites/Titles/ArenaRank15.png
 - Assets/AssetBundleResources/Sprites/Monsters/HellDragoon.png
 - Assets/AssetBundleResources/Sprites/Monsters/SkullTrio.png
 Dependencies: []
