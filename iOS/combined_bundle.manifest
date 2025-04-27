@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1936815345
+CRC: 2143088130
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1d2f28f9e73e988f29b3e4513de81c22
+    Hash: baed13c4260f9736af5670486f93964d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1d2f28f9e73e988f29b3e4513de81c22
+    Hash: baed13c4260f9736af5670486f93964d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -231,6 +231,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/GearHopper.png
 - Assets/AssetBundleResources/Sprites/Equips/ThousandStrikeRing.png
 - Assets/AssetBundleResources/Animators/Monsters/SlimeCannon.overrideController
+- Assets/AssetBundleResources/Sprites/Titles/HellMode.png
 - Assets/AssetBundleResources/Sprites/Items/TuningBookShine.png
 - Assets/Resources/Prefabs/Effects/PoisonEffectPrefab.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/DevilHand.prefab
