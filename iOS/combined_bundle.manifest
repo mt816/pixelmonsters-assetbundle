@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2143088130
+CRC: 1542427328
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: baed13c4260f9736af5670486f93964d
+    Hash: 71436a2ede1286017e2f10227d26b268
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: baed13c4260f9736af5670486f93964d
+    Hash: 71436a2ede1286017e2f10227d26b268
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -204,8 +204,10 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/Hellpaia.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/SlimeCannon.png
 - Assets/AssetBundleResources/Sprites/Equips/WhirlwindDagger.png
-- Assets/AssetBundleResources/Sprites/Monsters/Piggy.png
+- Assets/AssetBundleResources/Animators/Canvas/ElderWood_Idle.anim
+- Assets/AssetBundleResources/Animators/Canvas/ElderWood.controller
 - Assets/Resources/Prefabs/Effects/SlowEffectPrefab.prefab
+- Assets/AssetBundleResources/Sprites/Monsters/Piggy.png
 - Assets/AssetBundleResources/Sprites/Monsters/ShadowFang.png
 - Assets/AssetBundleResources/Sprites/Titles/CollectionEquip.png
 - Assets/AssetBundleResources/Prefabs/Skills/WindBladeVortex.prefab
