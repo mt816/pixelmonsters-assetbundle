@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 928984506
+CRC: 938433317
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 97683162d4eb479d3ad18b8f0b4066e0
+    Hash: 37d8400ff9b02c86ce931eec8201d4cc
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 97683162d4eb479d3ad18b8f0b4066e0
+    Hash: 37d8400ff9b02c86ce931eec8201d4cc
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -343,7 +343,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/AttackBoost.prefab
 - Assets/Resources/Prefabs/Effects/DeathEffectPrefab.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/BlackHeartbeat.prefab
-- Assets/AssetBundleResources/Sprites/Items/DimensionKey.png
+- Assets/AssetBundleResources/Sprites/Items/DescentDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Monsters/Slime.png
 - Assets/AssetBundleResources/Animators/Projectiles/Ray.png
 - Assets/AssetBundleResources/Sprites/Equips/SharpRing.png
