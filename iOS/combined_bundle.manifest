@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2436401079
+CRC: 3186678920
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 63a60fa156a1f9806dd32fb44525ff46
+    Hash: 2b3c4e832a1d79e7487ecc508329b8a8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 63a60fa156a1f9806dd32fb44525ff46
+    Hash: 2b3c4e832a1d79e7487ecc508329b8a8
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -203,6 +203,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Canvas/KingSlime_Idle.anim
 - Assets/AssetBundleResources/Animators/Canvas/PhantomLancer_Idle.anim
 - Assets/AssetBundleResources/Animators/Monsters/ShadowSpecter.overrideController
+- Assets/AssetBundleResources/Animators/Canvas/BarkTroll_Idle.anim
 - Assets/AssetBundleResources/Animators/Monsters/UndeadHarpy.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/Hellpaia.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/SlimeCannon.png
@@ -226,10 +227,10 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Effects/DEF.png
 - Assets/AssetBundleResources/Animators/Canvas/QueenSlime_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Skills/SlowThunder.prefab
-- Assets/AssetBundleResources/Sprites/Monsters/UndeadHarpy.png
 - Assets/AssetBundleResources/Sprites/Equips/UnyieldingRing.png
-- Assets/AssetBundleResources/Animators/Canvas/PhantomLancer.controller
 - Assets/AssetBundleResources/Sprites/Items/AdSkipIndefinitely.png
+- Assets/AssetBundleResources/Animators/Canvas/PhantomLancer.controller
+- Assets/AssetBundleResources/Sprites/Monsters/UndeadHarpy.png
 - Assets/AssetBundleResources/Sprites/Monsters/IceWidow.png
 - Assets/AssetBundleResources/Animators/Monsters/AstralGolem.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Wind.controller
@@ -364,6 +365,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Dark_Idle.anim
 - Assets/AssetBundleResources/Sprites/Monsters/BigSlime.png
 - Assets/AssetBundleResources/Animators/Monsters/GoblinShaman.overrideController
+- Assets/AssetBundleResources/Animators/Canvas/BarkTroll.controller
 - Assets/AssetBundleResources/Sprites/Items/BeastChest.png
 - Assets/AssetBundleResources/Animators/Monsters/Florage.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/ShadowBane.overrideController
