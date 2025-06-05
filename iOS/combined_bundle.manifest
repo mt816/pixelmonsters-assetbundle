@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3618791093
+CRC: 3362754877
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 791023e6932a4f3bc6bcde2aba0d069f
+    Hash: b2d0d34c47b2a0f6ea7c0b14f766cd91
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 791023e6932a4f3bc6bcde2aba0d069f
+    Hash: b2d0d34c47b2a0f6ea7c0b14f766cd91
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -101,6 +101,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/TombEye.png
 - Assets/AssetBundleResources/Sprites/Equips/ThunderAxe.png
 - Assets/AssetBundleResources/Animators/Monsters/FrogSaber.overrideController
+- Assets/AssetBundleResources/Sprites/Items/RuneCore.png
 - Assets/AssetBundleResources/Sprites/Equips/StormGodHammer.png
 - Assets/AssetBundleResources/Sprites/Effects/ATK.png
 - Assets/AssetBundleResources/Sprites/Monsters/SnowBird.png
@@ -333,13 +334,12 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/Piggy.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/ThunderBall.png
 - Assets/AssetBundleResources/Prefabs/Skills/DarkCircle.prefab
-- Assets/AssetBundleResources/Sprites/Items/RuneCore.png
+- Assets/AssetBundleResources/Sprites/Items/WoodChest.png
 - Assets/AssetBundleResources/Sprites/Items/Gold.Png
 - Assets/AssetBundleResources/Prefabs/Skills/TempestStorm.prefab
 - Assets/AssetBundleResources/Animators/Projectiles/SlimeBall.png
 - Assets/AssetBundleResources/Animators/Canvas/HellDragoon_Idle.anim
 - Assets/AssetBundleResources/Animators/Projectiles/Wood.controller
-- Assets/AssetBundleResources/Sprites/Items/WoodChest.png
 - Assets/AssetBundleResources/Animators/Projectiles/Shot_Idle.anim
 - Assets/AssetBundleResources/Sprites/Monsters/FireElement.png
 - Assets/AssetBundleResources/Animators/Monsters/WhiteWolf.overrideController
