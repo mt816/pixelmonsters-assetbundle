@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3653556104
+CRC: 2754708002
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1dd7f5e0117d1f924e2781084d544861
+    Hash: 1213a05b78d0f1c58cd8438dc68c5c52
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1dd7f5e0117d1f924e2781084d544861
+    Hash: 1213a05b78d0f1c58cd8438dc68c5c52
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -418,6 +418,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/RunesBK/WaterRune.png
 - Assets/AssetBundleResources/Sprites/Equips/DivineTome.png
 - Assets/AssetBundleResources/Animators/Projectiles/Leaf_Idle.anim
+- Assets/AssetBundleResources/Sprites/Runes/RuneCore.png
 - Assets/AssetBundleResources/Sprites/Equips/VenomDagger.png
 - Assets/AssetBundleResources/Sprites/Runes/DemonRuneSR.png
 - Assets/AssetBundleResources/Animators/Monsters/Harpy.overrideController
