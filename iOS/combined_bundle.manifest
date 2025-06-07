@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3450380576
+CRC: 3433424373
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d48874081269e46bcd19015f2566ad71
+    Hash: 2d91329cd5a7b0421095c215f210e420
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d48874081269e46bcd19015f2566ad71
+    Hash: 2d91329cd5a7b0421095c215f210e420
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -323,6 +323,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Breath.controller
 - Assets/AssetBundleResources/Prefabs/Skills/teleportblueorb.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/CrystalShock.prefab
+- Assets/AssetBundleResources/Sprites/Titles/CollectionRune.png
 - Assets/AssetBundleResources/Prefabs/Skills/StanThunder.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/DivineTree.prefab
 - Assets/AssetBundleResources/Animators/Projectiles/Blood_Idle.anim
