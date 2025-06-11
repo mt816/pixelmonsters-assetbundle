@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 505795509
+CRC: 3479751910
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6fd937ab304c3b08b815331b650e4f8f
+    Hash: fa632d5f47cba255ae719759d6e27ffc
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6fd937ab304c3b08b815331b650e4f8f
+    Hash: fa632d5f47cba255ae719759d6e27ffc
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -132,7 +132,7 @@ Assets:
 - Assets/Resources/Prefabs/Effects/PowerDownEffectPrefab.prefab
 - Assets/AssetBundleResources/Animators/Monsters/BarkTroll.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/PlantSeeder.overrideController
-- Assets/AssetBundleResources/Sprites/Runes/DemonRuneEX.png
+- Assets/AssetBundleResources/Sprites/Runes/WoundRuneEX.png
 - Assets/AssetBundleResources/Animators/Projectiles/Ice_Idle.anim
 - Assets/AssetBundleResources/Animators/Monsters/SkullTrio.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/GoldSlime.png
@@ -254,7 +254,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Canvas/ElderWood.controller
 - Assets/Resources/Prefabs/Effects/SlowEffectPrefab.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/ShadowFang.png
-- Assets/AssetBundleResources/Sprites/Runes/DemonRuneUR.png
+- Assets/AssetBundleResources/Sprites/Runes/WoundRuneUR.png
 - Assets/AssetBundleResources/Prefabs/Skills/WindBladeVortex.prefab
 - Assets/AssetBundleResources/Sprites/Runes/WoodRuneSR.png
 - Assets/AssetBundleResources/Sprites/Titles/CollectionEquip.png
@@ -296,7 +296,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/TallSlime.png
 - Assets/AssetBundleResources/Animators/Monsters/TombEye.overrideController
 - Assets/AssetBundleResources/Sprites/Items/LoyalChest.png
-- Assets/AssetBundleResources/Sprites/Runes/DemonRuneR.png
+- Assets/AssetBundleResources/Sprites/Runes/WoundRuneR.png
 - Assets/AssetBundleResources/Animators/Monsters/WildFang.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/NightBat.overrideController
 - Assets/AssetBundleResources/Sprites/Titles/CollectionMonster.png
@@ -421,7 +421,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Leaf_Idle.anim
 - Assets/AssetBundleResources/Sprites/Runes/RuneCore.png
 - Assets/AssetBundleResources/Sprites/Equips/VenomDagger.png
-- Assets/AssetBundleResources/Sprites/Runes/DemonRuneSR.png
+- Assets/AssetBundleResources/Sprites/Runes/WoundRuneSR.png
 - Assets/AssetBundleResources/Animators/Monsters/Harpy.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Thread.controller
 - Assets/AssetBundleResources/Sprites/Effects/DEFDown.png
