@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4235041540
+CRC: 4061829454
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3b07431afd990392aad6c50ac8991a1f
+    Hash: f89cdc9139aa67dbf09b612d134a2659
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3b07431afd990392aad6c50ac8991a1f
+    Hash: f89cdc9139aa67dbf09b612d134a2659
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -129,8 +129,10 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/Westerpass.png
 - Assets/AssetBundleResources/Sprites/Runes/QuickRuneEX.png
 - Assets/AssetBundleResources/Prefabs/Skills/BlindScorch.prefab
+- Assets/AssetBundleResources/Sprites/Monsters/EmberWisp.png
 - Assets/Resources/Prefabs/Effects/PowerDownEffectPrefab.prefab
 - Assets/AssetBundleResources/Animators/Monsters/BarkTroll.overrideController
+- Assets/AssetBundleResources/Animators/Monsters/EmberWisp.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/PlantSeeder.overrideController
 - Assets/AssetBundleResources/Sprites/Runes/WoundRuneEX.png
 - Assets/AssetBundleResources/Animators/Projectiles/Ice_Idle.anim
