@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1419632927
+CRC: 3744309183
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ee07a95cfaf4e94632522462b47c75ea
+    Hash: 4002fab3233671fa8ca2543cb9f9f1c4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ee07a95cfaf4e94632522462b47c75ea
+    Hash: 4002fab3233671fa8ca2543cb9f9f1c4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -427,6 +427,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/RunesBK/WoodRune.png
 - Assets/AssetBundleResources/Prefabs/Skills/DragonStrike.prefab
 - Assets/AssetBundleResources/Animators/Monsters/FoxArrow.overrideController
+- Assets/AssetBundleResources/Sprites/Items/GodChest.png
 - Assets/AssetBundleResources/Sprites/Runes/FortressRuneEX.png
 - Assets/AssetBundleResources/Sprites/Monsters/Hellpaia.png
 - Assets/AssetBundleResources/Animators/Projectiles/Dark_Idle.anim
@@ -437,7 +438,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/Florage.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/WoodElemental.png
 - Assets/AssetBundleResources/Sprites/Monsters/WhiteWolf.png
-- Assets/AssetBundleResources/Sprites/Items/GodChest.png
+- Assets/AssetBundleResources/Sprites/Items/GodChestBK.png
 - Assets/AssetBundleResources/Animators/Projectiles/SlimeBall.controller
 - Assets/AssetBundleResources/Prefabs/Skills/BeamLaser.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/Earthquake.prefab
