@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1713394099
+CRC: 2775384219
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: be10c2983f112d8402a75c66a6a98bb2
+    Hash: 9f44354c3f756569b8802bcd6c027887
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: be10c2983f112d8402a75c66a6a98bb2
+    Hash: 9f44354c3f756569b8802bcd6c027887
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -201,6 +201,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/CrimsonImp.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/Slime.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/SlimeBall_Idle.anim
+- Assets/AssetBundleResources/Sprites/Equips/OniGodBattleAxe.png
 - Assets/AssetBundleResources/Sprites/Monsters/BarkTroll.png
 - Assets/AssetBundleResources/Prefabs/Skills/SandTornado.prefab
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank2.png
@@ -247,12 +248,12 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/UndeadHarpy.overrideController
 - Assets/AssetBundleResources/Animators/Canvas/DarkSmasher.controller
 - Assets/AssetBundleResources/Animators/Monsters/Hellpaia.overrideController
-- Assets/AssetBundleResources/Sprites/Monsters/SlimeCannon.png
 - Assets/AssetBundleResources/Sprites/Equips/WhirlwindDagger.png
+- Assets/AssetBundleResources/Sprites/Monsters/SlimeCannon.png
+- Assets/AssetBundleResources/Sprites/Monsters/Piggy.png
 - Assets/AssetBundleResources/Animators/Canvas/ElderWood_Idle.anim
 - Assets/AssetBundleResources/Animators/Canvas/ElderWood.controller
 - Assets/Resources/Prefabs/Effects/SlowEffectPrefab.prefab
-- Assets/AssetBundleResources/Sprites/Monsters/Piggy.png
 - Assets/AssetBundleResources/Sprites/Monsters/ShadowFang.png
 - Assets/AssetBundleResources/Sprites/Runes/WoundRuneUR.png
 - Assets/AssetBundleResources/Prefabs/Skills/WindBladeVortex.prefab
@@ -273,14 +274,15 @@ Assets:
 - Assets/AssetBundleResources/Animators/Canvas/QueenSlime_Idle.anim
 - Assets/AssetBundleResources/Sprites/Effects/DEF.png
 - Assets/AssetBundleResources/Prefabs/Skills/SlowThunder.prefab
-- Assets/AssetBundleResources/Sprites/Equips/UnyieldingRing.png
+- Assets/AssetBundleResources/Sprites/Equips/CalamityTome.png
 - Assets/AssetBundleResources/Sprites/Items/AdSkipIndefinitely.png
 - Assets/AssetBundleResources/Animators/Canvas/PhantomLancer.controller
-- Assets/AssetBundleResources/Sprites/Monsters/UndeadHarpy.png
+- Assets/AssetBundleResources/Sprites/Equips/UnyieldingRing.png
 - Assets/AssetBundleResources/Sprites/Monsters/IceWidow.png
 - Assets/AssetBundleResources/Animators/Monsters/AstralGolem.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Wind.controller
 - Assets/AssetBundleResources/Animators/Monsters/SparkBot.overrideController
+- Assets/AssetBundleResources/Sprites/Monsters/UndeadHarpy.png
 - Assets/AssetBundleResources/Sprites/Runes/FlameRuneUR.png
 - Assets/AssetBundleResources/Sprites/Monsters/GearHopper.png
 - Assets/AssetBundleResources/Sprites/Equips/ThousandStrikeRing.png
@@ -350,6 +352,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Runes/KeenRuneSR.png
 - Assets/AssetBundleResources/Animators/Projectiles/Air_Idle.anim
 - Assets/AssetBundleResources/Animators/Canvas/Harpy.controller
+- Assets/AssetBundleResources/Sprites/Equips/OniFangBattleAxe.png
 - Assets/AssetBundleResources/Animators/Canvas/Harpy_Idle.anim
 - Assets/AssetBundleResources/Sprites/Monsters/IceScorpionBK.png
 - Assets/AssetBundleResources/Animators/Monsters/LeafImp.overrideController
@@ -492,11 +495,12 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/CorrosiveDagger.png
 - Assets/AssetBundleResources/Animators/Projectiles/Thread_Idle.anim
 - Assets/AssetBundleResources/Animators/Monsters/IceScorpion.overrideController
-- Assets/AssetBundleResources/Sprites/Equips/AzureSkyBow.png
+- Assets/AssetBundleResources/Sprites/Equips/CursechantTome.png
 - Assets/AssetBundleResources/Sprites/Monsters/CrystalGolem.png
 - Assets/AssetBundleResources/Animators/Monsters/HornRabbit.overrideController
 - Assets/AssetBundleResources/Sprites/Runes/QuickRuneUR.png
 - Assets/AssetBundleResources/Sprites/Monsters/Snowbread.png
+- Assets/AssetBundleResources/Sprites/Equips/AzureSkyBow.png
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank15.png
 - Assets/AssetBundleResources/Sprites/Runes/DarkRuneSR.png
 - Assets/AssetBundleResources/Sprites/Monsters/HellDragoon.png
