@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1434076584
+CRC: 1617476196
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5b00e463abd4e020e1824bf63d98c8e1
+    Hash: a43f90fe053803c4f5ea5ec755807b1b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5b00e463abd4e020e1824bf63d98c8e1
+    Hash: a43f90fe053803c4f5ea5ec755807b1b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -205,9 +205,8 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/SlimeBall_Idle.anim
 - Assets/AssetBundleResources/Sprites/Equips/OniGodBattleAxe.png
 - Assets/AssetBundleResources/Sprites/Monsters/BarkTroll.png
-- Assets/AssetBundleResources/Animators/Monsters/DarkSlime.overrideController
+- Assets/AssetBundleResources/Animators/Monsters/NecroSlime.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/SandTornado.prefab
-- Assets/AssetBundleResources/Sprites/Monsters/DarkSlime.png
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank2.png
 - Assets/AssetBundleResources/Animators/Projectiles/Ray.controller
 - Assets/AssetBundleResources/Animators/Projectiles/Fire.controller
@@ -393,6 +392,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/IronShield.png
 - Assets/AssetBundleResources/Sprites/Runes/DarkRuneEX.png
 - Assets/AssetBundleResources/Sprites/Equips/IronBreastplate.png
+- Assets/AssetBundleResources/Sprites/Monsters/NecroSlime.png
 - Assets/AssetBundleResources/Prefabs/Skills/DragonProtection.prefab
 - Assets/AssetBundleResources/Animators/Projectiles/Dark.controller
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank11100.png
