@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3190455835
+CRC: 3502777933
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3cd046324febe9cee204e8da314077ce
+    Hash: 499091758b7193365a6a0e3395615552
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3cd046324febe9cee204e8da314077ce
+    Hash: 499091758b7193365a6a0e3395615552
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -177,6 +177,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Runes/WaterRuneEX.png
 - Assets/AssetBundleResources/Sprites/Runes/KeenRuneEX.png
 - Assets/AssetBundleResources/Animators/Canvas/IceScorpion.controller
+- Assets/AssetBundleResources/Prefabs/Skills/VenomImpact.prefab
 - Assets/AssetBundleResources/Sprites/RunesBK/BirdRuneEX.png
 - Assets/AssetBundleResources/Sprites/Items/SummonStone.png
 - Assets/AssetBundleResources/Prefabs/Skills/BirdPhantom.prefab
