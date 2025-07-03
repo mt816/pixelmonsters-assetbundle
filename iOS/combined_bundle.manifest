@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1266941400
+CRC: 3986712044
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1f536da66889b5d42ed21a7d747ba7b5
+    Hash: f80111b0dfe398b74d856e553b229304
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1f536da66889b5d42ed21a7d747ba7b5
+    Hash: f80111b0dfe398b74d856e553b229304
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -214,6 +214,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/WoodElement.overrideController
 - Assets/AssetBundleResources/Sprites/Runes/QuickRuneR.png
 - Assets/AssetBundleResources/Prefabs/Skills/AquaOrb.prefab
+- Assets/AssetBundleResources/Sprites/Monsters/AquaNemesis.png
 - Assets/AssetBundleResources/Animators/Monsters/Mushroom.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/DivineGuard.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/Draphin.png
@@ -358,7 +359,6 @@ Assets:
 - Assets/AssetBundleResources/Animators/Canvas/Harpy.controller
 - Assets/AssetBundleResources/Sprites/Equips/OniFangBattleAxe.png
 - Assets/AssetBundleResources/Animators/Canvas/Harpy_Idle.anim
-- Assets/AssetBundleResources/Sprites/Monsters/IceScorpionBK.png
 - Assets/AssetBundleResources/Animators/Monsters/LeafImp.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/SantaSlime.overrideController
 - Assets/AssetBundleResources/Sprites/Runes/WaterRuneSR.png
@@ -408,8 +408,9 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/SaintRobe.png
 - Assets/AssetBundleResources/Animators/Monsters/ElderWood.overrideController
 - Assets/AssetBundleResources/Sprites/Runes/FlameRuneSR.png
-- Assets/AssetBundleResources/Sprites/RunesBK/ElementRune.png
+- Assets/AssetBundleResources/Animators/Monsters/AquaNemesis.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/AttackBoost.prefab
+- Assets/AssetBundleResources/Sprites/RunesBK/ElementRune.png
 - Assets/Resources/Prefabs/Effects/DeathEffectPrefab.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/BlackHeartbeat.prefab
 - Assets/AssetBundleResources/Sprites/Items/DescentDungeonKey.png
