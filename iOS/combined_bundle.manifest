@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2871675145
+CRC: 2173467666
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f3ee4e21dc53a479b28b80f72167edfe
+    Hash: 97408a1c7c664f518c3ba4b7d32eaf8d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f3ee4e21dc53a479b28b80f72167edfe
+    Hash: 97408a1c7c664f518c3ba4b7d32eaf8d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -54,7 +54,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/AssetBundleResources/Sprites/Runes/LightRuneSR.png
 - Assets/AssetBundleResources/Animators/Projectiles/Arrow.png
-- Assets/AssetBundleResources/Sprites/Monsters/Rotbark.png
+- Assets/AssetBundleResources/Sprites/Monsters/Yominoki.png
 - Assets/AssetBundleResources/Sprites/Monsters/DarkSmasher.png
 - Assets/AssetBundleResources/Animators/Monsters/Venoshroom.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/ArcaneTome.png
@@ -185,7 +185,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Rock.controller
 - Assets/AssetBundleResources/Animators/Monsters/TallSlime.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/BrightStalker.png
-- Assets/AssetBundleResources/Animators/Monsters/Rotbark.overrideController
+- Assets/AssetBundleResources/Animators/Monsters/Yominoki.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/GuardianArmor.png
 - Assets/Resources/Prefabs/Effects/PowerUpEffectPrefab.prefab
 - Assets/AssetBundleResources/Animators/Projectiles/ThunderBall_Idle.anim
@@ -423,6 +423,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/SharpAxe.png
 - Assets/AssetBundleResources/Sprites/Equips/ThunderHammer.png
 - Assets/AssetBundleResources/Sprites/RunesBK/WaterRune.png
+- Assets/AssetBundleResources/Prefabs/Skills/AbyssCrime.prefab
 - Assets/AssetBundleResources/Sprites/Equips/DivineTome.png
 - Assets/AssetBundleResources/Animators/Projectiles/Leaf_Idle.anim
 - Assets/AssetBundleResources/Sprites/Runes/RuneCore.png
