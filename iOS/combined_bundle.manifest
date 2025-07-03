@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2775384219
+CRC: 642322660
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9f44354c3f756569b8802bcd6c027887
+    Hash: f43beb369a52d3a9855c33eda7b77b42
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9f44354c3f756569b8802bcd6c027887
+    Hash: f43beb369a52d3a9855c33eda7b77b42
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -54,6 +54,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/AssetBundleResources/Sprites/Runes/LightRuneSR.png
 - Assets/AssetBundleResources/Animators/Projectiles/Arrow.png
+- Assets/AssetBundleResources/Sprites/Monsters/Rotbark.png
 - Assets/AssetBundleResources/Sprites/Monsters/DarkSmasher.png
 - Assets/AssetBundleResources/Animators/Monsters/Venoshroom.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/ArcaneTome.png
@@ -184,6 +185,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Rock.controller
 - Assets/AssetBundleResources/Animators/Monsters/TallSlime.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/BrightStalker.png
+- Assets/AssetBundleResources/Animators/Monsters/Rotbark.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/GuardianArmor.png
 - Assets/Resources/Prefabs/Effects/PowerUpEffectPrefab.prefab
 - Assets/AssetBundleResources/Animators/Projectiles/ThunderBall_Idle.anim
