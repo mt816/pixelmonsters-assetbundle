@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 642322660
+CRC: 1266941400
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f43beb369a52d3a9855c33eda7b77b42
+    Hash: 1f536da66889b5d42ed21a7d747ba7b5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f43beb369a52d3a9855c33eda7b77b42
+    Hash: 1f536da66889b5d42ed21a7d747ba7b5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -205,7 +205,9 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/SlimeBall_Idle.anim
 - Assets/AssetBundleResources/Sprites/Equips/OniGodBattleAxe.png
 - Assets/AssetBundleResources/Sprites/Monsters/BarkTroll.png
+- Assets/AssetBundleResources/Animators/Monsters/DarkSlime.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/SandTornado.prefab
+- Assets/AssetBundleResources/Sprites/Monsters/DarkSlime.png
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank2.png
 - Assets/AssetBundleResources/Animators/Projectiles/Ray.controller
 - Assets/AssetBundleResources/Animators/Projectiles/Fire.controller
@@ -398,9 +400,9 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/DominateChain.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/Florage.png
 - Assets/AssetBundleResources/Animators/Canvas/CrimsonMask.controller
+- Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Monsters/ShadowBane.png
 - Assets/AssetBundleResources/Sprites/Monsters/SparkBot.png
-- Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Equips/DivineHealNecklace.png
 - Assets/AssetBundleResources/Sprites/Equips/RaijinAxe.png
 - Assets/AssetBundleResources/Sprites/Monsters/SaintRobe.png
@@ -439,8 +441,8 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/BigSlime.png
 - Assets/AssetBundleResources/Animators/Monsters/GoblinShaman.overrideController
 - Assets/AssetBundleResources/Animators/Canvas/BarkTroll.controller
-- Assets/AssetBundleResources/Animators/Monsters/ShadowBane.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/Florage.overrideController
+- Assets/AssetBundleResources/Animators/Monsters/ShadowBane.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/WoodElemental.png
 - Assets/AssetBundleResources/Sprites/Monsters/WhiteWolf.png
 - Assets/AssetBundleResources/Sprites/Items/GodChest.png
