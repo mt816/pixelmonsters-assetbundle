@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3502777933
+CRC: 1994355121
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 499091758b7193365a6a0e3395615552
+    Hash: 3da2a364942d5aedfabd837b01855166
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 499091758b7193365a6a0e3395615552
+    Hash: 3da2a364942d5aedfabd837b01855166
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -93,6 +93,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Runes/FlameRuneEX.png
 - Assets/AssetBundleResources/Sprites/Monsters/QueenSlime.png
 - Assets/AssetBundleResources/Sprites/RunesBK/DemonRuneEX.png
+- Assets/AssetBundleResources/Sprites/Monsters/BlackWolf.png
 - Assets/AssetBundleResources/Prefabs/Skills/FlameBreath.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/IceNinja.png
 - Assets/AssetBundleResources/Sprites/Equips/IronSword.png
@@ -214,6 +215,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/WoodElement.overrideController
 - Assets/AssetBundleResources/Sprites/Runes/QuickRuneR.png
 - Assets/AssetBundleResources/Prefabs/Skills/AquaOrb.prefab
+- Assets/AssetBundleResources/Animators/Monsters/BlackWolf.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/AquaNemesis.png
 - Assets/AssetBundleResources/Animators/Monsters/Mushroom.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/DivineGuard.prefab
