@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4169260122
+CRC: 2209881053
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 03b7cedbaa958d275ca0b4c140ba8bd4
+    Hash: 9775788aa5a231d98f95372a13fef8a0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 03b7cedbaa958d275ca0b4c140ba8bd4
+    Hash: 9775788aa5a231d98f95372a13fef8a0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -225,6 +225,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/DevilGuillotine.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/Spark.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/CryoBreath.prefab
+- Assets/AssetBundleResources/Sprites/Titles/DemiseMode.png
 - Assets/AssetBundleResources/Animators/Monsters/IceNinja.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Wind_Idle.anim
 - Assets/AssetBundleResources/Sprites/Monsters/FlameTroll.png
