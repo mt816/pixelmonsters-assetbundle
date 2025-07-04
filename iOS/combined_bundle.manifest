@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 543116106
+CRC: 4169260122
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 685ba6487af04705fb3bfcc0d9f1d8a6
+    Hash: 03b7cedbaa958d275ca0b4c140ba8bd4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 685ba6487af04705fb3bfcc0d9f1d8a6
+    Hash: 03b7cedbaa958d275ca0b4c140ba8bd4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -114,6 +114,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/Eaglord.png
 - Assets/AssetBundleResources/Animators/Monsters/CrystalGolem.overrideController
 - Assets/AssetBundleResources/Sprites/RunesBK/DarkRuneEX.png
+- Assets/AssetBundleResources/Sprites/Effects/MultiAttack.png
 - Assets/AssetBundleResources/Prefabs/Skills/LeafBurst.prefab
 - Assets/AssetBundleResources/Sprites/Runes/LightRuneUR.png
 - Assets/AssetBundleResources/Sprites/Monsters/FlameBird.png
@@ -380,6 +381,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/RunesBK/PlantRune.png
 - Assets/AssetBundleResources/Sprites/Equips/Ring_44.png
 - Assets/AssetBundleResources/Animators/Projectiles/Fire_Idle.anim
+- Assets/AssetBundleResources/Sprites/Effects/CritDamage.png
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank3.png
 - Assets/AssetBundleResources/Sprites/Monsters/Venoshroom.png
 - Assets/AssetBundleResources/Sprites/Equips/DivineGaleDagger.png
