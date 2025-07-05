@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2209881053
+CRC: 1944440438
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9775788aa5a231d98f95372a13fef8a0
+    Hash: f317ecb7c5e8a3fd5423817b7b43f255
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9775788aa5a231d98f95372a13fef8a0
+    Hash: f317ecb7c5e8a3fd5423817b7b43f255
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -207,9 +207,10 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/Slime.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/SlimeBall_Idle.anim
 - Assets/AssetBundleResources/Sprites/Equips/OniGodBattleAxe.png
-- Assets/AssetBundleResources/Sprites/Monsters/BarkTroll.png
+- Assets/AssetBundleResources/Sprites/Items/GodChest2.png
 - Assets/AssetBundleResources/Animators/Monsters/NecroSlime.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/SandTornado.prefab
+- Assets/AssetBundleResources/Sprites/Monsters/BarkTroll.png
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank2.png
 - Assets/AssetBundleResources/Animators/Projectiles/Ray.controller
 - Assets/AssetBundleResources/Animators/Projectiles/Fire.controller
@@ -389,6 +390,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/FrogSaber.png
 - Assets/AssetBundleResources/Sprites/Titles/NormalMode.png
 - Assets/AssetBundleResources/Sprites/RunesBK/BeastRune.png
+- Assets/AssetBundleResources/Sprites/Items/SilverChest2.png
 - Assets/AssetBundleResources/Sprites/Items/LootDungeonKey.png
 - Assets/AssetBundleResources/Animators/Monsters/Westerpass.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/PrecisionEyes.prefab
@@ -443,8 +445,9 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/WoodElemental.overrideController
 - Assets/AssetBundleResources/Sprites/RunesBK/WoodRune.png
 - Assets/AssetBundleResources/Prefabs/Skills/DragonStrike.prefab
+- Assets/AssetBundleResources/Sprites/Items/LoyalChest2.png
 - Assets/AssetBundleResources/Animators/Monsters/FoxArrow.overrideController
-- Assets/AssetBundleResources/Sprites/Items/GodChestBKK.png
+- Assets/AssetBundleResources/Sprites/Items/WoodChest2.png
 - Assets/AssetBundleResources/Sprites/Runes/FortressRuneEX.png
 - Assets/AssetBundleResources/Sprites/Monsters/Hellpaia.png
 - Assets/AssetBundleResources/Animators/Projectiles/Dark_Idle.anim
