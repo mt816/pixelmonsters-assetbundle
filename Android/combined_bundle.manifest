@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 765005361
+CRC: 3219115207
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 920b40969f73e9fc3da6f0cc49813449
+    Hash: 35c9b28e4db11384612026eefed0dd02
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 920b40969f73e9fc3da6f0cc49813449
+    Hash: 35c9b28e4db11384612026eefed0dd02
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -54,6 +54,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/AssetBundleResources/Sprites/Runes/LightRuneSR.png
 - Assets/AssetBundleResources/Animators/Projectiles/Arrow.png
+- Assets/AssetBundleResources/Sprites/Monsters/Yominoki.png
 - Assets/AssetBundleResources/Sprites/Monsters/DarkSmasher.png
 - Assets/AssetBundleResources/Animators/Monsters/Venoshroom.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/ArcaneTome.png
@@ -92,6 +93,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Runes/FlameRuneEX.png
 - Assets/AssetBundleResources/Sprites/Monsters/QueenSlime.png
 - Assets/AssetBundleResources/Sprites/RunesBK/DemonRuneEX.png
+- Assets/AssetBundleResources/Sprites/Monsters/BlackWolf.png
 - Assets/AssetBundleResources/Prefabs/Skills/FlameBreath.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/IceNinja.png
 - Assets/AssetBundleResources/Sprites/Equips/IronSword.png
@@ -112,6 +114,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/Eaglord.png
 - Assets/AssetBundleResources/Animators/Monsters/CrystalGolem.overrideController
 - Assets/AssetBundleResources/Sprites/RunesBK/DarkRuneEX.png
+- Assets/AssetBundleResources/Sprites/Effects/MultiAttack.png
 - Assets/AssetBundleResources/Prefabs/Skills/LeafBurst.prefab
 - Assets/AssetBundleResources/Sprites/Runes/LightRuneUR.png
 - Assets/AssetBundleResources/Sprites/Monsters/FlameBird.png
@@ -176,6 +179,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Runes/WaterRuneEX.png
 - Assets/AssetBundleResources/Sprites/Runes/KeenRuneEX.png
 - Assets/AssetBundleResources/Animators/Canvas/IceScorpion.controller
+- Assets/AssetBundleResources/Prefabs/Skills/VenomImpact.prefab
 - Assets/AssetBundleResources/Sprites/RunesBK/BirdRuneEX.png
 - Assets/AssetBundleResources/Sprites/Items/SummonStone.png
 - Assets/AssetBundleResources/Prefabs/Skills/BirdPhantom.prefab
@@ -184,6 +188,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Rock.controller
 - Assets/AssetBundleResources/Animators/Monsters/TallSlime.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/BrightStalker.png
+- Assets/AssetBundleResources/Animators/Monsters/Yominoki.overrideController
 - Assets/AssetBundleResources/Sprites/Equips/GuardianArmor.png
 - Assets/Resources/Prefabs/Effects/PowerUpEffectPrefab.prefab
 - Assets/AssetBundleResources/Animators/Projectiles/ThunderBall_Idle.anim
@@ -201,14 +206,19 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/CrimsonImp.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/Slime.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/SlimeBall_Idle.anim
-- Assets/AssetBundleResources/Sprites/Monsters/BarkTroll.png
+- Assets/AssetBundleResources/Sprites/Equips/OniGodBattleAxe.png
+- Assets/AssetBundleResources/Sprites/Items/GodChest2.png
+- Assets/AssetBundleResources/Animators/Monsters/NecroSlime.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/SandTornado.prefab
+- Assets/AssetBundleResources/Sprites/Monsters/BarkTroll.png
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank2.png
 - Assets/AssetBundleResources/Animators/Projectiles/Ray.controller
 - Assets/AssetBundleResources/Animators/Projectiles/Fire.controller
 - Assets/AssetBundleResources/Animators/Monsters/WoodElement.overrideController
 - Assets/AssetBundleResources/Sprites/Runes/QuickRuneR.png
 - Assets/AssetBundleResources/Prefabs/Skills/AquaOrb.prefab
+- Assets/AssetBundleResources/Animators/Monsters/BlackWolf.overrideController
+- Assets/AssetBundleResources/Sprites/Monsters/AquaNemesis.png
 - Assets/AssetBundleResources/Animators/Monsters/Mushroom.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/DivineGuard.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/Draphin.png
@@ -216,6 +226,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/DevilGuillotine.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/Spark.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/CryoBreath.prefab
+- Assets/AssetBundleResources/Sprites/Titles/DemiseMode.png
 - Assets/AssetBundleResources/Animators/Monsters/IceNinja.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Wind_Idle.anim
 - Assets/AssetBundleResources/Sprites/Monsters/FlameTroll.png
@@ -247,12 +258,12 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/UndeadHarpy.overrideController
 - Assets/AssetBundleResources/Animators/Canvas/DarkSmasher.controller
 - Assets/AssetBundleResources/Animators/Monsters/Hellpaia.overrideController
-- Assets/AssetBundleResources/Sprites/Monsters/SlimeCannon.png
 - Assets/AssetBundleResources/Sprites/Equips/WhirlwindDagger.png
+- Assets/AssetBundleResources/Sprites/Monsters/SlimeCannon.png
+- Assets/AssetBundleResources/Sprites/Monsters/Piggy.png
 - Assets/AssetBundleResources/Animators/Canvas/ElderWood_Idle.anim
 - Assets/AssetBundleResources/Animators/Canvas/ElderWood.controller
 - Assets/Resources/Prefabs/Effects/SlowEffectPrefab.prefab
-- Assets/AssetBundleResources/Sprites/Monsters/Piggy.png
 - Assets/AssetBundleResources/Sprites/Monsters/ShadowFang.png
 - Assets/AssetBundleResources/Sprites/Runes/WoundRuneUR.png
 - Assets/AssetBundleResources/Prefabs/Skills/WindBladeVortex.prefab
@@ -273,14 +284,15 @@ Assets:
 - Assets/AssetBundleResources/Animators/Canvas/QueenSlime_Idle.anim
 - Assets/AssetBundleResources/Sprites/Effects/DEF.png
 - Assets/AssetBundleResources/Prefabs/Skills/SlowThunder.prefab
-- Assets/AssetBundleResources/Sprites/Equips/UnyieldingRing.png
+- Assets/AssetBundleResources/Sprites/Equips/CalamityTome.png
 - Assets/AssetBundleResources/Sprites/Items/AdSkipIndefinitely.png
 - Assets/AssetBundleResources/Animators/Canvas/PhantomLancer.controller
-- Assets/AssetBundleResources/Sprites/Monsters/UndeadHarpy.png
+- Assets/AssetBundleResources/Sprites/Equips/UnyieldingRing.png
 - Assets/AssetBundleResources/Sprites/Monsters/IceWidow.png
 - Assets/AssetBundleResources/Animators/Monsters/AstralGolem.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Wind.controller
 - Assets/AssetBundleResources/Animators/Monsters/SparkBot.overrideController
+- Assets/AssetBundleResources/Sprites/Monsters/UndeadHarpy.png
 - Assets/AssetBundleResources/Sprites/Runes/FlameRuneUR.png
 - Assets/AssetBundleResources/Sprites/Monsters/GearHopper.png
 - Assets/AssetBundleResources/Sprites/Equips/ThousandStrikeRing.png
@@ -328,8 +340,9 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/DivineTree.prefab
 - Assets/AssetBundleResources/Animators/Projectiles/Blood_Idle.anim
 - Assets/AssetBundleResources/Sprites/Equips/DivineAegis.png
-- Assets/AssetBundleResources/Sprites/Runes/FlameRuneR.png
+- Assets/AssetBundleResources/Prefabs/Skills/MeltSphere.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/GoblinShaman.png
+- Assets/AssetBundleResources/Sprites/Runes/FlameRuneR.png
 - Assets/AssetBundleResources/Sprites/RunesBK/ManRune.png
 - Assets/AssetBundleResources/Animators/Canvas/EmberSaint_Idle.anim
 - Assets/AssetBundleResources/Animators/Monsters/Piggy.overrideController
@@ -350,8 +363,8 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Runes/KeenRuneSR.png
 - Assets/AssetBundleResources/Animators/Projectiles/Air_Idle.anim
 - Assets/AssetBundleResources/Animators/Canvas/Harpy.controller
+- Assets/AssetBundleResources/Sprites/Equips/OniFangBattleAxe.png
 - Assets/AssetBundleResources/Animators/Canvas/Harpy_Idle.anim
-- Assets/AssetBundleResources/Sprites/Monsters/IceScorpionBK.png
 - Assets/AssetBundleResources/Animators/Monsters/LeafImp.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/SantaSlime.overrideController
 - Assets/AssetBundleResources/Sprites/Runes/WaterRuneSR.png
@@ -370,12 +383,14 @@ Assets:
 - Assets/AssetBundleResources/Sprites/RunesBK/PlantRune.png
 - Assets/AssetBundleResources/Sprites/Equips/Ring_44.png
 - Assets/AssetBundleResources/Animators/Projectiles/Fire_Idle.anim
+- Assets/AssetBundleResources/Sprites/Effects/CritDamage.png
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank3.png
 - Assets/AssetBundleResources/Sprites/Monsters/Venoshroom.png
 - Assets/AssetBundleResources/Sprites/Equips/DivineGaleDagger.png
 - Assets/AssetBundleResources/Sprites/Monsters/FrogSaber.png
 - Assets/AssetBundleResources/Sprites/Titles/NormalMode.png
 - Assets/AssetBundleResources/Sprites/RunesBK/BeastRune.png
+- Assets/AssetBundleResources/Sprites/Items/SilverChest2.png
 - Assets/AssetBundleResources/Sprites/Items/LootDungeonKey.png
 - Assets/AssetBundleResources/Animators/Monsters/Westerpass.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/PrecisionEyes.prefab
@@ -385,6 +400,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/IronShield.png
 - Assets/AssetBundleResources/Sprites/Runes/DarkRuneEX.png
 - Assets/AssetBundleResources/Sprites/Equips/IronBreastplate.png
+- Assets/AssetBundleResources/Sprites/Monsters/NecroSlime.png
 - Assets/AssetBundleResources/Prefabs/Skills/DragonProtection.prefab
 - Assets/AssetBundleResources/Animators/Projectiles/Dark.controller
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank11100.png
@@ -393,19 +409,21 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/DominateChain.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/Florage.png
 - Assets/AssetBundleResources/Animators/Canvas/CrimsonMask.controller
+- Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Monsters/ShadowBane.png
 - Assets/AssetBundleResources/Sprites/Monsters/SparkBot.png
-- Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Equips/DivineHealNecklace.png
 - Assets/AssetBundleResources/Sprites/Equips/RaijinAxe.png
 - Assets/AssetBundleResources/Sprites/Monsters/SaintRobe.png
 - Assets/AssetBundleResources/Animators/Monsters/ElderWood.overrideController
 - Assets/AssetBundleResources/Sprites/Runes/FlameRuneSR.png
-- Assets/AssetBundleResources/Sprites/RunesBK/ElementRune.png
+- Assets/AssetBundleResources/Animators/Monsters/AquaNemesis.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/AttackBoost.prefab
+- Assets/AssetBundleResources/Sprites/RunesBK/ElementRune.png
 - Assets/Resources/Prefabs/Effects/DeathEffectPrefab.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/BlackHeartbeat.prefab
 - Assets/AssetBundleResources/Sprites/Items/DescentDungeonKey.png
+- Assets/AssetBundleResources/Prefabs/Skills/WolfBlaze.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/Slime.png
 - Assets/AssetBundleResources/Sprites/RunesBK/DemonRune.png
 - Assets/AssetBundleResources/Animators/Projectiles/Ray.png
@@ -414,6 +432,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/SharpAxe.png
 - Assets/AssetBundleResources/Sprites/Equips/ThunderHammer.png
 - Assets/AssetBundleResources/Sprites/RunesBK/WaterRune.png
+- Assets/AssetBundleResources/Prefabs/Skills/AbyssCrime.prefab
 - Assets/AssetBundleResources/Sprites/Equips/DivineTome.png
 - Assets/AssetBundleResources/Animators/Projectiles/Leaf_Idle.anim
 - Assets/AssetBundleResources/Sprites/Runes/RuneCore.png
@@ -426,16 +445,17 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/WoodElemental.overrideController
 - Assets/AssetBundleResources/Sprites/RunesBK/WoodRune.png
 - Assets/AssetBundleResources/Prefabs/Skills/DragonStrike.prefab
+- Assets/AssetBundleResources/Sprites/Items/LoyalChest2.png
 - Assets/AssetBundleResources/Animators/Monsters/FoxArrow.overrideController
-- Assets/AssetBundleResources/Sprites/Items/GodChestBKK.png
+- Assets/AssetBundleResources/Sprites/Items/WoodChest2.png
 - Assets/AssetBundleResources/Sprites/Runes/FortressRuneEX.png
 - Assets/AssetBundleResources/Sprites/Monsters/Hellpaia.png
 - Assets/AssetBundleResources/Animators/Projectiles/Dark_Idle.anim
 - Assets/AssetBundleResources/Sprites/Monsters/BigSlime.png
 - Assets/AssetBundleResources/Animators/Monsters/GoblinShaman.overrideController
 - Assets/AssetBundleResources/Animators/Canvas/BarkTroll.controller
-- Assets/AssetBundleResources/Animators/Monsters/ShadowBane.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/Florage.overrideController
+- Assets/AssetBundleResources/Animators/Monsters/ShadowBane.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/WoodElemental.png
 - Assets/AssetBundleResources/Sprites/Monsters/WhiteWolf.png
 - Assets/AssetBundleResources/Sprites/Items/GodChest.png
@@ -492,11 +512,12 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/CorrosiveDagger.png
 - Assets/AssetBundleResources/Animators/Projectiles/Thread_Idle.anim
 - Assets/AssetBundleResources/Animators/Monsters/IceScorpion.overrideController
-- Assets/AssetBundleResources/Sprites/Equips/AzureSkyBow.png
+- Assets/AssetBundleResources/Sprites/Equips/CursechantTome.png
 - Assets/AssetBundleResources/Sprites/Monsters/CrystalGolem.png
 - Assets/AssetBundleResources/Animators/Monsters/HornRabbit.overrideController
 - Assets/AssetBundleResources/Sprites/Runes/QuickRuneUR.png
 - Assets/AssetBundleResources/Sprites/Monsters/Snowbread.png
+- Assets/AssetBundleResources/Sprites/Equips/AzureSkyBow.png
 - Assets/AssetBundleResources/Sprites/Titles/ArenaRank15.png
 - Assets/AssetBundleResources/Sprites/Runes/DarkRuneSR.png
 - Assets/AssetBundleResources/Sprites/Monsters/HellDragoon.png
