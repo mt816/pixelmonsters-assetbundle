@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1944440438
+CRC: 1051765881
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f317ecb7c5e8a3fd5423817b7b43f255
+    Hash: c3d10bc4e6d4fe248988848050ab3adc
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f317ecb7c5e8a3fd5423817b7b43f255
+    Hash: c3d10bc4e6d4fe248988848050ab3adc
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -89,6 +89,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/DeadlyRing.png
 - Assets/AssetBundleResources/Sprites/Items/TuningBook.png
 - Assets/AssetBundleResources/Sprites/Runes/FortressRuneUR.png
+- Assets/AssetBundleResources/Sprites/Items/PremiumPassPermanent.Png
 - Assets/AssetBundleResources/Sprites/Runes/LightRuneR.png
 - Assets/AssetBundleResources/Sprites/Runes/FlameRuneEX.png
 - Assets/AssetBundleResources/Sprites/Monsters/QueenSlime.png
@@ -493,6 +494,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Projectiles/Rock.png
 - Assets/AssetBundleResources/Sprites/Runes/KeenRuneUR.png
 - Assets/AssetBundleResources/Sprites/Equips/InfernoRing.png
+- Assets/AssetBundleResources/Sprites/Items/PremiumPassMonthly.Png
 - Assets/AssetBundleResources/Animators/Projectiles/Wood_Idle.anim
 - Assets/AssetBundleResources/Sprites/Runes/LifestealRuneUR.png
 - Assets/AssetBundleResources/Prefabs/Skills/Concentration.prefab
