@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 418990564
+CRC: 1830887732
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1d2ab2a0d4bf589591d319bb62182253
+    Hash: 8eb5799e52d65e174a524bfe2df6b80b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1d2ab2a0d4bf589591d319bb62182253
+    Hash: 8eb5799e52d65e174a524bfe2df6b80b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -196,7 +196,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/RunesBK/BeastRuneEX.png
 - Assets/AssetBundleResources/Sprites/Equips/TornadoBoots.png
 - Assets/AssetBundleResources/Animators/Monsters/QueenSlime.overrideController
-- Assets/AssetBundleResources/Sprites/Items/SilverChest.png
+- Assets/AssetBundleResources/Sprites/Items/SilverChestBK.png
 - Assets/AssetBundleResources/Sprites/Titles/AbyssMode.png
 - Assets/AssetBundleResources/Sprites/Monsters/Mushroom.png
 - Assets/AssetBundleResources/Sprites/Runes/FlurryRuneUR.png
@@ -208,7 +208,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/Slime.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/SlimeBall_Idle.anim
 - Assets/AssetBundleResources/Sprites/Equips/OniGodBattleAxe.png
-- Assets/AssetBundleResources/Sprites/Items/GodChest2.png
+- Assets/AssetBundleResources/Sprites/Items/GodChest.png
 - Assets/AssetBundleResources/Animators/Monsters/NecroSlime.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/SandTornado.prefab
 - Assets/AssetBundleResources/Sprites/Monsters/BarkTroll.png
@@ -308,7 +308,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/PhantomLancer.png
 - Assets/AssetBundleResources/Sprites/Monsters/TallSlime.png
 - Assets/AssetBundleResources/Animators/Monsters/TombEye.overrideController
-- Assets/AssetBundleResources/Sprites/Items/LoyalChest.png
+- Assets/AssetBundleResources/Sprites/Items/LoyalChestBK.png
 - Assets/AssetBundleResources/Sprites/Runes/WoundRuneR.png
 - Assets/AssetBundleResources/Animators/Monsters/WildFang.overrideController
 - Assets/AssetBundleResources/Animators/Monsters/NightBat.overrideController
@@ -349,7 +349,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/Piggy.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/ThunderBall.png
 - Assets/AssetBundleResources/Prefabs/Skills/DarkCircle.prefab
-- Assets/AssetBundleResources/Sprites/Items/WoodChest.png
+- Assets/AssetBundleResources/Sprites/Items/WoodChestBK.png
 - Assets/AssetBundleResources/Sprites/Items/Gold.Png
 - Assets/AssetBundleResources/Prefabs/Skills/TempestStorm.prefab
 - Assets/AssetBundleResources/Animators/Projectiles/SlimeBall.png
@@ -391,7 +391,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Monsters/FrogSaber.png
 - Assets/AssetBundleResources/Sprites/Titles/NormalMode.png
 - Assets/AssetBundleResources/Sprites/RunesBK/BeastRune.png
-- Assets/AssetBundleResources/Sprites/Items/SilverChest2.png
+- Assets/AssetBundleResources/Sprites/Items/SilverChest.png
 - Assets/AssetBundleResources/Sprites/Items/LootDungeonKey.png
 - Assets/AssetBundleResources/Animators/Monsters/Westerpass.overrideController
 - Assets/AssetBundleResources/Prefabs/Skills/PrecisionEyes.prefab
@@ -446,9 +446,9 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/WoodElemental.overrideController
 - Assets/AssetBundleResources/Sprites/RunesBK/WoodRune.png
 - Assets/AssetBundleResources/Prefabs/Skills/DragonStrike.prefab
-- Assets/AssetBundleResources/Sprites/Items/LoyalChest2.png
+- Assets/AssetBundleResources/Sprites/Items/LoyalChest.png
 - Assets/AssetBundleResources/Animators/Monsters/FoxArrow.overrideController
-- Assets/AssetBundleResources/Sprites/Items/WoodChest2.png
+- Assets/AssetBundleResources/Sprites/Items/WoodChest.png
 - Assets/AssetBundleResources/Sprites/Runes/FortressRuneEX.png
 - Assets/AssetBundleResources/Sprites/Monsters/Hellpaia.png
 - Assets/AssetBundleResources/Animators/Projectiles/Dark_Idle.anim
@@ -459,7 +459,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/ShadowBane.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/WoodElemental.png
 - Assets/AssetBundleResources/Sprites/Monsters/WhiteWolf.png
-- Assets/AssetBundleResources/Sprites/Items/GodChest.png
+- Assets/AssetBundleResources/Sprites/Items/GodChestBK.png
 - Assets/AssetBundleResources/Animators/Projectiles/SlimeBall.controller
 - Assets/AssetBundleResources/Prefabs/Skills/BeamLaser.prefab
 - Assets/AssetBundleResources/Prefabs/Skills/Earthquake.prefab
