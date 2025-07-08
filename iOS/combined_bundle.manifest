@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 549911908
+CRC: 2334053661
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6b967b8b60cb031c8618d18c7e98654c
+    Hash: 9f869147fd0a88f04a5241986c850710
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6b967b8b60cb031c8618d18c7e98654c
+    Hash: 9f869147fd0a88f04a5241986c850710
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -285,16 +285,17 @@ Assets:
 - Assets/AssetBundleResources/Animators/Canvas/QueenSlime_Idle.anim
 - Assets/AssetBundleResources/Sprites/Effects/DEF.png
 - Assets/AssetBundleResources/Prefabs/Skills/SlowThunder.prefab
-- Assets/AssetBundleResources/Sprites/Equips/CalamityTome.png
+- Assets/AssetBundleResources/Sprites/Equips/UnyieldingRing.png
 - Assets/AssetBundleResources/Sprites/Items/AdSkipIndefinitely.png
 - Assets/AssetBundleResources/Animators/Canvas/PhantomLancer.controller
-- Assets/AssetBundleResources/Sprites/Equips/UnyieldingRing.png
+- Assets/AssetBundleResources/Sprites/Equips/CalamityTome.png
 - Assets/AssetBundleResources/Sprites/Monsters/IceWidow.png
 - Assets/AssetBundleResources/Animators/Monsters/AstralGolem.overrideController
 - Assets/AssetBundleResources/Animators/Projectiles/Wind.controller
 - Assets/AssetBundleResources/Animators/Monsters/SparkBot.overrideController
 - Assets/AssetBundleResources/Sprites/Monsters/UndeadHarpy.png
 - Assets/AssetBundleResources/Sprites/Runes/FlameRuneUR.png
+- Assets/AssetBundleResources/Animators/Canvas/AquaNemesis.controller
 - Assets/AssetBundleResources/Sprites/Monsters/GearHopper.png
 - Assets/AssetBundleResources/Sprites/Equips/ThousandStrikeRing.png
 - Assets/AssetBundleResources/Animators/Monsters/SlimeCannon.overrideController
@@ -451,6 +452,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Items/WoodChest.png
 - Assets/AssetBundleResources/Sprites/Runes/FortressRuneEX.png
 - Assets/AssetBundleResources/Sprites/Monsters/Hellpaia.png
+- Assets/AssetBundleResources/Animators/Canvas/AquaNemesis_Idle.anim
 - Assets/AssetBundleResources/Animators/Projectiles/Dark_Idle.anim
 - Assets/AssetBundleResources/Sprites/Monsters/BigSlime.png
 - Assets/AssetBundleResources/Animators/Monsters/GoblinShaman.overrideController
