@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2334053661
+CRC: 4193203389
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9f869147fd0a88f04a5241986c850710
+    Hash: 9d5e68f313e583a1421362f30228ac09
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9f869147fd0a88f04a5241986c850710
+    Hash: 9d5e68f313e583a1421362f30228ac09
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -401,6 +401,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/WaterTornado.prefab
 - Assets/AssetBundleResources/Sprites/Equips/IronShield.png
 - Assets/AssetBundleResources/Sprites/Runes/DarkRuneEX.png
+- Assets/AssetBundleResources/Animators/Canvas/EmberWisp.controller
 - Assets/AssetBundleResources/Sprites/Equips/IronBreastplate.png
 - Assets/AssetBundleResources/Sprites/Monsters/NecroSlime.png
 - Assets/AssetBundleResources/Prefabs/Skills/DragonProtection.prefab
@@ -409,6 +410,7 @@ Assets:
 - Assets/AssetBundleResources/Animators/Monsters/Draphin.overrideController
 - Assets/AssetBundleResources/Animators/Canvas/Hellpaia_Idle.anim
 - Assets/AssetBundleResources/Prefabs/Skills/DominateChain.prefab
+- Assets/AssetBundleResources/Animators/Canvas/NecroSlime_Idle.anim
 - Assets/AssetBundleResources/Sprites/Monsters/Florage.png
 - Assets/AssetBundleResources/Animators/Canvas/CrimsonMask.controller
 - Assets/AssetBundleResources/Sprites/Items/SummonStoneDungeonKey.png
@@ -418,8 +420,9 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Equips/RaijinAxe.png
 - Assets/AssetBundleResources/Sprites/Monsters/SaintRobe.png
 - Assets/AssetBundleResources/Animators/Monsters/ElderWood.overrideController
-- Assets/AssetBundleResources/Sprites/Runes/FlameRuneSR.png
+- Assets/AssetBundleResources/Animators/Canvas/NecroSlime.controller
 - Assets/AssetBundleResources/Animators/Monsters/AquaNemesis.overrideController
+- Assets/AssetBundleResources/Sprites/Runes/FlameRuneSR.png
 - Assets/AssetBundleResources/Prefabs/Skills/AttackBoost.prefab
 - Assets/AssetBundleResources/Sprites/RunesBK/ElementRune.png
 - Assets/Resources/Prefabs/Effects/DeathEffectPrefab.prefab
@@ -501,6 +504,7 @@ Assets:
 - Assets/AssetBundleResources/Sprites/Runes/LifestealRuneUR.png
 - Assets/AssetBundleResources/Prefabs/Skills/Concentration.prefab
 - Assets/AssetBundleResources/Sprites/Runes/FortressRuneR.png
+- Assets/AssetBundleResources/Animators/Canvas/EmberWisp_Idle.anim
 - Assets/AssetBundleResources/Animators/Monsters/SaintRobe.overrideController
 - Assets/AssetBundleResources/Sprites/RunesBK/PlantRuneEX.png
 - Assets/AssetBundleResources/Animators/Projectiles/Ray_Idle.anim
