@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2326353207
+CRC: 2110560585
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3f44178dcc7bcef3ec3449346dcf8668
+    Hash: 2087c5fe026339da3a08b898c4dfc63e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2276cafe28e11bbdc08133b19b966d28
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3f44178dcc7bcef3ec3449346dcf8668
+    Hash: 2087c5fe026339da3a08b898c4dfc63e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -431,7 +431,7 @@ Assets:
 - Assets/AssetBundleResources/Prefabs/Skills/BlackHeartbeat.prefab
 - Assets/AssetBundleResources/Sprites/Items/DescentDungeonKey.png
 - Assets/AssetBundleResources/Prefabs/Skills/WolfBlaze.prefab
-- Assets/AssetBundleResources/Sprites/Items/Loot_147_ver.png
+- Assets/AssetBundleResources/Sprites/Items/RuneDungeonKey.png
 - Assets/AssetBundleResources/Sprites/Monsters/Slime.png
 - Assets/AssetBundleResources/Sprites/RunesBK/DemonRune.png
 - Assets/AssetBundleResources/Animators/Projectiles/Ray.png
